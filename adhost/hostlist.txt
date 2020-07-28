@@ -1,4 +1,4 @@
-# FlareBrow DNS Admob and Malware blocking list (2020-07-28 23:45:08)
+# FlareBrow Admob and Malware Host list (2020-07-28 23:45:08)
 101com.com
 101order.com
 123found.com
