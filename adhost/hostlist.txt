@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-07-28 23:45:08)
+# FlareBrow Admob and Malware Host list (2020-07-30 00:01:39)
 101com.com
 101order.com
 123found.com
@@ -167684,3 +167684,9 @@ prosper.on-line-casino.ca
 rads.alfamedia.pl
 revive.haskovo.net
 track.tkbo.com
+acid-adserver.click
+ad.allboxing.ru
+adserver.ariase.org
+adserver.madeby.ws
+adserver.pampa.com.br
+analytics.xelondigital.com
