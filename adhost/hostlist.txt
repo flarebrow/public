@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-02 00:01:22)
+# FlareBrow Admob and Malware Host list (2020-08-03 00:01:49)
 101com.com
 101order.com
 123found.com
@@ -169407,3 +169407,4 @@ xingfa.storeminhduong.com
 ybvoc9qoo.com
 yumiwong.com
 z7rflq080.com
+stalesummer.com
