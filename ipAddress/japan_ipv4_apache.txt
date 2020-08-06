@@ -1059,6 +1059,7 @@ allow from 103.153.26.0/23
 allow from 103.153.204.0/23
 allow from 103.153.206.0/23
 allow from 103.154.6.0/23
+allow from 103.154.42.0/24
 allow from 103.192.68.0/22
 allow from 103.192.120.0/22
 allow from 103.192.148.0/22
