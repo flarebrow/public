@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-11 00:01:46)
+# FlareBrow Admob and Malware Host list (2020-08-12 00:01:47)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -70314,6 +70314,7 @@ finecut.pl
 fined4sd.000webhostapp.com
 finehardwoodfurniture.com.au
 finen.voluumtrk.com
+fineoffer.net
 fineprinters.co.uk
 finest-distance.000webhostapp.com
 finestportfolioideas.com
