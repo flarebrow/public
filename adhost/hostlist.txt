@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-12 00:01:47)
+# FlareBrow Admob and Malware Host list (2020-08-13 00:01:43)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -70860,6 +70860,7 @@ flvmoviesdownloader.com
 flvyh.voluumtrk.com
 flw.ero-advertising.com
 flx367.lporirxe.com
+fly-analytics.com
 fly-by-night-dolly.000webhostapp.com
 fly-project.net
 fly2the3home.com
@@ -135370,6 +135371,7 @@ tracking.ladies.de
 tracking.lay-ota.fr
 tracking.layo-ta.fr
 tracking.leadlander.com
+tracking.lenddom.com
 tracking.lengow.com
 tracking.lenzmx.com
 tracking.lifescript.com
