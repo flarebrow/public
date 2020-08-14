@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-14 00:01:27)
+# FlareBrow Admob and Malware Host list (2020-08-15 00:00:51)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -90501,6 +90501,7 @@ leanmobi.fusetracking.com
 leannedejongfotografie.nl
 leannewaller.com
 leanoisgo.com
+leanproconsulting.com.br
 leanproduction.sk
 leap.aacu.org
 leapfind.com
