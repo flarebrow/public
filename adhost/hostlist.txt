@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-17 00:01:19)
+# FlareBrow Admob and Malware Host list (2020-08-18 00:01:21)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -110164,6 +110164,7 @@ pge-ltd.com
 pge.unityads.unity3d.com
 pgebok.com
 pginludhiana.com
+pgl.example.com
 pgl.example0101
 pgmediaserve.com
 pgnig-24.pl
