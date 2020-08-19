@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-19 00:01:04)
+# FlareBrow Admob and Malware Host list (2020-08-20 00:01:19)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -79562,6 +79562,7 @@ hollisteroutletpolska.pl
 hollistersklep.com
 hollisterwarszawa.pl
 hollowshake.com
+hollps.win
 hollymatthewsmakeup.co.uk
 hollyrude.us.intellitxt.com
 hollywood.122.2o7.net
@@ -110715,6 +110716,7 @@ pilmedia.ads.visionweb.no
 pilnasprawa.hekko24.pl
 pilnesprawy.h2g.pl
 pilot.civicscience.com
+pilotaffiliate.com
 pilotenespel.gq
 pilotmovies.pl
 pim14uwcgivjdw8esf8u.mbservicesyorkshire.co.uk
