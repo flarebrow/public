@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-21 00:00:57)
+# FlareBrow Admob and Malware Host list (2020-08-22 00:01:22)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -48189,6 +48189,7 @@ c.securepaths.com
 c.setterlistjob.biz
 c.sexcounter.com
 c.sg.msn.com
+c.sharethis.mgr.consensu.org
 c.silvinst.com
 c.smartclick.net
 c.snnd.co
@@ -59450,6 +59451,7 @@ d3dkhq0wwdwodv.cloudfront.net
 d3emsmln8xfj03.cloudfront.net
 d3fd89.r.axf8.net
 d3hmb5h5qngs7g.cloudfront.net
+d3ithbwcmjcxl7.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
 d3kkw-6ch3c.ads.tremorhub.com
 d3l3lkinz3f56t.cloudfront.net
@@ -63667,6 +63669,7 @@ dpu.samsungelectronics.com
 dpupr.lomboktengahkab.go.id
 dpw.co.id
 dq.afsanjuan.org.ar
+dq3yxnlzwhcys.cloudfront.net
 dq95d35.com
 dqemqcbxgofddopclb.com
 dqmtsa.myjino.ru
@@ -97050,6 +97053,7 @@ mediamayhemcorp.com
 mediametrics.mpsa.com
 mediamgr.ugo.com
 mediamind.com
+mediamodern.biz
 mediamond.nuggad.net
 mediamundionline.com
 median.hu
@@ -112223,6 +112227,7 @@ podbiegi.pl
 podbykiem.pl
 podcampingireland.com
 podcast.harvestlight.org
+podcast.svenskafans.com
 poddarprofessional.com
 podgladacze.5v.pl
 podgladfacebokaa.blogspot.com
@@ -122235,6 +122240,7 @@ sdc2.sakura.ad.jp
 sdc8prod1.wiley.com
 sdcchq.com
 sdcexecs.us.intellitxt.com
+sdcswingers.online
 sdcurepge.000webhostapp.com
 sdeposito.com.br
 sdewz.xyz
@@ -122866,6 +122872,7 @@ secure-uat2.imrworldwide.com
 secure-uk.imrworldwide.com
 secure-unitedonline.cleanprint.net
 secure-update.techmines.cl
+secure-upgrade.com
 secure-us.imrworldwide.com
 secure-validaton.com.sicconingenieros.com
 secure-wbw.imrworldwide.com
@@ -140991,6 +140998,7 @@ uservoice.com
 userwebassistance.000webhostapp.com
 useslithogra.xyz
 usesoapstone.com
+useurmind.com
 usevideo.adsrvr.org
 ush.adspecs.yahoo.com
 ushelpwow.net
