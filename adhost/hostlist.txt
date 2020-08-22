@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-22 00:01:22)
+# FlareBrow Admob and Malware Host list (2020-08-23 00:01:21)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -3689,6 +3689,7 @@
 6qhzz.allvideos.keme.info
 6qtbr.voluumtrk.com
 6r2uvllu.com
+6sc.co
 6server.com
 6ssaintandeer-servicios18n.com
 6ssaintandeer-servicios3n.com
@@ -49691,6 +49692,7 @@ caue971.org
 caulfieldshule.com.au
 causasdeamor.com
 causeandfx.com
+causecherry.com
 cauvip79.com
 cavalcadeproductions.com
 cavaliersales.com
