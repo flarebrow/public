@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-23 00:01:21)
+# FlareBrow Admob and Malware Host list (2020-08-25 00:00:04)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -35715,6 +35715,7 @@ app.t-ad.co.kr
 app.toopfacebook2.xyz
 app.ubertags.com
 app.unbounce.com
+app.upee.online
 app.vayron.cc
 app.wapx.cn
 app.whenu.com
@@ -140421,6 +140422,7 @@ updplhzaag1rc8wlbycuca.download
 updt-secure-alert.rccgcanada.org
 updtdelacccinformatid82378uduzd23387aseodl23784.atdmaintenance.com.au
 updtenet2019.com
+upee.online
 upendigroup.com
 upepoeiw.co
 upepoeiw.pro
@@ -141388,6 +141390,7 @@ vads.net.vn
 vads.vn
 vadyur.github.io
 vaeqpu.329263.com
+vaes.amazon-adsystem.com
 vagrantcafe.com
 vahan24.in
 vahidfoundation.org
