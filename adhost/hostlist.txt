@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-25 00:00:04)
+# FlareBrow Admob and Malware Host list (2020-08-26 00:01:19)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -103453,6 +103453,7 @@ newsinteractive.112.2o7.net
 newsinternational.122.2o7.net
 newsite.ahlgrens.se
 newsleter.you2.pl
+newsletter-link.com
 newsletter.adsonar.com
 newsletter.assosport.it
 newsletter.linkshare.com
