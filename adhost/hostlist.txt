@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-27 00:01:31)
+# FlareBrow Admob and Malware Host list (2020-08-28 00:01:25)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -26680,6 +26680,7 @@ ads.zedo.com
 ads.zepterads.com
 ads.zeusclicks.com
 ads.zitaholdings.com
+ads.zmarsa.com
 ads.zone-media.com
 ads.zone-x.com
 ads.ztod.com
@@ -28815,6 +28816,7 @@ adsfac.us.21367.9125.302br1366.9125.302br.net
 adsfac.us.24349.9125.302br.net
 adsfac.us.302br.net
 adsfast.com
+adsfeed.brabys.com
 adsfeed3.brabys.co.za
 adsfexd19.xyz
 adsfile.qq.com
@@ -38602,6 +38604,7 @@ awa-beauty.ru
 awaelschool.com
 awaf.answers.nielsen.com
 awaisjuno.net
+awakebird.com
 awakeningthenations.com
 awaps.yandex.ru
 award.sitekeuring.net
@@ -130887,6 +130890,7 @@ stephens-laughlin.com
 stephwardfashion.com
 stepnation.com
 steppingstonehorsefarm.com
+stepplane.com
 stepstone.112.2o7.net
 ster.2cnt.net
 stercy.website
