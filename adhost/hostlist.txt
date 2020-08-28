@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-28 00:01:25)
+# FlareBrow Admob and Malware Host list (2020-08-29 00:01:18)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -23903,6 +23903,7 @@ ads.4rati.lv
 ads.4tube.com
 ads.51.net
 ads.5ci.lt
+ads.5min.at
 ads.6agenten.dk
 ads.73dpi.com
 ads.7days.ae
@@ -24081,6 +24082,7 @@ ads.ak.facebook.com.edgesuite.net
 ads.akademika.bg
 ads.al.com
 ads.albawaba.com
+ads.alive.com
 ads.all-free-download.com
 ads.allaboutvision.com
 ads.allaccess.com.ph
@@ -24111,6 +24113,7 @@ ads.amusive.com
 ads.androworks.org
 ads.angop.ao
 ads.anm.co.uk
+ads.annabac.com
 ads.antionline.com
 ads.ants.vn
 ads.anvato.com
@@ -24203,6 +24206,7 @@ ads.battle.net
 ads.bauerpublishing.com
 ads.baventures.com
 ads.baz.ch
+ads.bb59.ru
 ads.bbcworld.com
 ads.bcnewsgroup.com
 ads.bcsyndication.com
@@ -24392,6 +24396,7 @@ ads.cinemaden.com
 ads.cineville.nl
 ads.citenkomedia.com
 ads.city24.ee
+ads.citymagazine.si
 ads.cjonline.com
 ads.clamav.net
 ads.clanservers.com
@@ -107605,6 +107610,7 @@ openx.adveraction.pl
 openx.ajur.info
 openx.angelsgroup.org.uk
 openx.anonymouse.org
+openx.aosis.co.za
 openx.apollo.lv
 openx.archerytalk.com
 openx.automation.com
@@ -107641,6 +107647,7 @@ openx.iamexpat.nl
 openx.imoti.net
 openx.innogames.de
 openx.itsmassive.com
+openx.kgmedia.eu
 openx.kokoma.pl
 openx.mercatormedia.com
 openx.nagrzyby.pl
@@ -107654,6 +107661,7 @@ openx.sales.e.fc2.com
 openx.sexsearch.com
 openx.sexsearchcom.com
 openx.shinyads.com
+openx.skinet.cz
 openx.smcaen.fr
 openx.socialsex.biz
 openx.stand.bg
@@ -107673,6 +107681,7 @@ openx.youmeet.se
 openx2-match.dotomi.com
 openx2.fashion.bg
 openx2.fotoflexer.com
+openx2.kytary.cz
 openx4.emag.ro
 openxadmin.inviziads.com
 openxenterprise.com
