@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-08-29 00:01:18)
+# FlareBrow Admob and Malware Host list (2020-09-01 00:01:11)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -30488,6 +30488,7 @@ aehezi.cn
 aehistory.112.2o7.net
 aeht9.voluumtrk.com
 aeii.net
+aeiinkraro5.live
 aeinvest.com.vn
 aelbkm.com
 aelogica.com
@@ -43940,6 +43941,7 @@ bnlhh.co.uk
 bnmgr.adinjector.net
 bnmhg.com
 bnmintl.com
+bnmjjwinf292.com
 bnmla.com
 bnmq.com
 bnnrrv.qontentum.de
