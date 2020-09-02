@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-09-01 00:01:11)
+# FlareBrow Admob and Malware Host list (2020-09-03 00:01:03)
 0.easymedia2.com
 0.laomaotaowinpe.com
 0.nextyourcontent.com
@@ -97219,6 +97219,7 @@ media49.fastclick.net
 media5.admicro.vn
 media5.adrealclick.com
 media5.fastclick.net
+media5.fc2.com
 media5.popmarker.com
 media5.sitebrand.com
 media50.fastclick.net
