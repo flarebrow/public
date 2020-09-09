@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-09-09 00:00:59)
+# FlareBrow Admob and Malware Host list (2020-09-10 00:01:23)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -67543,6 +67543,7 @@ enom.dmtracker.com
 enoratraffic.com
 enormo.pl
 enormon.ga
+enormousearth.com
 enosso.com.br
 enote.xyz
 enotecaviola.vpsrm.com
