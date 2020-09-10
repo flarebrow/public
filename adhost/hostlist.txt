@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-09-10 00:01:23)
+# FlareBrow Admob and Malware Host list (2020-09-11 00:01:20)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -93880,6 +93880,8 @@ logs.aiya.com.cn
 logs.cafewell.com
 logs.comics.com
 logs.dashlane.com
+logs.datadoghq.com
+logs.datadoghq.eu
 logs.eresmas.com
 logs.eresmas.net
 logs.gaana.com
