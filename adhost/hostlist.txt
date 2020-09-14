@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-09-11 00:01:20)
+# FlareBrow Admob and Malware Host list (2020-09-15 00:01:20)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -134362,6 +134362,7 @@ target-talent.com
 target.122.2o7.net
 target.cm
 target.e-generator.com
+target.microsoft.com
 target.net.finam.ru
 target.smi2.net
 target.untd.com
