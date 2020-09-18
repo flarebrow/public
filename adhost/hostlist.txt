@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-09-16 00:01:03)
+# FlareBrow Admob and Malware Host list (2020-09-19 00:01:22)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -137165,6 +137165,7 @@ tidbitscom.skimlinks.com
 tidd.ly
 tidebuy.com
 tidewatermech.com
+tidint.pro
 tidyup.company
 tie.247-inc.net
 tie.iprom.net
