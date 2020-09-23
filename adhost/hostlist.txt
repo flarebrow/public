@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-09-22 00:01:40)
+# FlareBrow Admob and Malware Host list (2020-09-24 00:01:15)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -74478,6 +74478,7 @@ futurovision.com
 fuuze.net
 fuviseni.angelfire.com
 fuzzy-pole.000webhostapp.com
+fuzzybasketball.com
 fuzzybeauty.com
 fuzzyflavor.com
 fuzzyweather.com
