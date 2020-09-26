@@ -8,6 +8,8 @@ hostlist.txt → ホスト名の一覧です。煮るなり焼くなりどうぞ
 # **ipAddress**
 
 日本のIPアドレスの一覧をおいています。今後いろいろ追加する予定\
+japan_ipv4.txt → 日本で使用されているIPv4の一覧です。\
+japan_ipv4_apache.txt → 日本からのアクセスのみ許可するApache用の設定です。\
 ※自動更新
 
 # **その他**
