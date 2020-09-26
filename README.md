@@ -15,5 +15,5 @@ japan_ipv4_apache.txt → 日本からのアクセスのみ許可するApache用
 # **その他**
 
 いろいろ追加していく予定\
-Twitterで更新状況を通知するようにしました！
+Twitterで更新状況を通知するようにしました！\
 https://twitter.com/flarebrow
