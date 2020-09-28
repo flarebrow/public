@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-09-28 00:00:54)
+# FlareBrow Admob and Malware Host list (2020-09-29 00:01:26)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -29561,6 +29561,7 @@ adv.marica.bg
 adv.medicine.bg
 adv.medscape.com
 adv.merlin.co.il
+adv.mezon.ru
 adv.mobsmart.net
 adv.musixmatch.com
 adv.mxmcdn.net
