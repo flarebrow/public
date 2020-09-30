@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-09-29 00:01:26)
+# FlareBrow Admob and Malware Host list (2020-10-01 00:01:20)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -107806,6 +107806,7 @@ odaiw3dda.bestnewsworld.info
 odb-chidc2.outbrain.com
 odb.outbrain.com
 odbieramy-karty.24.eu
+odbierz-bony.ovp.pl
 odbierz-paysafecard.ujm.pl
 odbierzdarmowedoladowanie.wordpress.com
 odbierzkod.pl
