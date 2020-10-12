@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-10-10 00:00:58)
+# FlareBrow Admob and Malware Host list (2020-10-13 00:01:34)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -45670,6 +45670,7 @@ boomrent.pl
 boomtrain.com
 boonwurrung.org.au
 boost-my-pr.de
+boost-next.co.jp
 boost.mobileposse.com
 boostads.net
 boosterclubfoods.com
@@ -66708,6 +66709,7 @@ effectionothere.site
 effectivebrand.com
 effectivemeasure.com
 effectivemeasure.net
+effectstorestream8.live
 effexor-xr.1.p2l.info
 efficaciouscactus.com
 efficiencyempregos.com.br
@@ -78272,6 +78274,7 @@ grahamkennedy.ca
 grahamsmithsurfboards.co.uk
 grahapacific.co.id
 grainsperger.de
+graizoah.com
 gramadocargoexpress.com.br
 grammarly.go2cloud.org
 gramombird.com
@@ -125502,6 +125505,7 @@ searchhippo.mygeek.com
 searchhub.club
 searchignited.com
 searchinaflash.com
+searching-place.com
 searchingresult.com
 searchinquire.com
 searchl.media.net
