@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-10-13 00:01:34)
+# FlareBrow Admob and Malware Host list (2020-10-14 00:01:23)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -143501,6 +143501,7 @@ universalshipchandlers.com
 universalsoulspa.com
 universaltrad.co.uk
 universalwallpaper.com
+universcine.com
 universe.send.microad.jp
 universediamond.com
 universesearches.com
