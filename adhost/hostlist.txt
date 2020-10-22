@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-10-21 00:01:35)
+# FlareBrow Admob and Malware Host list (2020-10-23 00:01:24)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -22143,6 +22143,7 @@ ad9m.adk2.co
 ada-avto.ru
 ada-ware.com
 adaboya.com.tr
+adabra.com
 adabus.it
 adac02.webtrekk.net
 adacado.com
@@ -46365,6 +46366,7 @@ breakers.tv
 breakingnews.comano.us
 breakmediadigital.checkm8.com
 breakthroughtrend.com
+breaktime.com.tw
 brealtime.com
 breathbodyearth.com
 breatin.ga
@@ -54325,6 +54327,7 @@ clickwith.bi
 clickwith.bid
 clickwith.date
 clickxchange.com
+clickyab.com
 clickz.com
 clickz.lonelycheatingwives.com
 clickz.pushcrew.com
@@ -63305,6 +63308,7 @@ digitalwebcastillo.com
 digitalxpressions.ca
 digitauact.sslblindado.com
 digitechmediasolutions.in
+digitiminimi.com
 digitrack.go2cloud.org
 digitrendsafrica.com
 digitru.st
@@ -64643,6 +64647,7 @@ doubledog.nl
 doubleevery.net
 doublepimp.com
 doublepimpads.com
+doubleverify.com
 doubleviking.us.intellitxt.com
 doublewq.com
 doubleyourdating.directtrack.com
