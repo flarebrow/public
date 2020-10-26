@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-10-23 00:01:24)
+# FlareBrow Admob and Malware Host list (2020-10-27 00:00:59)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -5132,6 +5132,7 @@ a811dc1d0d0f44e31780bcb0996d506e.ulink.adjust.com
 a85.info
 a85tt.com
 a885.ac-images.myspacecdn.com
+a8a8altrk.com
 a9.com
 a94.info
 a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
@@ -61248,6 +61249,7 @@ data66.adlooxtracking.com
 data67.adlooxtracking.com
 data68.adlooxtracking.com
 data81.adlooxtracking.com
+data8a8altrk.com
 data9.econa.com
 dataapi.ktplay.com
 dataasmierci.blogspot.com
@@ -141850,6 +141852,7 @@ tracker.buscape.com.br
 tracker.calameo.com
 tracker.cdn-analytics.host
 tracker.cdn-us-doubleverify.com
+tracker.cdnbye.com
 tracker.cds-tracking.com
 tracker.celebtaboo.com
 tracker.cgiworld.net
@@ -147456,6 +147459,7 @@ videospokesmanpro.com
 videossources.com
 videostat-new.index.hu
 videostat.index.hu
+videostats.kakao.com
 videostore.gammae.com
 videostrip.2cnt.net
 videoterbaru2-2015.3eeweb.com
