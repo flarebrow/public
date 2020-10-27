@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-10-27 00:00:59)
+# FlareBrow Admob and Malware Host list (2020-10-28 00:01:03)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -143035,6 +143035,7 @@ trk.apperol.com
 trk.atdmt.com
 trk.athistraff.com
 trk.atomex.net
+trk.bee-data.com
 trk.blamads.com
 trk.bluetrackmedia.com
 trk.brother-root-rich-of.xyz
