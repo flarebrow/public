@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-10-30 00:00:56)
+# FlareBrow Admob and Malware Host list (2020-11-01 00:01:05)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -101324,6 +101324,7 @@ merciless.localstars.com
 mercosat.com.br
 mercsystems.com
 mercury.bravenet.com
+mercury.dnitv.com
 mercury.tiser.com.au
 mercuryo.co.com
 mercy.ga
