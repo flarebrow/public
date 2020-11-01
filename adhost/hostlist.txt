@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # FlareBrow Admob and Malware Host list (2020-11-01 00:01:05)
+=======
+# FlareBrow Admob and Malware Host list (2020-11-01 00:01:32)
+>>>>>>> a7d51ed7d400876ec5af68a2bf0f06ad110d1382
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
