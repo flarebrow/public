@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-11-03 00:01:27)
+# FlareBrow Admob and Malware Host list (2020-11-04 00:01:28)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -83815,6 +83815,7 @@ honolulu.app.ur.gcion.com
 honor-ego.in
 honor-share.com
 honor.agitaattori.fi
+honorablehall.com
 honorableland.com
 honouncil.info
 honourableud.top
@@ -92521,6 +92522,7 @@ kamasutra.popunder.ru
 kambizkhalafi.ir
 kamcoia.net
 kameesh.pl
+kameleoon.com
 kameliya.dn.ua
 kamenschool.ru
 kamerreklam.com.tr
@@ -150394,6 +150396,7 @@ vcm.oewabox.at
 vcom.go2cloud.org
 vcomdeepdiscount.112.2o7.net
 vcommerce.112.2o7.net
+vcommission.com
 vcontacte.pe.hu
 vcontent.e-messenger.net
 vcore.connatix.com
@@ -155830,6 +155833,7 @@ vweb06.nitrado.hosting
 vweb11.nitrado.hosting
 vweb16.nitrado.hosting
 vweb20.nitrado.hosting
+vwo.com
 vwofdq.com
 vwr1.hitbox.com
 vwr2.hitbox.com
@@ -156774,6 +156778,7 @@ web-olymp.ru
 web-online.pl
 web-pit-shop.xyz
 web-push-api.urbanairship.com
+web-redirecting.com
 web-revolution.it
 web-sdk.control.kochava.com
 web-sdk.urbanairship.com
