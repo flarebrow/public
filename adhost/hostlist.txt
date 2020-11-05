@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-11-05 00:00:55)
+# FlareBrow Admob and Malware Host list (2020-11-06 00:01:22)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -97482,6 +97482,7 @@ locked-account-activity.com
 locked-cloud-appleid-srvc-cgi-id1.com
 locked-n-erbalist.com
 locked3.com
+locked4.com
 lockedservice-app1e.com
 lockerdome.com
 lockergnome.us.intellitxt.com
