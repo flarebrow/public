@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-11-06 00:01:22)
+# FlareBrow Admob and Malware Host list (2020-11-07 00:01:28)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -73018,6 +73018,7 @@ fast-lost4tmz.world
 fast-mac-upp.com
 fast-movies-online.com
 fast-online-refills.com
+fast-redirecting.com
 fast-rescure.com
 fast-route.com
 fast.a.klaviyo.com
@@ -114362,6 +114363,7 @@ ox.pigu.lt
 ox.stardoll.com
 ox.tossoffads.com
 ox.videobuster.de
+ox1.shopcool.com.tw
 ox1.vietstock.vn
 ox2.myadslanding.net
 ox2.sterta.pl
@@ -146057,6 +146059,7 @@ traffic-hits.com
 traffic-info-service.info
 traffic-offers.com
 traffic-optical-service.info
+traffic-redirecting.com
 traffic-service.info
 traffic-staff.com
 traffic-stats.streamsolutions.co.uk
