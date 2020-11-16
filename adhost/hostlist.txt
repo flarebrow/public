@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-11-16 00:00:55)
+# FlareBrow Admob and Malware Host list (2020-11-17 00:01:18)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -1292,6 +1292,7 @@
 1nl.cqcounter.com
 1no.cqcounter.com
 1nojavan.com
+1npost.net
 1nv0ic3r3plyn0wp4ym3nts3cur3.t-l-z-s-m.net
 1nvrm.voluumtrk.com
 1o26.com
@@ -31987,6 +31988,7 @@ airbnb.com.westpeak.ca
 airbnbportal.atwebpages.com
 airbnbwt.beget.tech
 airboomnano.com
+airborne.pw
 airborneclub.com
 airbrake-github.airbrake.io
 airbrake-gitlab.airbrake.io
@@ -32616,6 +32618,7 @@ alfabetnieruchomosci.pl
 alfabrasil.com.br
 alfache.com
 alfacrewing.lt
+alfainjaz.si
 alfalahmarketing.com
 alfalaival.com
 alfalakgifts.com
@@ -35822,6 +35825,7 @@ api.d.xiaomi.com
 api.dable.io
 api.data.sentinel.mob.com
 api.datadoghq.com
+api.datatrics.com
 api.decibelinsight.net
 api.deep-ad.com.edgekey.net
 api.demandbase.com
@@ -36173,6 +36177,8 @@ api.zedo.com
 api.zhaimob.com
 api.zhy333.com
 api.zwizzarmyknife.com
+api03.datatrics.com
+api04.datatrics.com
 api1.4-fusion.com
 api1.intellicontact.com
 api1.thesearchagency.net
@@ -36533,6 +36539,7 @@ app.crittercism.com
 app.crowdscience.com
 app.cxrus.com
 app.datafastguru.info
+app.datatrics.com
 app.datorama.com
 app.desktop.ak-networks.com
 app.districtweb.ca
@@ -39870,6 +39877,7 @@ ayttm.nl
 aytunmbagbeki.xyz
 ayudastecnicas.com
 ayur-herbal.com
+ayurbella.in
 ayurjoy.com
 ayurlin.com
 ayurvedabeyond.com
@@ -63982,6 +63990,7 @@ designdapur.com
 designer.dynamic-dns.net
 designercabochons.co.uk
 designerdogwear.com
+designerliving.co.za
 designgraphic.pl
 designhack.zenback.jp
 designisaverb.co
@@ -65228,6 +65237,7 @@ dkjasfdkfbawefhafhafjakejkegbawjgkjawgew.tk
 dkjlife.hk
 dklmgdmadrasha.edu.bd
 dkonline.ivwbox.de
+dkonto.dkonto.pl
 dkoo11.com
 dkpartners.backstopsolutions.com
 dkpost-a.top
@@ -68380,6 +68390,7 @@ ecombizz.com
 ecomcon.go2cloud.org
 ecomediasmusicales.com.ar
 ecomission.com.au
+ecommerce.datatrics.com
 ecommerce.go2cloud.org
 ecommerce.iap.unity3d.com
 ecommerce.roboinside.me
@@ -69454,6 +69465,7 @@ elevensportsonline.blogspot.com
 elevforeningen.dk
 elew72isst.rr.nu
 elf.box.sk
+elfemocomputers.com
 elfogadom.eu
 elfqrin.tk
 elfredamommy.com
@@ -85443,6 +85455,7 @@ i2.crtcdn.net
 i2.current.com
 i2.gatewayinterface.com
 i2.myapkcdn.in
+i24.dfirma.pl
 i2ad.jp
 i2i.com
 i2i.jp
@@ -86857,6 +86870,7 @@ images.comscore.com
 images.conduit-banners.com
 images.cybereps.com
 images.dable.io
+images.datatrics.com
 images.ddc.com
 images.dentalplans.com
 images.dicu4v.biz
@@ -97106,6 +97120,7 @@ link.alvilink.com
 link.bannersystem.cz
 link.bcnmonetize.com
 link.connectoffer.com
+link.datatrics.com
 link.decideinteractive.com
 link.email.dynect.net
 link.fixuppropertysolutions.com
@@ -100308,6 +100323,7 @@ magellen.com
 magentanews.com
 magento-analytics.com
 magento-marketplace.ir
+magento01.datatrics.com
 magentoassist.nl
 magentofa.com
 magentory.com
@@ -101745,6 +101761,7 @@ mauribiz.mu
 mauriciosinjuicio.com
 maurobb.freecounter.it
 mautic.com
+mautic.datatrics.com
 mautic.eto-cms.ru
 mave.icksv2.nl
 maven-aviation.com
@@ -109229,6 +109246,7 @@ network.bemyapp.com
 network.bildderfrau.de
 network.business.com
 network.clickconversion.net
+network.datatrics.com
 network.dsidemarketing.com
 network.gofeminin.de
 network.innity.com
@@ -112230,6 +112248,7 @@ oddaj-glosy.eu
 oddaj-kampania.eu
 oddajmy-glosujmy.eu
 oddajmy-sprawdz.eu
+oddam-kotki17.microhost.com.pl
 oddam-yorki.dfirma.pl
 oddawajrozdzke.pl
 oddbanner.bet-at-home.com
@@ -112896,12 +112915,14 @@ olx.informacja-pl.info
 olx.oplata-is.com
 olx.pl-id202011-order.site
 olx.pl-id2046801-order.ru
+olx.pl-oferta.com
 olx.pl-oferta.info
 olx.pl-oferta.online
 olx.pl-offerta.pro
 olx.pl-order.info
 olx.pl.delivery-pays.pw
 olx.pl.dostawa.pw
+olx.pl.informacija.club
 olx.pl.obyalvenyie.shop
 olx.pl.obyavlenije.com
 olx.pl.oferta-pay.cyou
@@ -112909,6 +112930,7 @@ olx.pl.oferta-pay.icu
 olx.pl.oferta.cyou
 olx.pl.oferta.icu
 olx.pl.oferta.kim
+olx.pl.oferta.press
 olx.pl.oferta.pw
 olx.pl.oferto.info
 olx.pl.personpay.info
@@ -112926,8 +112948,10 @@ olxpl-d.openx.net
 olxpl-oplata.online
 olxpl-order.online
 olxpl-order.site
+olxpl-pays.online
 olxpl.3ds.website
 olxpl.3dsecurity.info
+olxpl.co
 olxpl.eu
 olxpl.online
 olxpl.org
@@ -117993,6 +118017,7 @@ pila-dziedzictwo-2017-online.5v.pl
 pilanjau-berau.desa.id
 pilard2017.fr
 pilarsanchez.com.co
+pilatescollective.com
 pilkanozna.yolasite.com
 pill-pay.com
 pillarbuilding.com.au
@@ -120042,6 +120067,7 @@ postaseacurelogin.posta.it.bancacpostas.fccauthentication.rkvvj2i5w97hn1jv5h6aba
 postback.advconversion.com
 postback.iqm.com
 postback.pointwise.co
+postbox-24.site
 postbox.mos.ru
 postchronicle.us.intellitxt.com
 postclick.adcentriconline.com
@@ -121029,6 +121055,7 @@ prodlb.backstopsolutions.com
 prodreamweb.com.my
 prodriven.in
 produceabhorrent-recrusive.site44.com
+producecopy.com
 producer.gamemorefun.net
 producer.getwisdom.io
 product-reviews.uk.intellitxt.com
@@ -123937,6 +123964,7 @@ raozantimes24.com
 rap-share.pl
 rapadurashamburguesa.com.br
 rapdirt.us.intellitxt.com
+rapidatos.pe
 rapidcounter.com
 rapiderbariyer.com
 rapidex.co.rs
@@ -136438,6 +136466,7 @@ spensa.co
 spent.com.pl
 speranza2000.com
 sperse.com
+spertotraining.com
 spesgarden.pl
 spezialreporte.de
 spgroup.com.bd
@@ -138821,6 +138850,7 @@ status.appsee.com
 status.batch.com
 status.branch.io
 status.chartboost.com
+status.datatrics.com
 status.engage.co
 status.fullstory.com
 status.kissmetrics.com
@@ -141325,6 +141355,7 @@ t7.formalyzer.com
 t7.leadlander.com
 t7.trackalyzer.com
 t70123.com
+t72.dkonto.pl
 t72876p.com
 t7rminal.pw
 t8.formalyzer.com
@@ -145532,6 +145563,9 @@ tqrxyjjezerv.info
 tqwe651qweqweqw.com
 tqypq.com
 tr-1.agilone.com
+tr-255418.datatrics.com
+tr-255768.datatrics.com
+tr-256089.datatrics.com
 tr-acikdeniz-denizbanki.com
 tr-af.com
 tr-ailesosyalpandemi-desteklerimiz.net
@@ -145550,11 +145584,14 @@ tr-gmtdmp.mookie1.com
 tr-halka-ozel-firsatlar.com
 tr-lawyers.com
 tr-metrics.loomia.com
+tr-op.datatrics.com
 tr-qnbfinansbank-enpara.com
+tr-reshift.datatrics.com
 tr-subesi-bireysel-teb.com
 tr-us.adsmoloco.com
 tr-v1.presage.io
 tr-v1.prod.cloud.ogury.io
+tr-v2.datatrics.com
 tr-ziraat.com
 tr-ziraat155yilsubesi.com
 tr-ziraatbank-bireyselesube.com
@@ -145574,6 +145611,7 @@ tr.ch.adlink.net
 tr.cloud-media.fr
 tr.colpirio.com
 tr.contextweb.com
+tr.datatrics.com
 tr.de.adlink.net
 tr.eyereturn.com
 tr.find-a.jp
@@ -146224,6 +146262,7 @@ tracker.consumerpackage.net
 tracker.coopt.com
 tracker.cztorrent.net
 tracker.databrain.com
+tracker.datatrics.com
 tracker.departapp.com
 tracker.dev.hearst.nl
 tracker.divvit.com
@@ -147086,6 +147125,7 @@ travel-insurance-quotes.beesearch.info
 travel-leisure-bonuspath.com
 travel-leisure-premiumblvd.com
 travel-solutions.co.in
+travel.datatrics.com
 travel.netster.com
 travel.travelocity.com
 travel274.com
@@ -150446,6 +150486,7 @@ users173.lolipop.jp
 usersegment.wpdigital.net
 usersessionadctivetokenguartedgrantedversionrenewbrowser0319.oxmomrzatami.com
 userstats.shopee.vn
+usersync.datatrics.com
 uservoice.com
 userwebassistance.000webhostapp.com
 useslithogra.xyz
@@ -159314,6 +159355,7 @@ winteryield.jmp9.com
 wintotal.de.intellitxt.com
 wintricksbanner.googlepages.com
 winupdate.phpnet.us
+winut.vn
 winvestments.co.uk
 winwilltech.com
 wiocha-pl.eu
@@ -159607,6 +159649,7 @@ wonderworld11.com
 wondoads.de
 woobi-eu.casalemedia.com
 wooboo.com.cn
+woocommerce01.datatrics.com
 wood-expert.net
 wood-finishers.com
 wood-m.com.ua
@@ -160922,6 +160965,7 @@ www-hellobank-fr.toulone0.beget.tech
 www-obdesign-com-tw.b.appier.net
 www-old.hugetraffic.com
 www-old.nastydollars.com
+www-olx.pl
 www-olxpl.online
 www-pb.pl
 www-s1.revcontent.com
@@ -161027,6 +161071,7 @@ www.1k-daily-profitz.com
 www.1maja18.pl
 www.1man1jar.org
 www.1man2needles.com
+www.1npost.net
 www.1priest1nun.com
 www.1priest1nun.net
 www.1q2w3.fun
@@ -165899,6 +165944,7 @@ www.djsrp.com
 www.djugoogs.com
 www.dketrade.top
 www.dkgraf.pl
+www.dkonto.dkonto.pl
 www.dl-plugin.com
 www.dladomu.biz
 www.dlagier.com
@@ -169585,6 +169631,7 @@ www.i-wiadomosci24.eu
 www.i-wydarzenia24.eu
 www.i-xzone.com
 www.i.matheranalytics.com
+www.i24.dfirma.pl
 www.i8i.eu
 www.iads.com.np
 www.iadsdirect.com
@@ -173718,6 +173765,7 @@ www.oddaj-glosy.eu
 www.oddaj-kampania.eu
 www.oddajmy-glosujmy.eu
 www.oddajmy-sprawdz.eu
+www.oddam-kotki17.microhost.com.pl
 www.oddam-yorki.dfirma.pl
 www.oddawajrozdzke.pl
 www.oddcast.com
@@ -173924,12 +173972,14 @@ www.olx.informacja-pl.info
 www.olx.oplata-is.com
 www.olx.pl-id202011-order.site
 www.olx.pl-id2046801-order.ru
+www.olx.pl-oferta.com
 www.olx.pl-oferta.info
 www.olx.pl-oferta.online
 www.olx.pl-offerta.pro
 www.olx.pl-order.info
 www.olx.pl.delivery-pays.pw
 www.olx.pl.dostawa.pw
+www.olx.pl.informacija.club
 www.olx.pl.obyalvenyie.shop
 www.olx.pl.obyavlenije.com
 www.olx.pl.oferta-pay.cyou
@@ -173937,6 +173987,7 @@ www.olx.pl.oferta-pay.icu
 www.olx.pl.oferta.cyou
 www.olx.pl.oferta.icu
 www.olx.pl.oferta.kim
+www.olx.pl.oferta.press
 www.olx.pl.oferta.pw
 www.olx.pl.oferto.info
 www.olx.pl.personpay.info
@@ -173953,8 +174004,10 @@ www.olxpl-3ds.zapls.site
 www.olxpl-oplata.online
 www.olxpl-order.online
 www.olxpl-order.site
+www.olxpl-pays.online
 www.olxpl.3ds.website
 www.olxpl.3dsecurity.info
+www.olxpl.co
 www.olxpl.eu
 www.olxpl.online
 www.olxpl.org
@@ -175356,6 +175409,7 @@ www.posing.biz
 www.post-341478.info
 www.post-990094.at
 www.postads24.com
+www.postbox-24.site
 www.postepay-verifica-online-fcs.ddns.info
 www.postergaleria.chh.pl
 www.postergaleria.pl
@@ -178379,6 +178433,7 @@ www.t2t2.com
 www.t5.ro
 www.t500track29.com
 www.t5forums.com
+www.t72.dkonto.pl
 www.ta.com.tw
 www.taba.site
 www.tabletalk.cn
@@ -184316,6 +184371,7 @@ yunopearls.com
 yunque.pluto.ro
 yunshangwl.vip
 yunusov.fr
+yunwu.sx
 yupdduk.co.kr
 yupi.md
 yuppads.com
