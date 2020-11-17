@@ -2462,6 +2462,7 @@ allow from 161.93.0.0/16
 allow from 161.94.0.0/15
 allow from 161.96.0.0/16
 allow from 161.118.0.0/16
+allow from 162.43.0.0/17
 allow from 163.42.0.0/16
 allow from 163.43.0.0/16
 allow from 163.44.0.0/18
