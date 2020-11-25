@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-11-24 00:00:54)
+# FlareBrow Admob and Malware Host list (2020-11-26 00:01:20)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -125470,6 +125470,7 @@ regularizacao-fisica-vangogh-select.000webhostapp.com
 regularizar-acesso3-mobile-app-movel.000webhostapp.com
 regularizar-celular-bbmobile-sms.000webhostapp.com
 regularneedsltd.com
+regularplants.com
 regupdate-ldentupgrade.gdn
 rehab.ru
 rehab4pets.pl
