@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-11-30 00:00:57)
+# FlareBrow Admob and Malware Host list (2020-12-01 00:01:27)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -19521,6 +19521,7 @@ ad.kau.li
 ad.keenspace.com
 ad.kewlbox.com
 ad.kickasstorrents.com
+ad.kissanime.nz
 ad.kissasian.es
 ad.koreadaily.com
 ad.kr.doubleclick.net
@@ -34372,6 +34373,7 @@ analytics.fairfax.com.au
 analytics.femalefirst.co.uk
 analytics.ff.avast.com
 analytics.findwhat.com
+analytics.fkz.re
 analytics.foresee.com
 analytics.fosrv.com
 analytics.fotoable.net
@@ -62139,6 +62141,7 @@ dabannase.com
 dabaocaigou.com
 dabar.name
 dabcc.us.intellitxt.com
+dabiaozhi.com
 dable.io
 dable.io.edgekey.net
 dabmaster.wm01.to
@@ -146883,6 +146886,7 @@ track.untd.com
 track.upaknee.com
 track.v2.sslsecure1.com
 track.vatgia.com
+track.vcdc.com
 track.viewdeos.com
 track.viralvidi.com
 track.visitorpath.com
