@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-12-04 00:01:17)
+# FlareBrow Admob and Malware Host list (2020-12-05 00:01:13)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -19945,6 +19945,7 @@ ad.uk.doubleclick.net
 ad.uk.tangozebra.com
 ad.unimhk.com
 ad.unispire.jp
+ad.universcine.com
 ad.uol.com.br
 ad.uproar.com
 ad.us.doubleclick.net
