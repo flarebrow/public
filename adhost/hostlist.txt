@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-12-10 00:01:12)
+# FlareBrow Admob and Malware Host list (2020-12-11 00:01:25)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -102361,6 +102361,7 @@ material.lionmobi.com
 material.mediav.com
 materialescantu.com
 materialmarket.net
+materialmoon.com
 matey-clinic.com
 matf1.org
 matfi.pl
@@ -123567,6 +123568,7 @@ puertovarasflyfishing.com
 pufferfiz.net
 puffnetwork.com
 puffyloss.com
+puffypaste.com
 puffypull.com
 puffypurpose.com
 pugliasounds.it
@@ -140407,6 +140409,7 @@ stickyadstv.com.edgekey.net
 stickyfingersdaycare.co.uk
 stickyholsters.bid
 stie-sbi.ac.id
+stiffgame.com
 stignita.zapto.org
 stihl-pl.com
 stiimcanmuniti.cf
@@ -149045,6 +149048,7 @@ truper.grupojenrab.mx
 trusearch.net
 trushilac.xyz
 truspace.co.za
+trust.titanhq.com
 trustadnetwork.net
 trustaffs.com
 trustarc.mgr.consensu.org
