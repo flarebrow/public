@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-12-11 00:01:25)
+# FlareBrow Admob and Malware Host list (2020-12-15 00:01:18)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -71461,6 +71461,7 @@ estudiohotmusic.com.br
 estudiokgo.com.ar
 estudiorivas.com.py
 estudioviso.es
+esty.com
 estylepublishing.com
 estylohouse.com
 estymoltravelandtours.com
@@ -98357,6 +98358,7 @@ lngbusiness-start.com
 lngstart-business.com
 lngverificatie.ru
 lnkgo.com
+lnks.gd
 lnktime.com
 lnktk.com
 lnmaityayurveda.com
@@ -122728,6 +122730,7 @@ protect.geoedge.be
 protect.server.server.server.rendyprotect.com
 protect.urbanairship.com
 protect5985webhostapp.com
+protectcrev.com
 protectfillaccount.com
 protectingourkids.com
 protection-block.ml
@@ -122811,6 +122814,7 @@ protectpage-0821011a.esy.es
 protects-scure.000webhostapp.com
 protects-vip08.000webhostapp.com
 protectsoft.pw
+protectsubrev.com
 protectyouraccount.grupoprovida.com.br
 protejseg.com.br
 protelfinanse.pl
@@ -127053,6 +127057,7 @@ revadstrk.com
 revagpalace.com
 revalidate-password-drmk--help.sitey.me
 revalidate-password-drmk-help.sitey.me
+revcatch.com
 revconsult.com.br
 revcontent.com
 revdepo.com
@@ -127131,6 +127136,7 @@ revolution.ign.us.intellitxt.com
 revolutionaryeyewear.it
 revolutiongolf.go2cloud.org
 revotrack.revotas.com
+revprotect.com
 revrtb.com
 revsci.net
 revsci.tvguide.com
