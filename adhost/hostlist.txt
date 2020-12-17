@@ -1,4 +1,4 @@
-# FlareBrow Admob and Malware Host list (2020-12-16 00:01:27)
+# FlareBrow Admob and Malware Host list (2020-12-18 00:01:18)
 0-24bpautomentes.hu
 0.easymedia2.com
 0.laomaotaowinpe.com
@@ -93132,6 +93132,7 @@ juiceplus.com
 juicingorsmoothies.com
 juicy-news.blogspot.us.intellitxt.com
 juicyads.com
+juicyads.me
 juicyceleb.us.intellitxt.com
 juicypussyclips.com
 juicywin.pl
