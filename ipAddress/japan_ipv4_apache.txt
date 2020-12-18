@@ -459,7 +459,6 @@ allow from 61.5.246.0/23
 allow from 61.5.248.0/21
 allow from 61.7.0.0/18
 allow from 61.7.64.0/18
-allow from 61.8.0.0/19
 allow from 61.8.32.0/19
 allow from 61.8.80.0/21
 allow from 61.8.88.0/21
@@ -1924,7 +1923,6 @@ allow from 125.215.96.0/19
 allow from 125.252.64.0/18
 allow from 125.252.128.0/18
 allow from 125.254.56.0/22
-allow from 125.255.0.0/16
 allow from 126.0.0.0/9
 allow from 126.128.0.0/14
 allow from 126.132.0.0/15
@@ -3265,7 +3263,6 @@ allow from 202.6.119.0/24
 allow from 202.6.244.0/22
 allow from 202.6.252.0/22
 allow from 202.7.16.0/20
-allow from 202.7.64.0/19
 allow from 202.7.96.0/20
 allow from 202.7.112.0/20
 allow from 202.8.6.0/23
@@ -3661,24 +3658,10 @@ allow from 202.230.0.0/15
 allow from 202.232.0.0/14
 allow from 202.236.0.0/14
 allow from 202.240.0.0/12
-allow from 203.2.228.0/24
-allow from 203.9.190.0/23
-allow from 203.12.42.0/24
-allow from 203.12.97.0/24
-allow from 203.12.144.0/21
+allow from 203.9.176.0/21
 allow from 203.14.212.0/24
-allow from 203.15.68.0/24
-allow from 203.16.180.0/22
-allow from 203.17.40.0/21
-allow from 203.17.162.0/24
 allow from 203.23.200.0/22
-allow from 203.24.134.0/23
-allow from 203.26.8.0/22
-allow from 203.26.175.0/24
-allow from 203.27.69.0/24
-allow from 203.34.68.0/24
 allow from 203.34.81.0/24
-allow from 203.62.148.0/22
 allow from 203.76.64.0/19
 allow from 203.76.164.0/22
 allow from 203.77.184.0/21
@@ -3710,7 +3693,6 @@ allow from 203.99.72.0/21
 allow from 203.99.224.0/21
 allow from 203.99.240.0/21
 allow from 203.100.128.0/19
-allow from 203.100.224.0/19
 allow from 203.104.96.0/20
 allow from 203.104.112.0/20
 allow from 203.104.128.0/20
@@ -3859,8 +3841,6 @@ allow from 203.140.0.0/15
 allow from 203.142.192.0/20
 allow from 203.142.208.0/21
 allow from 203.143.96.0/19
-allow from 203.143.192.0/19
-allow from 203.143.224.0/19
 allow from 203.145.96.0/20
 allow from 203.145.120.0/21
 allow from 203.145.224.0/19
@@ -3984,7 +3964,6 @@ allow from 210.20.128.0/20
 allow from 210.20.144.0/20
 allow from 210.20.160.0/19
 allow from 210.20.192.0/18
-allow from 210.23.128.0/19
 allow from 210.24.8.0/21
 allow from 210.24.16.0/21
 allow from 210.24.48.0/24
