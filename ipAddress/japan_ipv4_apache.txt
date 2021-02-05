@@ -3668,6 +3668,7 @@ allow from 203.34.81.0/24
 allow from 203.76.64.0/19
 allow from 203.76.164.0/22
 allow from 203.77.184.0/21
+allow from 203.78.192.0/20
 allow from 203.78.224.0/19
 allow from 203.79.48.0/20
 allow from 203.80.6.0/23
