@@ -557,9 +557,7 @@ allow from 61.245.216.0/21
 allow from 64.33.0.0/18
 allow from 64.56.160.0/19
 allow from 64.63.64.0/18
-allow from 65.99.36.0/22
-allow from 65.99.40.0/21
-allow from 65.99.48.0/20
+allow from 65.99.63.0/24
 allow from 69.6.64.0/20
 allow from 76.77.48.0/20
 allow from 80.208.192.0/20
