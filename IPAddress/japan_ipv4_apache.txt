@@ -585,7 +585,6 @@ allow from 101.55.240.0/20
 allow from 101.78.4.0/22
 allow from 101.96.32.0/19
 allow from 101.97.0.0/19
-allow from 101.97.64.0/18
 allow from 101.97.128.0/17
 allow from 101.102.0.0/18
 allow from 101.102.96.0/22
@@ -2320,7 +2319,9 @@ allow from 157.120.112.0/21
 allow from 157.120.120.0/22
 allow from 157.120.124.0/22
 allow from 157.120.128.0/19
-allow from 157.120.192.0/19
+allow from 157.120.192.0/21
+allow from 157.120.200.0/21
+allow from 157.120.208.0/20
 allow from 157.120.232.0/22
 allow from 157.147.0.0/16
 allow from 157.185.192.0/18
@@ -2328,7 +2329,8 @@ allow from 157.192.0.0/16
 allow from 157.205.0.0/16
 allow from 157.250.64.0/18
 allow from 157.250.128.0/18
-allow from 157.250.192.0/19
+allow from 157.250.192.0/20
+allow from 157.250.208.0/20
 allow from 157.250.224.0/20
 allow from 157.250.240.0/20
 allow from 158.198.0.0/16
