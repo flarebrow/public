@@ -18,7 +18,7 @@
 <!-- /TOC -->
 
 # 2. はじめに
-この記事ではDNSサーバーを用いた広告や危険なサイトへのブロックを行う方法について解説しています。
+この記事ではDNSサーバーを用いた広告や危険なサイトへのブロックを行う方法について解説しています。  
 ※広告をブロックするためのホストリストは[こちらのAdhost](https://github.com/flarebrow/public)を使用しています。
 
 # 3. DNSとは
@@ -173,14 +173,14 @@ sudo pihole -g
 
 ### 6.3.2. iPhoneの場合
 
-設定＞Wi-Fi＞接続中のWiFi設定（！マーク）＞DNSを構成＞手動を選択！
-![iphone](images/iphone.png)
+設定＞Wi-Fi＞接続中のWiFi設定（！マーク）＞DNSを構成＞手動を選択！  
+![iphone](images/iphone.png)  
 
-→すでに登録されているIPアドレスを削除
-![iphone1](images/iphone1.png)
+→すでに登録されているIPアドレスを削除  
+![iphone1](images/iphone1.png)  
 
-→サーバーを追加
-![iphone2](images/iphone2.png)
+→サーバーを追加  
+![iphone2](images/iphone2.png)  
 
 →ラズパイのIPアドレスを入力
 広告ブロック完了！！
