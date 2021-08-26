@@ -56,10 +56,12 @@ Web 広告やトラッキングを防ぐ事が可能な、DNS ベースの広告
 
 ①以下のコマンドを実行すると自動でインストールが始まります。
 ```Bash:公式サイトからインストール
+# 公式サイトからインストール
 curl -sSL https://install.pi-hole.net | sudo bash
 ```
 または
 ```Bash:公式サイトからインストール+ブロックリスト自動追加（③番のコマンドが不要になります）
+# 公式サイトからインストール+ブロックリスト自動追加（③番のコマンドが不要になります）
 curl -sSL https://raw.githubusercontent.com/flarebrow/public/master/tools/pi-hole/pihole_install.sh | sudo bash
 ```
 
@@ -168,7 +170,7 @@ sudo pihole -g
 5. 「インターネットプロトコルバージョン4（TCP/IPv4）を選択して「プロパティ」をクリックします  
 ![windows](images/windows5.png)  
 
-6. 「次のDNSサーバーのアドレスを使う」にチェックを入れて優先DNSサーバーに8.8.8.8、代替DNSサーバーに8.8.4.4を入力して「OK」をクリックします。  
+6. 「次のDNSサーバーのアドレスを使う」にチェックを入れて優先DNSサーバーにラズパイのIPアドレスを入力して「OK」をクリックします。  
 ![windows](images/windows6.png)  
 
 広告ブロック完了！！
