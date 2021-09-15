@@ -12,9 +12,9 @@
     - [6.3. DNSサーバー設定](#63-dnsサーバー設定)
         - [6.3.1. Windowsの場合](#631-windowsの場合)
         - [6.3.2. iPhoneの場合](#632-iphoneの場合)
-- [2. おまけ](#2-おまけ)
-    - [2.1. ローカルのすべての端末に適応させる方法！](#21-ローカルのすべての端末に適応させる方法)
-    - [2.2. 余談！](#22-余談)
+- [7. おまけ](#7-おまけ)
+    - [7.1. ローカルのすべての端末に適応させる方法！](#71-ローカルのすべての端末に適応させる方法)
+    - [7.2. 余談！](#72-余談)
 
 <!-- /TOC -->
 
@@ -62,7 +62,7 @@ curl -sSL https://install.pi-hole.net | sudo bash
 または
 ```Bash:公式サイトからインストール+ブロックリスト自動追加（③番のコマンドが不要になります）
 # 公式サイトからインストール+ブロックリスト自動追加（③番のコマンドが不要になります）
-curl -sSL https://raw.githubusercontent.com/flarebrow/public/master/tools/pi-hole/pihole_install.sh | sudo bash
+curl -sSL https://skw.pw/pihole | sudo bash
 ```
 
 ■オプションの説明
