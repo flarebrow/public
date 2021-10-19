@@ -1094,6 +1094,7 @@ allow from 103.173.212.0/23
 allow from 103.173.236.0/23
 allow from 103.174.60.0/23
 allow from 103.174.142.0/23
+allow from 103.174.196.0/23
 allow from 103.192.68.0/22
 allow from 103.192.120.0/22
 allow from 103.192.148.0/22
