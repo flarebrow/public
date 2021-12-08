@@ -2296,7 +2296,8 @@ allow from 157.70.0.0/17
 allow from 157.70.128.0/18
 allow from 157.70.192.0/20
 allow from 157.70.208.0/20
-allow from 157.70.224.0/19
+allow from 157.70.224.0/20
+allow from 157.70.240.0/20
 allow from 157.71.0.0/16
 allow from 157.72.0.0/14
 allow from 157.76.0.0/16
