@@ -3552,6 +3552,7 @@ allow from 202.79.96.0/19
 allow from 202.79.128.0/19
 allow from 202.79.240.0/21
 allow from 202.80.96.0/21
+allow from 202.80.152.0/21
 allow from 202.81.8.0/21
 allow from 202.81.80.0/20
 allow from 202.83.128.0/19
