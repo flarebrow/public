@@ -3912,6 +3912,7 @@ allow from 203.129.96.0/20
 allow from 203.129.112.0/20
 allow from 203.129.160.0/19
 allow from 203.131.192.0/20
+allow from 203.131.240.0/20
 allow from 203.132.96.0/19
 allow from 203.133.128.0/19
 allow from 203.133.192.0/19
