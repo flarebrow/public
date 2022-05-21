@@ -806,7 +806,6 @@ allow from 103.37.108.0/22
 allow from 103.37.112.0/22
 allow from 103.37.116.0/22
 allow from 103.37.132.0/22
-allow from 103.37.236.0/22
 allow from 103.37.240.0/22
 allow from 103.39.113.0/24
 allow from 103.39.192.0/22
