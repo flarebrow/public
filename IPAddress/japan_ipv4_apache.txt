@@ -840,6 +840,7 @@ allow from 103.48.120.0/22
 allow from 103.48.136.0/22
 allow from 103.48.164.0/22
 allow from 103.48.248.0/22
+allow from 103.48.252.0/22
 allow from 103.49.0.0/22
 allow from 103.49.88.0/22
 allow from 103.49.140.0/22
@@ -4039,6 +4040,7 @@ allow from 203.223.80.0/21
 allow from 203.223.180.0/22
 allow from 206.3.0.0/19
 allow from 207.65.128.0/17
+allow from 207.66.112.0/21
 allow from 208.111.48.0/21
 allow from 209.17.64.0/19
 allow from 210.1.144.0/20
