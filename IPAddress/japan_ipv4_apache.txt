@@ -706,6 +706,7 @@ allow from 103.11.156.0/22
 allow from 103.11.208.0/22
 allow from 103.11.221.0/24
 allow from 103.11.236.0/22
+allow from 103.12.0.0/24
 allow from 103.12.16.0/22
 allow from 103.12.52.0/22
 allow from 103.12.158.0/24
