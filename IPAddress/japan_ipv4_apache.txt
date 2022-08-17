@@ -4293,12 +4293,7 @@ allow from 220.150.90.0/23
 allow from 220.150.92.0/22
 allow from 220.150.96.0/19
 allow from 220.150.128.0/18
-allow from 220.150.192.0/23
-allow from 220.150.194.0/24
-allow from 220.150.195.0/24
-allow from 220.150.196.0/24
-allow from 220.150.197.0/24
-allow from 220.150.198.0/23
+allow from 220.150.192.0/21
 allow from 220.150.200.0/24
 allow from 220.150.201.0/24
 allow from 220.150.202.0/23
