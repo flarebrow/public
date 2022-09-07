@@ -5,7 +5,11 @@ allow from 1.0.16.0/20
 allow from 1.0.64.0/18
 allow from 1.1.64.0/18
 allow from 1.5.0.0/16
-allow from 1.21.0.0/16
+allow from 1.21.0.0/18
+allow from 1.21.64.0/19
+allow from 1.21.96.0/20
+allow from 1.21.112.0/20
+allow from 1.21.128.0/17
 allow from 1.33.0.0/16
 allow from 1.66.0.0/15
 allow from 1.72.0.0/13
