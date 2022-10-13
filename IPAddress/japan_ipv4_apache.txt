@@ -1948,7 +1948,11 @@ allow from 124.247.128.0/18
 allow from 124.248.144.0/20
 allow from 124.255.0.0/16
 allow from 125.0.0.0/15
-allow from 125.2.0.0/15
+allow from 125.2.0.0/19
+allow from 125.2.32.0/19
+allow from 125.2.64.0/18
+allow from 125.2.128.0/17
+allow from 125.3.0.0/16
 allow from 125.4.0.0/16
 allow from 125.6.0.0/19
 allow from 125.6.32.0/19
