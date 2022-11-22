@@ -1174,6 +1174,7 @@ allow from 103.209.252.0/22
 allow from 103.210.84.0/22
 allow from 103.210.108.0/22
 allow from 103.211.72.0/22
+allow from 103.212.32.0/22
 allow from 103.212.76.0/22
 allow from 103.212.188.0/22
 allow from 103.214.36.0/22
