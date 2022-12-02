@@ -2086,6 +2086,7 @@ allow from 147.192.0.0/16
 allow from 148.59.57.0/24
 allow from 148.67.0.0/16
 allow from 148.68.0.0/16
+allow from 148.109.0.0/16
 allow from 148.161.0.0/16
 allow from 149.54.128.0/17
 allow from 149.234.188.0/24
