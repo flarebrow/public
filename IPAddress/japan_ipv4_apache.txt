@@ -3641,7 +3641,6 @@ allow from 202.88.48.0/20
 allow from 202.88.192.0/21
 allow from 202.89.80.0/20
 allow from 202.89.112.0/22
-allow from 202.89.224.0/21
 allow from 202.89.240.0/21
 allow from 202.90.8.0/21
 allow from 202.90.176.0/20
