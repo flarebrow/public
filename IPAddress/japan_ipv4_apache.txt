@@ -322,7 +322,6 @@ allow from 45.116.224.0/22
 allow from 45.117.16.0/22
 allow from 45.117.140.0/22
 allow from 45.118.40.0/22
-allow from 45.118.132.0/22
 allow from 45.119.164.0/22
 allow from 45.119.204.0/22
 allow from 45.120.132.0/22
@@ -2507,7 +2506,6 @@ allow from 160.203.0.0/16
 allow from 160.204.0.0/16
 allow from 160.215.0.0/16
 allow from 160.233.0.0/16
-allow from 160.235.0.0/16
 allow from 160.237.0.0/18
 allow from 160.237.64.0/18
 allow from 160.237.128.0/18
