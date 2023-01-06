@@ -1244,7 +1244,6 @@ allow from 103.240.12.0/22
 allow from 103.240.20.0/22
 allow from 103.240.116.0/22
 allow from 103.240.252.0/22
-allow from 103.241.64.0/22
 allow from 103.241.104.0/24
 allow from 103.241.124.0/22
 allow from 103.241.128.0/22
