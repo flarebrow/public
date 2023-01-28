@@ -2956,6 +2956,7 @@ allow from 192.41.196.0/23
 allow from 192.42.103.0/24
 allow from 192.42.104.0/22
 allow from 192.42.237.0/24
+allow from 192.43.189.0/24
 allow from 192.47.0.0/24
 allow from 192.47.1.0/24
 allow from 192.47.2.0/23
