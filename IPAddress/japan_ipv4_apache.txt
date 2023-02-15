@@ -2477,6 +2477,7 @@ allow from 159.28.64.0/18
 allow from 159.28.128.0/17
 allow from 159.80.0.0/16
 allow from 159.211.0.0/16
+allow from 159.228.0.0/16
 allow from 159.242.16.0/20
 allow from 160.11.0.0/16
 allow from 160.12.0.0/16
