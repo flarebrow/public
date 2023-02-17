@@ -1788,7 +1788,8 @@ allow from 121.58.128.0/21
 allow from 121.58.176.0/21
 allow from 121.80.0.0/14
 allow from 121.84.0.0/14
-allow from 121.92.0.0/15
+allow from 121.92.0.0/16
+allow from 121.93.0.0/16
 allow from 121.94.0.0/15
 allow from 121.100.8.0/21
 allow from 121.100.56.0/21
