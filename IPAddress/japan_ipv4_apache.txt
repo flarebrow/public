@@ -2074,7 +2074,6 @@ allow from 137.59.232.0/22
 allow from 137.59.252.0/22
 allow from 137.153.0.0/16
 allow from 137.220.16.0/20
-allow from 138.30.0.0/16
 allow from 138.64.0.0/16
 allow from 138.101.0.0/16
 allow from 138.107.0.0/16
@@ -2100,7 +2099,6 @@ allow from 143.125.208.0/22
 allow from 143.125.212.0/22
 allow from 143.125.216.0/21
 allow from 143.125.224.0/19
-allow from 143.136.0.0/16
 allow from 143.189.0.0/16
 allow from 143.201.0.0/16
 allow from 143.221.0.0/16
@@ -2712,7 +2710,6 @@ allow from 166.100.0.0/16
 allow from 166.118.0.0/16
 allow from 166.119.0.0/16
 allow from 167.169.0.0/16
-allow from 167.175.0.0/16
 allow from 170.199.246.0/24
 allow from 170.249.64.0/21
 allow from 170.249.96.0/19
@@ -2969,7 +2966,6 @@ allow from 192.41.194.0/23
 allow from 192.41.196.0/23
 allow from 192.42.103.0/24
 allow from 192.42.104.0/22
-allow from 192.42.237.0/24
 allow from 192.43.189.0/24
 allow from 192.47.0.0/24
 allow from 192.47.1.0/24
@@ -3296,7 +3292,6 @@ allow from 192.135.104.0/24
 allow from 192.135.105.0/24
 allow from 192.135.106.0/23
 allow from 192.135.108.0/24
-allow from 192.135.222.0/24
 allow from 192.146.184.0/24
 allow from 192.149.209.0/24
 allow from 192.152.69.0/24
@@ -3332,8 +3327,6 @@ allow from 192.172.234.0/24
 allow from 192.172.235.0/24
 allow from 192.172.236.0/24
 allow from 192.172.237.0/24
-allow from 192.172.238.0/24
-allow from 192.172.239.0/24
 allow from 192.172.241.0/24
 allow from 192.172.242.0/24
 allow from 192.172.243.0/24
@@ -3348,7 +3341,6 @@ allow from 192.188.76.0/24
 allow from 192.188.77.0/24
 allow from 192.188.78.0/23
 allow from 192.188.92.0/24
-allow from 192.189.24.0/24
 allow from 192.218.0.0/16
 allow from 192.244.0.0/16
 allow from 193.82.0.0/19
