@@ -1033,6 +1033,7 @@ allow from 103.126.176.0/22
 allow from 103.129.28.0/22
 allow from 103.130.232.0/22
 allow from 103.131.120.0/22
+allow from 103.131.150.0/23
 allow from 103.131.194.0/23
 allow from 103.135.240.0/22
 allow from 103.135.244.0/24
@@ -2099,6 +2100,7 @@ allow from 138.101.0.0/16
 allow from 138.107.0.0/16
 allow from 138.212.0.0/17
 allow from 138.212.128.0/17
+allow from 138.213.0.0/16
 allow from 138.243.0.0/16
 allow from 138.248.64.0/18
 allow from 139.5.88.0/22
