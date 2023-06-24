@@ -2417,6 +2417,7 @@ allow from 157.77.0.0/16
 allow from 157.78.0.0/16
 allow from 157.79.0.0/16
 allow from 157.80.0.0/16
+allow from 157.81.0.0/16
 allow from 157.82.0.0/16
 allow from 157.101.0.0/18
 allow from 157.101.64.0/18
