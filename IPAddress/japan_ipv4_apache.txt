@@ -1593,7 +1593,6 @@ allow from 116.92.12.0/23
 allow from 116.92.15.0/24
 allow from 116.92.16.0/20
 allow from 116.92.32.0/19
-allow from 116.92.64.0/18
 allow from 116.92.131.0/24
 allow from 116.92.132.0/24
 allow from 116.92.134.0/23
