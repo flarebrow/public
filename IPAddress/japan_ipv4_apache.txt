@@ -3654,6 +3654,7 @@ allow from 202.71.48.0/20
 allow from 202.71.64.0/19
 allow from 202.72.48.0/20
 allow from 202.72.64.0/20
+allow from 202.72.100.0/24
 allow from 202.73.64.0/20
 allow from 202.73.80.0/20
 allow from 202.73.136.0/21
