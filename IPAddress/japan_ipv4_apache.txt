@@ -1291,7 +1291,10 @@ allow from 103.245.224.0/24
 allow from 103.245.228.0/22
 allow from 103.245.232.0/22
 allow from 103.246.39.0/24
+allow from 103.246.64.0/23
+allow from 103.246.66.0/23
 allow from 103.246.68.0/22
+allow from 103.246.72.0/23
 allow from 103.246.80.0/22
 allow from 103.246.148.0/22
 allow from 103.246.164.0/22
