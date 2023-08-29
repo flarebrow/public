@@ -567,7 +567,8 @@ allow from 61.112.0.0/12
 allow from 61.192.0.0/13
 allow from 61.200.0.0/13
 allow from 61.208.0.0/13
-allow from 61.245.0.0/17
+allow from 61.245.32.0/19
+allow from 61.245.64.0/18
 allow from 61.245.192.0/20
 allow from 61.245.208.0/21
 allow from 61.245.216.0/21
@@ -792,6 +793,8 @@ allow from 103.24.194.0/23
 allow from 103.24.204.0/22
 allow from 103.25.88.0/22
 allow from 103.25.100.0/22
+allow from 103.26.24.0/23
+allow from 103.26.26.0/23
 allow from 103.26.32.0/22
 allow from 103.26.152.0/22
 allow from 103.26.164.0/22
