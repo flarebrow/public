@@ -1,6 +1,6 @@
 # IP Country Summary
 
-| country code | country name | entry | ip count |
+| country code | country name | entry | count |
 | --- | --- | --- | --- |
 | AD | Andorra | 20 | 56,320 |
 | AE | United Arab Emirates | 681 | 4,770,688 |
