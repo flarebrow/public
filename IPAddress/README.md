@@ -15,7 +15,7 @@
 | AR | Argentina | 1,540 | 19,482,880 |
 | AS | American Samoa | 3 | 5,632 |
 | AT | Austria | 1,801 | 11,212,384 |
-| AU | Australia | 5,599 | 47,524,096 |
+| AU | Australia | 5,603 | 47,541,504 |
 | AW | Aruba | 12 | 111,872 |
 | AX | Åland Islands | 1 | 4,096 |
 | AZ | Azerbaijan | 154 | 763,648 |
@@ -98,7 +98,7 @@
 | HR | Croatia | 240 | 2,330,368 |
 | HT | Haiti | 21 | 154,880 |
 | HU | Hungary | 625 | 5,942,784 |
-| ID | Indonesia | 3,844 | 18,735,104 |
+| ID | Indonesia | 3,852 | 18,746,368 |
 | IE | Ireland | 677 | 10,987,328 |
 | IL | Israel | 678 | 7,968,000 |
 | IM | Isle of Man | 49 | 83,456 |
@@ -144,7 +144,7 @@
 | MK | North Macedonia | 104 | 688,384 |
 | ML | Mali | 28 | 93,696 |
 | MM | Myanmar | 210 | 231,168 |
-| MN | Mongolia | 119 | 216,832 |
+| MN | Mongolia | 118 | 214,784 |
 | MO | Macao | 29 | 336,640 |
 | MP | Northern Mariana Islands | 5 | 15,360 |
 | MQ | Martinique | 21 | 134,656 |
@@ -168,7 +168,7 @@
 | NP | Nepal | 237 | 587,008 |
 | NR | Nauru | 6 | 9,728 |
 | NU | Niue | 2 | 2,048 |
-| NZ | New Zealand | 1,271 | 6,865,920 |
+| NZ | New Zealand | 1,267 | 6,861,824 |
 | OM | Oman | 61 | 956,416 |
 | PA | Panama | 141 | 1,740,032 |
 | PE | Peru | 217 | 3,238,912 |
