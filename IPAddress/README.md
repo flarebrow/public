@@ -8,14 +8,14 @@
 | AG | Antigua and Barbuda | 41 | 180,224 |
 | AI | Anguilla | 8 | 8,704 |
 | AL | Albania | 189 | 474,112 |
-| AM | Armenia | 162 | 644,896 |
+| AM | Armenia | 163 | 645,920 |
 | AO | Angola | 118 | 1,262,336 |
 | AP | unknown | 0 | 0 |
 | AQ | Antarctica | 0 | 0 |
-| AR | Argentina | 1,540 | 19,482,880 |
+| AR | Argentina | 1,540 | 19,482,368 |
 | AS | American Samoa | 3 | 5,632 |
 | AT | Austria | 1,801 | 11,212,384 |
-| AU | Australia | 5,603 | 47,541,504 |
+| AU | Australia | 5,604 | 47,477,248 |
 | AW | Aruba | 12 | 111,872 |
 | AX | Åland Islands | 1 | 4,096 |
 | AZ | Azerbaijan | 154 | 763,648 |
@@ -33,30 +33,30 @@
 | BN | Brunei Darussalam | 36 | 216,320 |
 | BO | Bolivia, Plurinational State of | 101 | 1,169,920 |
 | BQ | Bonaire, Sint Eustatius and Saba | 12 | 24,832 |
-| BR | Brazil | 4,445 | 87,128,576 |
+| BR | Brazil | 4,444 | 87,128,320 |
 | BS | Bahamas | 22 | 137,472 |
 | BT | Bhutan | 29 | 36,864 |
 | BW | Botswana | 46 | 161,536 |
 | BY | Belarus | 94 | 1,789,952 |
 | BZ | Belize | 154 | 180,480 |
-| CA | Canada | 5,661 | 68,883,200 |
+| CA | Canada | 5,660 | 68,882,176 |
 | CD | Congo, The Democratic Republic of the | 67 | 170,240 |
 | CF | Central African Republic | 5 | 5,376 |
 | CG | Congo | 19 | 140,544 |
 | CH | Switzerland | 2,514 | 25,917,944 |
 | CI | Côte d'Ivoire | 221 | 1,705,728 |
 | CK | Cook Islands | 1 | 8,192 |
-| CL | Chile | 618 | 10,030,080 |
+| CL | Chile | 619 | 10,031,104 |
 | CM | Cameroon | 50 | 659,968 |
 | CN | China | 5,468 | 343,165,440 |
-| CO | Colombia | 488 | 17,363,968 |
+| CO | Colombia | 491 | 17,364,736 |
 | CR | Costa Rica | 170 | 2,332,672 |
 | CU | Cuba | 17 | 257,024 |
 | CV | Cabo Verde | 19 | 34,048 |
 | CW | Curaçao | 41 | 201,216 |
 | CY | Cyprus | 469 | 1,221,184 |
 | CZ | Czechia | 1,535 | 9,549,696 |
-| DE | Germany | 8,152 | 124,004,288 |
+| DE | Germany | 8,153 | 124,004,544 |
 | DJ | Djibouti | 6 | 45,824 |
 | DK | Denmark | 1,209 | 12,008,800 |
 | DM | Dominica | 14 | 14,592 |
@@ -66,7 +66,7 @@
 | EE | Estonia | 367 | 1,305,640 |
 | EG | Egypt | 166 | 24,155,904 |
 | ER | Eritrea | 1 | 4,096 |
-| ES | Spain | 3,307 | 32,132,672 |
+| ES | Spain | 3,308 | 32,133,184 |
 | ET | Ethiopia | 12 | 366,336 |
 | EU | unknown | 27 | 412,928 |
 | FI | Finland | 973 | 13,840,960 |
@@ -74,9 +74,9 @@
 | FK | Falkland Islands (Malvinas) | 7 | 7,168 |
 | FM | Micronesia, Federated States of | 5 | 8,704 |
 | FO | Faroe Islands | 14 | 45,056 |
-| FR | France | 3,898 | 82,408,304 |
+| FR | France | 3,898 | 82,406,256 |
 | GA | Gabon | 28 | 405,504 |
-| GB | United Kingdom | 7,427 | 120,961,416 |
+| GB | United Kingdom | 7,429 | 121,027,976 |
 | GD | Grenada | 13 | 10,752 |
 | GE | Georgia | 247 | 1,272,832 |
 | GF | French Guiana | 6 | 22,528 |
@@ -97,12 +97,12 @@
 | HN | Honduras | 185 | 534,528 |
 | HR | Croatia | 240 | 2,330,368 |
 | HT | Haiti | 21 | 154,880 |
-| HU | Hungary | 625 | 5,942,784 |
+| HU | Hungary | 626 | 5,943,040 |
 | ID | Indonesia | 3,852 | 18,746,368 |
 | IE | Ireland | 677 | 10,987,328 |
 | IL | Israel | 678 | 7,968,000 |
 | IM | Isle of Man | 49 | 83,456 |
-| IN | India | 6,402 | 41,688,320 |
+| IN | India | 6,402 | 41,687,296 |
 | IO | British Indian Ocean Territory | 2 | 3,072 |
 | IQ | Iraq | 275 | 448,768 |
 | IR | Iran, Islamic Republic of | 1,554 | 12,271,360 |
@@ -110,14 +110,14 @@
 | IT | Italy | 3,066 | 54,321,984 |
 | JE | Jersey | 36 | 77,824 |
 | JM | Jamaica | 42 | 209,920 |
-| JO | Jordan | 119 | 646,016 |
+| JO | Jordan | 121 | 646,528 |
 | JP | Japan | 2,973 | 190,467,840 |
-| KE | Kenya | 254 | 6,148,608 |
+| KE | Kenya | 255 | 6,149,632 |
 | KG | Kyrgyzstan | 78 | 267,264 |
 | KH | Cambodia | 258 | 415,488 |
 | KI | Kiribati | 5 | 4,096 |
 | KM | Comoros | 3 | 6,144 |
-| KN | Saint Kitts and Nevis | 17 | 19,968 |
+| KN | Saint Kitts and Nevis | 13 | 16,640 |
 | KP | Korea, Democratic People's Republic of | 1 | 1,024 |
 | KR | Korea, Republic of | 983 | 112,499,968 |
 | KW | Kuwait | 129 | 1,906,944 |
@@ -125,7 +125,7 @@
 | KZ | Kazakhstan | 455 | 3,243,264 |
 | LA | Lao People's Democratic Republic | 52 | 85,248 |
 | LB | Lebanon | 221 | 592,896 |
-| LC | Saint Lucia | 21 | 22,016 |
+| LC | Saint Lucia | 19 | 20,480 |
 | LI | Liechtenstein | 59 | 105,472 |
 | LK | Sri Lanka | 63 | 563,968 |
 | LR | Liberia | 16 | 37,376 |
@@ -142,7 +142,7 @@
 | MG | Madagascar | 25 | 578,560 |
 | MH | Marshall Islands | 3 | 4,096 |
 | MK | North Macedonia | 104 | 688,384 |
-| ML | Mali | 28 | 93,696 |
+| ML | Mali | 27 | 92,672 |
 | MM | Myanmar | 210 | 231,168 |
 | MN | Mongolia | 118 | 214,784 |
 | MO | Macao | 29 | 336,640 |
@@ -163,8 +163,8 @@
 | NF | Norfolk Island | 4 | 2,048 |
 | NG | Nigeria | 345 | 3,178,752 |
 | NI | Nicaragua | 50 | 412,160 |
-| NL | Netherlands | 5,396 | 50,021,664 |
-| NO | Norway | 1,166 | 15,602,192 |
+| NL | Netherlands | 5,397 | 50,023,712 |
+| NO | Norway | 1,167 | 15,602,448 |
 | NP | Nepal | 237 | 587,008 |
 | NR | Nauru | 6 | 9,728 |
 | NU | Niue | 2 | 2,048 |
@@ -174,12 +174,12 @@
 | PE | Peru | 217 | 3,238,912 |
 | PF | French Polynesia | 19 | 75,520 |
 | PG | Papua New Guinea | 62 | 70,400 |
-| PH | Philippines | 691 | 6,098,176 |
+| PH | Philippines | 692 | 6,098,432 |
 | PK | Pakistan | 609 | 5,494,528 |
-| PL | Poland | 3,843 | 20,928,520 |
+| PL | Poland | 3,842 | 20,928,264 |
 | PM | Saint Pierre and Miquelon | 2 | 4,608 |
 | PR | Puerto Rico | 190 | 748,032 |
-| PS | Palestine, State of | 239 | 878,848 |
+| PS | Palestine, State of | 238 | 878,592 |
 | PT | Portugal | 387 | 6,683,168 |
 | PW | Palau | 4 | 6,144 |
 | PY | Paraguay | 116 | 1,131,520 |
@@ -187,7 +187,7 @@
 | RE | Réunion | 24 | 424,704 |
 | RO | Romania | 2,475 | 8,130,432 |
 | RS | Serbia | 365 | 2,292,224 |
-| RU | Russian Federation | 8,781 | 45,332,736 |
+| RU | Russian Federation | 8,780 | 45,331,712 |
 | RW | Rwanda | 27 | 280,320 |
 | SA | Saudi Arabia | 526 | 10,631,680 |
 | SB | Solomon Islands | 13 | 14,592 |
@@ -218,22 +218,22 @@
 | TM | Turkmenistan | 8 | 21,760 |
 | TN | Tunisia | 43 | 7,874,048 |
 | TO | Tonga | 11 | 11,520 |
-| TR | Turkey | 1,397 | 16,762,112 |
+| TR | Turkey | 1,398 | 16,763,136 |
 | TT | Trinidad and Tobago | 50 | 544,768 |
 | TV | Tuvalu | 1 | 8,192 |
-| TW | Taiwan, Province of China | 677 | 35,639,296 |
+| TW | Taiwan, Province of China | 680 | 35,641,344 |
 | TZ | Tanzania, United Republic of | 151 | 1,061,632 |
-| UA | Ukraine | 2,783 | 10,292,512 |
-| UG | Uganda | 81 | 1,426,176 |
-| US | United States | 23,950 | 1,616,868,704 |
+| UA | Ukraine | 2,784 | 10,293,536 |
+| UG | Uganda | 82 | 1,427,200 |
+| US | United States | 23,983 | 1,616,778,592 |
 | UY | Uruguay | 50 | 2,440,960 |
-| UZ | Uzbekistan | 122 | 274,432 |
+| UZ | Uzbekistan | 123 | 276,480 |
 | VA | Holy See (Vatican City State) | 4 | 10,752 |
 | VC | Saint Vincent and the Grenadines | 12 | 12,288 |
 | VE | Venezuela, Bolivarian Republic of | 213 | 6,708,736 |
 | VG | Virgin Islands, British | 111 | 87,808 |
 | VI | Virgin Islands, U.S. | 16 | 110,336 |
-| VN | Viet Nam | 929 | 16,255,232 |
+| VN | Viet Nam | 933 | 16,258,304 |
 | VU | Vanuatu | 18 | 15,616 |
 | WF | Wallis and Futuna | 3 | 3,584 |
 | WS | Samoa | 16 | 19,968 |
@@ -242,4 +242,4 @@
 | ZA | South Africa | 1,439 | 27,108,096 |
 | ZM | Zambia | 34 | 1,644,288 |
 | ZW | Zimbabwe | 38 | 101,632 |
-| ZZ | unknown | 441 | 5,426,688 |
+| ZZ | unknown | 444 | 5,425,664 |
