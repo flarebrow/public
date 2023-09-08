@@ -15,16 +15,16 @@
 | AR | Argentina | 1,540 | 19,482,368 |
 | AS | American Samoa | 3 | 5,632 |
 | AT | Austria | 1,802 | 11,220,576 |
-| AU | Australia | 5,605 | 47,478,272 |
+| AU | Australia | 5,608 | 47,481,088 |
 | AW | Aruba | 12 | 111,872 |
 | AX | Åland Islands | 1 | 4,096 |
 | AZ | Azerbaijan | 154 | 763,648 |
 | BA | Bosnia and Herzegovina | 148 | 782,848 |
 | BB | Barbados | 30 | 168,704 |
-| BD | Bangladesh | 1,799 | 1,964,032 |
+| BD | Bangladesh | 1,801 | 1,965,312 |
 | BE | Belgium | 875 | 12,464,256 |
 | BF | Burkina Faso | 46 | 335,360 |
-| BG | Bulgaria | 1,223 | 4,383,232 |
+| BG | Bulgaria | 1,223 | 4,381,184 |
 | BH | Bahrain | 56 | 451,584 |
 | BI | Burundi | 14 | 37,888 |
 | BJ | Benin | 33 | 146,688 |
@@ -39,11 +39,11 @@
 | BW | Botswana | 46 | 161,536 |
 | BY | Belarus | 94 | 1,789,952 |
 | BZ | Belize | 155 | 180,736 |
-| CA | Canada | 5,660 | 68,882,176 |
+| CA | Canada | 5,663 | 68,882,432 |
 | CD | Congo, The Democratic Republic of the | 67 | 170,240 |
 | CF | Central African Republic | 5 | 5,376 |
 | CG | Congo | 19 | 140,544 |
-| CH | Switzerland | 2,513 | 25,917,688 |
+| CH | Switzerland | 2,514 | 25,919,736 |
 | CI | Côte d'Ivoire | 221 | 1,705,728 |
 | CK | Cook Islands | 1 | 8,192 |
 | CL | Chile | 619 | 10,031,104 |
@@ -64,7 +64,7 @@
 | DZ | Algeria | 31 | 4,762,112 |
 | EC | Ecuador | 295 | 2,700,032 |
 | EE | Estonia | 365 | 1,304,872 |
-| EG | Egypt | 166 | 24,155,904 |
+| EG | Egypt | 167 | 24,156,928 |
 | ER | Eritrea | 1 | 4,096 |
 | ES | Spain | 3,309 | 32,133,440 |
 | ET | Ethiopia | 12 | 366,336 |
@@ -76,7 +76,7 @@
 | FO | Faroe Islands | 14 | 45,056 |
 | FR | France | 3,904 | 82,336,112 |
 | GA | Gabon | 28 | 405,504 |
-| GB | United Kingdom | 7,433 | 121,161,096 |
+| GB | United Kingdom | 7,439 | 121,619,848 |
 | GD | Grenada | 13 | 10,752 |
 | GE | Georgia | 247 | 1,272,832 |
 | GF | French Guiana | 6 | 22,528 |
@@ -93,7 +93,7 @@
 | GU | Guam | 26 | 218,880 |
 | GW | Guinea-Bissau | 3 | 5,632 |
 | GY | Guyana | 13 | 68,864 |
-| HK | Hong Kong | 2,457 | 12,852,736 |
+| HK | Hong Kong | 2,458 | 12,853,248 |
 | HN | Honduras | 185 | 534,528 |
 | HR | Croatia | 240 | 2,330,368 |
 | HT | Haiti | 21 | 154,880 |
@@ -225,7 +225,7 @@
 | TZ | Tanzania, United Republic of | 151 | 1,061,632 |
 | UA | Ukraine | 2,784 | 10,293,536 |
 | UG | Uganda | 82 | 1,427,200 |
-| US | United States | 23,979 | 1,616,803,168 |
+| US | United States | 23,985 | 1,616,344,160 |
 | UY | Uruguay | 50 | 2,440,960 |
 | UZ | Uzbekistan | 123 | 276,480 |
 | VA | Holy See (Vatican City State) | 4 | 10,752 |
@@ -233,7 +233,7 @@
 | VE | Venezuela, Bolivarian Republic of | 213 | 6,708,736 |
 | VG | Virgin Islands, British | 111 | 87,808 |
 | VI | Virgin Islands, U.S. | 16 | 110,336 |
-| VN | Viet Nam | 938 | 16,261,376 |
+| VN | Viet Nam | 942 | 16,264,448 |
 | VU | Vanuatu | 18 | 15,616 |
 | WF | Wallis and Futuna | 3 | 3,584 |
 | WS | Samoa | 16 | 19,968 |
@@ -242,4 +242,4 @@
 | ZA | South Africa | 1,439 | 27,108,096 |
 | ZM | Zambia | 34 | 1,644,288 |
 | ZW | Zimbabwe | 38 | 101,632 |
-| ZZ | unknown | 446 | 5,425,152 |
+| ZZ | unknown | 445 | 5,424,128 |
