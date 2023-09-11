@@ -21,7 +21,7 @@
 | AZ | Azerbaijan | 154 | 763,648 |
 | BA | Bosnia and Herzegovina | 148 | 782,848 |
 | BB | Barbados | 30 | 168,704 |
-| BD | Bangladesh | 1,801 | 1,965,312 |
+| BD | Bangladesh | 1,802 | 1,965,824 |
 | BE | Belgium | 875 | 12,464,256 |
 | BF | Burkina Faso | 46 | 335,360 |
 | BG | Bulgaria | 1,223 | 4,381,184 |
@@ -48,7 +48,7 @@
 | CK | Cook Islands | 1 | 8,192 |
 | CL | Chile | 619 | 10,031,104 |
 | CM | Cameroon | 50 | 659,968 |
-| CN | China | 5,468 | 343,165,440 |
+| CN | China | 5,469 | 343,165,952 |
 | CO | Colombia | 491 | 17,364,736 |
 | CR | Costa Rica | 170 | 2,332,672 |
 | CU | Cuba | 17 | 257,024 |
@@ -98,7 +98,7 @@
 | HR | Croatia | 240 | 2,330,368 |
 | HT | Haiti | 21 | 154,880 |
 | HU | Hungary | 626 | 5,943,040 |
-| ID | Indonesia | 3,852 | 18,746,368 |
+| ID | Indonesia | 3,855 | 18,749,184 |
 | IE | Ireland | 680 | 11,056,960 |
 | IL | Israel | 678 | 7,968,000 |
 | IM | Isle of Man | 49 | 83,456 |
@@ -111,10 +111,10 @@
 | JE | Jersey | 36 | 77,824 |
 | JM | Jamaica | 42 | 209,920 |
 | JO | Jordan | 121 | 646,528 |
-| JP | Japan | 2,973 | 190,467,840 |
+| JP | Japan | 2,974 | 190,468,096 |
 | KE | Kenya | 255 | 6,149,632 |
 | KG | Kyrgyzstan | 78 | 267,264 |
-| KH | Cambodia | 258 | 415,488 |
+| KH | Cambodia | 259 | 416,000 |
 | KI | Kiribati | 5 | 4,096 |
 | KM | Comoros | 3 | 6,144 |
 | KN | Saint Kitts and Nevis | 13 | 16,640 |
@@ -175,7 +175,7 @@
 | PF | French Polynesia | 19 | 75,520 |
 | PG | Papua New Guinea | 62 | 70,400 |
 | PH | Philippines | 693 | 6,098,944 |
-| PK | Pakistan | 609 | 5,494,528 |
+| PK | Pakistan | 610 | 5,495,040 |
 | PL | Poland | 3,842 | 20,928,264 |
 | PM | Saint Pierre and Miquelon | 2 | 4,608 |
 | PR | Puerto Rico | 190 | 748,032 |
