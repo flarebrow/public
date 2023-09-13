@@ -3007,6 +3007,7 @@ allow from 192.16.179.0/24
 allow from 192.26.91.0/24
 allow from 192.26.93.0/24
 allow from 192.26.94.0/24
+allow from 192.26.96.0/24
 allow from 192.31.116.0/22
 allow from 192.31.120.0/24
 allow from 192.31.121.0/24
@@ -3418,6 +3419,7 @@ allow from 194.223.140.0/22
 allow from 194.223.144.0/20
 allow from 194.223.192.0/18
 allow from 195.181.224.0/20
+allow from 198.73.220.0/24
 allow from 198.74.24.0/23
 allow from 198.144.128.0/20
 allow from 198.144.160.0/20
