@@ -33,7 +33,7 @@
 | BN | Brunei Darussalam | 36 | 216,320 |
 | BO | Bolivia, Plurinational State of | 101 | 1,169,920 |
 | BQ | Bonaire, Sint Eustatius and Saba | 12 | 24,832 |
-| BR | Brazil | 4,445 | 87,129,344 |
+| BR | Brazil | 4,446 | 87,130,368 |
 | BS | Bahamas | 22 | 137,472 |
 | BT | Bhutan | 29 | 36,864 |
 | BW | Botswana | 46 | 161,536 |
@@ -63,7 +63,7 @@
 | DO | Dominican Republic | 128 | 1,609,728 |
 | DZ | Algeria | 31 | 4,762,112 |
 | EC | Ecuador | 295 | 2,700,032 |
-| EE | Estonia | 367 | 1,305,384 |
+| EE | Estonia | 368 | 1,305,640 |
 | EG | Egypt | 167 | 24,156,928 |
 | ER | Eritrea | 1 | 4,096 |
 | ES | Spain | 3,311 | 32,133,184 |
@@ -163,7 +163,7 @@
 | NF | Norfolk Island | 4 | 2,048 |
 | NG | Nigeria | 345 | 3,178,752 |
 | NI | Nicaragua | 50 | 412,160 |
-| NL | Netherlands | 5,380 | 49,905,440 |
+| NL | Netherlands | 5,381 | 49,905,184 |
 | NO | Norway | 1,165 | 15,535,120 |
 | NP | Nepal | 237 | 586,496 |
 | NR | Nauru | 6 | 9,728 |
@@ -225,7 +225,7 @@
 | TZ | Tanzania, United Republic of | 151 | 1,061,632 |
 | UA | Ukraine | 2,780 | 10,289,696 |
 | UG | Uganda | 82 | 1,427,200 |
-| US | United States | 24,002 | 1,616,518,496 |
+| US | United States | 24,003 | 1,616,518,752 |
 | UY | Uruguay | 50 | 2,440,960 |
 | UZ | Uzbekistan | 123 | 276,480 |
 | VA | Holy See (Vatican City State) | 4 | 10,752 |
