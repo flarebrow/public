@@ -221,6 +221,7 @@ allow from 36.3.128.0/18
 allow from 36.3.192.0/19
 allow from 36.3.224.0/19
 allow from 36.8.0.0/13
+allow from 36.50.48.0/23
 allow from 36.52.0.0/20
 allow from 36.52.16.0/21
 allow from 36.52.24.0/23
@@ -931,6 +932,7 @@ allow from 103.62.244.0/22
 allow from 103.63.224.0/22
 allow from 103.64.132.0/22
 allow from 103.65.44.0/22
+allow from 103.65.130.0/23
 allow from 103.65.208.0/22
 allow from 103.66.171.0/24
 allow from 103.67.28.0/22
