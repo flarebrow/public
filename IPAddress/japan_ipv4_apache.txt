@@ -343,6 +343,7 @@ allow from 45.127.28.0/22
 allow from 45.251.67.0/24
 allow from 45.251.132.0/22
 allow from 49.0.16.0/21
+allow from 49.50.6.0/23
 allow from 49.96.0.0/12
 allow from 49.128.16.0/21
 allow from 49.128.24.0/21
