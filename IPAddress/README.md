@@ -131,7 +131,7 @@
 | [LR](./country/LR.txt) | Liberia | 17 | 37,632 |
 | [LS](./country/LS.txt) | Lesotho | 19 | 120,832 |
 | [LT](./country/LT.txt) | Lithuania | 772 | 2,610,432 |
-| [LU](./country/LU.txt) | Luxembourg | 485 | 1,820,416 |
+| [LU](./country/LU.txt) | Luxembourg | 495 | 1,825,280 |
 | [LV](./country/LV.txt) | Latvia | 384 | 1,740,032 |
 | [LY](./country/LY.txt) | Libya | 50 | 438,528 |
 | [MA](./country/MA.txt) | Morocco | 67 | 12,267,776 |
@@ -223,7 +223,7 @@
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
 | [TW](./country/TW.txt) | Taiwan, Province of China | 685 | 35,645,440 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 153 | 1,063,680 |
-| [UA](./country/UA.txt) | Ukraine | 2,779 | 10,188,320 |
+| [UA](./country/UA.txt) | Ukraine | 2,771 | 10,183,456 |
 | [UG](./country/UG.txt) | Uganda | 82 | 1,427,200 |
 | [US](./country/US.txt) | United States | 24,128 | 1,614,119,264 |
 | [UY](./country/UY.txt) | Uruguay | 50 | 2,440,960 |
