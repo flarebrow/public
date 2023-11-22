@@ -2839,6 +2839,8 @@ allow from 175.184.0.0/17
 allow from 180.0.0.0/10
 allow from 180.92.16.0/20
 allow from 180.92.32.0/19
+allow from 180.94.1.0/24
+allow from 180.94.6.0/24
 allow from 180.94.40.0/21
 allow from 180.94.192.0/20
 allow from 180.94.208.0/21
@@ -3427,6 +3429,7 @@ allow from 198.74.24.0/23
 allow from 198.144.128.0/20
 allow from 198.144.160.0/20
 allow from 198.180.142.0/24
+allow from 198.204.78.0/24
 allow from 199.43.18.0/24
 allow from 199.67.71.0/24
 allow from 199.230.100.0/22
