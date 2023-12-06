@@ -2241,7 +2241,12 @@ allow from 150.36.0.0/16
 allow from 150.37.0.0/16
 allow from 150.38.0.0/16
 allow from 150.39.0.0/16
-allow from 150.40.0.0/16
+allow from 150.40.0.0/18
+allow from 150.40.64.0/21
+allow from 150.40.72.0/21
+allow from 150.40.80.0/20
+allow from 150.40.96.0/19
+allow from 150.40.128.0/17
 allow from 150.41.0.0/16
 allow from 150.42.0.0/16
 allow from 150.43.0.0/16
@@ -4244,6 +4249,8 @@ allow from 210.81.32.0/19
 allow from 210.81.64.0/18
 allow from 210.81.128.0/18
 allow from 210.81.192.0/18
+allow from 210.87.75.0/24
+allow from 210.87.98.0/24
 allow from 210.87.224.0/20
 allow from 210.88.0.0/20
 allow from 210.88.16.0/20
