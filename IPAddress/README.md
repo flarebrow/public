@@ -21,7 +21,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 158 | 764,672 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 148 | 782,848 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 1,846 | 1,986,816 |
+| [BD](./country/BD.txt) | Bangladesh | 1,847 | 1,987,328 |
 | [BE](./country/BE.txt) | Belgium | 882 | 12,481,408 |
 | [BF](./country/BF.txt) | Burkina Faso | 46 | 335,360 |
 | [BG](./country/BG.txt) | Bulgaria | 1,257 | 4,372,224 |
