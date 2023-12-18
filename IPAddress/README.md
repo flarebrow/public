@@ -15,13 +15,13 @@
 | [AR](./country/AR.txt) | Argentina | 1,577 | 19,467,776 |
 | [AS](./country/AS.txt) | American Samoa | 3 | 5,632 |
 | [AT](./country/AT.txt) | Austria | 1,812 | 11,223,392 |
-| [AU](./country/AU.txt) | Australia | 5,660 | 47,430,144 |
+| [AU](./country/AU.txt) | Australia | 5,660 | 47,430,400 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 1 | 4,096 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 158 | 764,672 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 148 | 782,848 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 1,849 | 1,987,328 |
+| [BD](./country/BD.txt) | Bangladesh | 1,850 | 1,987,584 |
 | [BE](./country/BE.txt) | Belgium | 884 | 12,530,816 |
 | [BF](./country/BF.txt) | Burkina Faso | 46 | 335,360 |
 | [BG](./country/BG.txt) | Bulgaria | 1,258 | 4,371,968 |
@@ -98,7 +98,7 @@
 | [HR](./country/HR.txt) | Croatia | 245 | 2,331,648 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 630 | 5,940,736 |
-| [ID](./country/ID.txt) | Indonesia | 3,963 | 18,824,192 |
+| [ID](./country/ID.txt) | Indonesia | 3,964 | 18,827,264 |
 | [IE](./country/IE.txt) | Ireland | 682 | 11,055,680 |
 | [IL](./country/IL.txt) | Israel | 687 | 7,975,680 |
 | [IM](./country/IM.txt) | Isle of Man | 61 | 131,584 |
@@ -111,7 +111,7 @@
 | [JE](./country/JE.txt) | Jersey | 37 | 143,360 |
 | [JM](./country/JM.txt) | Jamaica | 42 | 209,920 |
 | [JO](./country/JO.txt) | Jordan | 121 | 646,528 |
-| [JP](./country/JP.txt) | Japan | 2,985 | 190,138,880 |
+| [JP](./country/JP.txt) | Japan | 2,984 | 190,138,368 |
 | [KE](./country/KE.txt) | Kenya | 264 | 6,158,592 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 80 | 267,776 |
 | [KH](./country/KH.txt) | Cambodia | 252 | 407,296 |
@@ -165,7 +165,7 @@
 | [NI](./country/NI.txt) | Nicaragua | 50 | 412,160 |
 | [NL](./country/NL.txt) | Netherlands | 5,359 | 49,875,232 |
 | [NO](./country/NO.txt) | Norway | 1,180 | 15,537,680 |
-| [NP](./country/NP.txt) | Nepal | 232 | 583,424 |
+| [NP](./country/NP.txt) | Nepal | 233 | 583,936 |
 | [NR](./country/NR.txt) | Nauru | 6 | 9,728 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
 | [NZ](./country/NZ.txt) | New Zealand | 1,280 | 6,801,920 |
