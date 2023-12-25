@@ -48,7 +48,7 @@
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
 | [CL](./country/CL.txt) | Chile | 619 | 10,028,032 |
 | [CM](./country/CM.txt) | Cameroon | 53 | 662,272 |
-| [CN](./country/CN.txt) | China | 5,465 | 343,128,064 |
+| [CN](./country/CN.txt) | China | 5,466 | 343,128,576 |
 | [CO](./country/CO.txt) | Colombia | 492 | 17,365,760 |
 | [CR](./country/CR.txt) | Costa Rica | 171 | 2,332,928 |
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
@@ -221,7 +221,7 @@
 | [TR](./country/TR.txt) | Turkey | 1,391 | 16,758,784 |
 | [TT](./country/TT.txt) | Trinidad and Tobago | 50 | 544,768 |
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
-| [TW](./country/TW.txt) | Taiwan, Province of China | 693 | 35,714,560 |
+| [TW](./country/TW.txt) | Taiwan, Province of China | 694 | 35,715,072 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 154 | 1,064,704 |
 | [UA](./country/UA.txt) | Ukraine | 2,769 | 10,177,952 |
 | [UG](./country/UG.txt) | Uganda | 84 | 1,428,480 |
