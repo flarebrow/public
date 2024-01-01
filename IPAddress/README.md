@@ -102,7 +102,7 @@
 | [IE](./country/IE.txt) | Ireland | 683 | 11,056,704 |
 | [IL](./country/IL.txt) | Israel | 689 | 7,976,960 |
 | [IM](./country/IM.txt) | Isle of Man | 61 | 131,584 |
-| [IN](./country/IN.txt) | India | 6,480 | 41,618,176 |
+| [IN](./country/IN.txt) | India | 6,482 | 41,619,712 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 277 | 450,048 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,550 | 12,178,176 |
