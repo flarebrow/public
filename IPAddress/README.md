@@ -21,7 +21,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 159 | 764,928 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 148 | 782,848 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 1,860 | 1,992,192 |
+| [BD](./country/BD.txt) | Bangladesh | 1,862 | 1,993,728 |
 | [BE](./country/BE.txt) | Belgium | 885 | 12,563,584 |
 | [BF](./country/BF.txt) | Burkina Faso | 46 | 335,360 |
 | [BG](./country/BG.txt) | Bulgaria | 1,262 | 4,327,936 |
@@ -98,18 +98,18 @@
 | [HR](./country/HR.txt) | Croatia | 246 | 2,333,696 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 630 | 5,932,032 |
-| [ID](./country/ID.txt) | Indonesia | 3,998 | 18,851,584 |
+| [ID](./country/ID.txt) | Indonesia | 4,001 | 18,853,376 |
 | [IE](./country/IE.txt) | Ireland | 683 | 11,056,704 |
 | [IL](./country/IL.txt) | Israel | 689 | 7,976,960 |
 | [IM](./country/IM.txt) | Isle of Man | 61 | 131,584 |
-| [IN](./country/IN.txt) | India | 6,484 | 41,621,248 |
+| [IN](./country/IN.txt) | India | 6,487 | 41,622,528 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 277 | 450,048 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,550 | 12,145,408 |
 | [IS](./country/IS.txt) | Iceland | 132 | 887,040 |
 | [IT](./country/IT.txt) | Italy | 3,126 | 53,993,792 |
 | [JE](./country/JE.txt) | Jersey | 38 | 143,872 |
-| [JM](./country/JM.txt) | Jamaica | 42 | 209,920 |
+| [JM](./country/JM.txt) | Jamaica | 46 | 220,160 |
 | [JO](./country/JO.txt) | Jordan | 120 | 646,400 |
 | [JP](./country/JP.txt) | Japan | 3,001 | 190,163,200 |
 | [KE](./country/KE.txt) | Kenya | 265 | 6,159,616 |
@@ -165,7 +165,7 @@
 | [NI](./country/NI.txt) | Nicaragua | 50 | 412,160 |
 | [NL](./country/NL.txt) | Netherlands | 5,359 | 49,771,808 |
 | [NO](./country/NO.txt) | Norway | 1,180 | 15,537,680 |
-| [NP](./country/NP.txt) | Nepal | 233 | 583,936 |
+| [NP](./country/NP.txt) | Nepal | 234 | 584,448 |
 | [NR](./country/NR.txt) | Nauru | 6 | 9,728 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
 | [NZ](./country/NZ.txt) | New Zealand | 1,281 | 6,802,432 |
@@ -233,7 +233,7 @@
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 213 | 6,708,736 |
 | [VG](./country/VG.txt) | Virgin Islands, British | 111 | 90,112 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 16 | 110,336 |
-| [VN](./country/VN.txt) | Viet Nam | 990 | 16,297,728 |
+| [VN](./country/VN.txt) | Viet Nam | 991 | 16,298,240 |
 | [VU](./country/VU.txt) | Vanuatu | 19 | 15,872 |
 | [WF](./country/WF.txt) | Wallis and Futuna | 3 | 3,584 |
 | [WS](./country/WS.txt) | Samoa | 15 | 19,456 |
