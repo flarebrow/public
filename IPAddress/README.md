@@ -32,7 +32,7 @@
 | [BN](./country/BN.txt) | Brunei Darussalam | 36 | 216,320 |
 | [BO](./country/BO.txt) | Bolivia, Plurinational State of | 101 | 1,169,920 |
 | [BQ](./country/BQ.txt) | Bonaire, Sint Eustatius and Saba | 12 | 24,832 |
-| [BR](./country/BR.txt) | Brazil | 4,450 | 87,133,184 |
+| [BR](./country/BR.txt) | Brazil | 4,451 | 87,134,208 |
 | [BS](./country/BS.txt) | Bahamas | 23 | 137,728 |
 | [BT](./country/BT.txt) | Bhutan | 34 | 42,752 |
 | [BW](./country/BW.txt) | Botswana | 48 | 162,048 |
@@ -111,7 +111,7 @@
 | [JM](./country/JM.txt) | Jamaica | 46 | 220,160 |
 | [JO](./country/JO.txt) | Jordan | 120 | 646,400 |
 | [JP](./country/JP.txt) | Japan | 3,003 | 190,164,480 |
-| [KE](./country/KE.txt) | Kenya | 268 | 6,163,712 |
+| [KE](./country/KE.txt) | Kenya | 267 | 6,162,688 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 81 | 268,032 |
 | [KH](./country/KH.txt) | Cambodia | 252 | 407,552 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
@@ -195,7 +195,7 @@
 | [SE](./country/SE.txt) | Sweden | 1,933 | 30,047,528 |
 | [SG](./country/SG.txt) | Singapore | 1,484 | 26,121,984 |
 | [SI](./country/SI.txt) | Slovenia | 506 | 2,672,640 |
-| [SK](./country/SK.txt) | Slovakia | 417 | 2,728,192 |
+| [SK](./country/SK.txt) | Slovakia | 418 | 2,728,448 |
 | [SL](./country/SL.txt) | Sierra Leone | 23 | 81,664 |
 | [SM](./country/SM.txt) | San Marino | 20 | 38,912 |
 | [SN](./country/SN.txt) | Senegal | 25 | 401,920 |
@@ -222,9 +222,9 @@
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
 | [TW](./country/TW.txt) | Taiwan, Province of China | 690 | 35,709,952 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 156 | 1,066,752 |
-| [UA](./country/UA.txt) | Ukraine | 2,764 | 9,922,464 |
+| [UA](./country/UA.txt) | Ukraine | 2,763 | 9,922,208 |
 | [UG](./country/UG.txt) | Uganda | 84 | 1,428,480 |
-| [US](./country/US.txt) | United States | 24,391 | 1,613,596,768 |
+| [US](./country/US.txt) | United States | 24,394 | 1,613,597,536 |
 | [UY](./country/UY.txt) | Uruguay | 51 | 2,441,216 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 127 | 278,016 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
@@ -238,7 +238,7 @@
 | [WS](./country/WS.txt) | Samoa | 15 | 19,456 |
 | [YE](./country/YE.txt) | Yemen | 29 | 233,472 |
 | [YT](./country/YT.txt) | Mayotte | 1 | 1,024 |
-| [ZA](./country/ZA.txt) | South Africa | 1,460 | 27,126,784 |
+| [ZA](./country/ZA.txt) | South Africa | 1,459 | 27,061,248 |
 | [ZM](./country/ZM.txt) | Zambia | 37 | 1,646,848 |
 | [ZW](./country/ZW.txt) | Zimbabwe | 39 | 102,656 |
-| [ZZ](./country/ZZ.txt) | unknown | 447 | 5,372,672 |
+| [ZZ](./country/ZZ.txt) | unknown | 449 | 5,439,232 |
