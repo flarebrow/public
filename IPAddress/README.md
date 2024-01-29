@@ -20,7 +20,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 160 | 765,184 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 148 | 782,848 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 1,870 | 1,999,104 |
+| [BD](./country/BD.txt) | Bangladesh | 1,871 | 1,999,616 |
 | [BE](./country/BE.txt) | Belgium | 887 | 12,563,840 |
 | [BF](./country/BF.txt) | Burkina Faso | 46 | 335,360 |
 | [BG](./country/BG.txt) | Bulgaria | 1,273 | 4,326,144 |
@@ -92,12 +92,12 @@
 | [GU](./country/GU.txt) | Guam | 26 | 218,880 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 3 | 5,632 |
 | [GY](./country/GY.txt) | Guyana | 13 | 68,864 |
-| [HK](./country/HK.txt) | Hong Kong | 2,486 | 13,030,656 |
+| [HK](./country/HK.txt) | Hong Kong | 2,485 | 13,026,560 |
 | [HN](./country/HN.txt) | Honduras | 185 | 534,528 |
 | [HR](./country/HR.txt) | Croatia | 253 | 2,335,488 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 632 | 5,932,544 |
-| [ID](./country/ID.txt) | Indonesia | 4,028 | 18,871,552 |
+| [ID](./country/ID.txt) | Indonesia | 4,032 | 18,873,600 |
 | [IE](./country/IE.txt) | Ireland | 687 | 11,055,936 |
 | [IL](./country/IL.txt) | Israel | 692 | 7,978,496 |
 | [IM](./country/IM.txt) | Isle of Man | 61 | 131,584 |
@@ -110,8 +110,8 @@
 | [JE](./country/JE.txt) | Jersey | 39 | 144,128 |
 | [JM](./country/JM.txt) | Jamaica | 46 | 220,160 |
 | [JO](./country/JO.txt) | Jordan | 120 | 646,400 |
-| [JP](./country/JP.txt) | Japan | 3,003 | 190,164,480 |
-| [KE](./country/KE.txt) | Kenya | 267 | 6,162,688 |
+| [JP](./country/JP.txt) | Japan | 3,006 | 190,167,552 |
+| [KE](./country/KE.txt) | Kenya | 268 | 6,163,712 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 81 | 268,032 |
 | [KH](./country/KH.txt) | Cambodia | 252 | 407,552 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
@@ -142,7 +142,7 @@
 | [MH](./country/MH.txt) | Marshall Islands | 4 | 4,352 |
 | [MK](./country/MK.txt) | North Macedonia | 103 | 688,128 |
 | [ML](./country/ML.txt) | Mali | 27 | 92,672 |
-| [MM](./country/MM.txt) | Myanmar | 212 | 230,912 |
+| [MM](./country/MM.txt) | Myanmar | 214 | 232,448 |
 | [MN](./country/MN.txt) | Mongolia | 119 | 214,272 |
 | [MO](./country/MO.txt) | Macao | 30 | 337,664 |
 | [MP](./country/MP.txt) | Northern Mariana Islands | 5 | 15,360 |
@@ -164,7 +164,7 @@
 | [NI](./country/NI.txt) | Nicaragua | 50 | 412,160 |
 | [NL](./country/NL.txt) | Netherlands | 5,391 | 49,809,696 |
 | [NO](./country/NO.txt) | Norway | 1,181 | 15,537,936 |
-| [NP](./country/NP.txt) | Nepal | 234 | 584,448 |
+| [NP](./country/NP.txt) | Nepal | 235 | 584,960 |
 | [NR](./country/NR.txt) | Nauru | 6 | 9,728 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
 | [NZ](./country/NZ.txt) | New Zealand | 1,284 | 6,798,080 |
@@ -193,7 +193,7 @@
 | [SC](./country/SC.txt) | Seychelles | 410 | 7,285,504 |
 | [SD](./country/SD.txt) | Sudan | 35 | 1,892,096 |
 | [SE](./country/SE.txt) | Sweden | 1,933 | 30,047,528 |
-| [SG](./country/SG.txt) | Singapore | 1,484 | 26,121,984 |
+| [SG](./country/SG.txt) | Singapore | 1,483 | 26,119,936 |
 | [SI](./country/SI.txt) | Slovenia | 506 | 2,672,640 |
 | [SK](./country/SK.txt) | Slovakia | 418 | 2,728,448 |
 | [SL](./country/SL.txt) | Sierra Leone | 23 | 81,664 |
@@ -224,7 +224,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 156 | 1,066,752 |
 | [UA](./country/UA.txt) | Ukraine | 2,763 | 9,922,208 |
 | [UG](./country/UG.txt) | Uganda | 84 | 1,428,480 |
-| [US](./country/US.txt) | United States | 24,394 | 1,613,597,536 |
+| [US](./country/US.txt) | United States | 24,397 | 1,613,598,304 |
 | [UY](./country/UY.txt) | Uruguay | 51 | 2,441,216 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 127 | 278,016 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
@@ -241,4 +241,4 @@
 | [ZA](./country/ZA.txt) | South Africa | 1,459 | 27,061,248 |
 | [ZM](./country/ZM.txt) | Zambia | 37 | 1,646,848 |
 | [ZW](./country/ZW.txt) | Zimbabwe | 39 | 102,656 |
-| [ZZ](./country/ZZ.txt) | unknown | 449 | 5,439,232 |
+| [ZZ](./country/ZZ.txt) | unknown | 450 | 5,438,208 |
