@@ -2408,7 +2408,6 @@ allow from 157.5.0.0/19
 allow from 157.5.32.0/20
 allow from 157.5.48.0/20
 allow from 157.5.64.0/18
-allow from 157.5.128.0/17
 allow from 157.6.0.0/16
 allow from 157.7.0.0/19
 allow from 157.7.32.0/19
@@ -2478,7 +2477,6 @@ allow from 157.65.224.0/19
 allow from 157.67.0.0/16
 allow from 157.68.0.0/16
 allow from 157.69.0.0/16
-allow from 157.70.0.0/17
 allow from 157.70.128.0/19
 allow from 157.70.160.0/19
 allow from 157.70.192.0/20
