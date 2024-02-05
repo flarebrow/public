@@ -20,7 +20,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 161 | 765,440 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 148 | 782,848 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 1,871 | 1,999,104 |
+| [BD](./country/BD.txt) | Bangladesh | 1,872 | 1,999,360 |
 | [BE](./country/BE.txt) | Belgium | 887 | 12,563,840 |
 | [BF](./country/BF.txt) | Burkina Faso | 46 | 335,360 |
 | [BG](./country/BG.txt) | Bulgaria | 1,272 | 4,324,096 |
@@ -101,7 +101,7 @@
 | [IE](./country/IE.txt) | Ireland | 689 | 11,057,984 |
 | [IL](./country/IL.txt) | Israel | 692 | 7,978,496 |
 | [IM](./country/IM.txt) | Isle of Man | 61 | 131,584 |
-| [IN](./country/IN.txt) | India | 6,502 | 41,633,024 |
+| [IN](./country/IN.txt) | India | 6,504 | 41,634,560 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 280 | 449,280 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,573 | 12,117,504 |
@@ -118,11 +118,11 @@
 | [KM](./country/KM.txt) | Comoros | 3 | 6,144 |
 | [KN](./country/KN.txt) | Saint Kitts and Nevis | 13 | 16,640 |
 | [KP](./country/KP.txt) | Korea, Democratic People's Republic of | 1 | 1,024 |
-| [KR](./country/KR.txt) | Korea, Republic of | 989 | 112,502,784 |
+| [KR](./country/KR.txt) | Korea, Republic of | 988 | 112,501,760 |
 | [KW](./country/KW.txt) | Kuwait | 130 | 1,907,200 |
 | [KY](./country/KY.txt) | Cayman Islands | 23 | 44,288 |
 | [KZ](./country/KZ.txt) | Kazakhstan | 481 | 3,257,088 |
-| [LA](./country/LA.txt) | Lao People's Democratic Republic | 53 | 85,504 |
+| [LA](./country/LA.txt) | Lao People's Democratic Republic | 54 | 86,016 |
 | [LB](./country/LB.txt) | Lebanon | 224 | 594,432 |
 | [LC](./country/LC.txt) | Saint Lucia | 19 | 20,480 |
 | [LI](./country/LI.txt) | Liechtenstein | 59 | 105,472 |
@@ -230,7 +230,7 @@
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
 | [VC](./country/VC.txt) | Saint Vincent and the Grenadines | 11 | 10,240 |
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 212 | 6,708,480 |
-| [VG](./country/VG.txt) | Virgin Islands, British | 111 | 90,112 |
+| [VG](./country/VG.txt) | Virgin Islands, British | 112 | 91,136 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 16 | 110,336 |
 | [VN](./country/VN.txt) | Viet Nam | 1,003 | 16,306,944 |
 | [VU](./country/VU.txt) | Vanuatu | 19 | 15,872 |
