@@ -111,7 +111,7 @@
 | [JM](./country/JM.txt) | Jamaica | 48 | 222,208 |
 | [JO](./country/JO.txt) | Jordan | 119 | 645,376 |
 | [JP](./country/JP.txt) | Japan | 3,025 | 189,944,576 |
-| [KE](./country/KE.txt) | Kenya | 267 | 6,162,688 |
+| [KE](./country/KE.txt) | Kenya | 269 | 6,163,200 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 81 | 267,520 |
 | [KH](./country/KH.txt) | Cambodia | 254 | 408,832 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
@@ -150,7 +150,7 @@
 | [MR](./country/MR.txt) | Mauritania | 14 | 47,360 |
 | [MS](./country/MS.txt) | Montserrat | 2 | 1,280 |
 | [MT](./country/MT.txt) | Malta | 126 | 688,256 |
-| [MU](./country/MU.txt) | Mauritius | 102 | 4,779,008 |
+| [MU](./country/MU.txt) | Mauritius | 103 | 4,780,032 |
 | [MV](./country/MV.txt) | Maldives | 45 | 93,952 |
 | [MW](./country/MW.txt) | Malawi | 42 | 552,448 |
 | [MX](./country/MX.txt) | Mexico | 741 | 29,023,488 |
@@ -241,4 +241,4 @@
 | [ZA](./country/ZA.txt) | South Africa | 1,461 | 27,055,872 |
 | [ZM](./country/ZM.txt) | Zambia | 37 | 1,646,848 |
 | [ZW](./country/ZW.txt) | Zimbabwe | 38 | 101,632 |
-| [ZZ](./country/ZZ.txt) | unknown | 517 | 5,588,224 |
+| [ZZ](./country/ZZ.txt) | unknown | 515 | 5,586,688 |
