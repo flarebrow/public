@@ -97,7 +97,7 @@
 | [HR](./country/HR.txt) | Croatia | 254 | 2,336,768 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 636 | 5,920,768 |
-| [ID](./country/ID.txt) | Indonesia | 4,123 | 18,902,528 |
+| [ID](./country/ID.txt) | Indonesia | 4,125 | 18,903,552 |
 | [IE](./country/IE.txt) | Ireland | 688 | 11,056,960 |
 | [IL](./country/IL.txt) | Israel | 696 | 7,979,584 |
 | [IM](./country/IM.txt) | Isle of Man | 61 | 131,584 |
@@ -232,7 +232,7 @@
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 213 | 6,708,736 |
 | [VG](./country/VG.txt) | Virgin Islands, British | 113 | 95,232 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 16 | 110,336 |
-| [VN](./country/VN.txt) | Viet Nam | 1,012 | 16,312,576 |
+| [VN](./country/VN.txt) | Viet Nam | 1,014 | 16,313,600 |
 | [VU](./country/VU.txt) | Vanuatu | 19 | 15,872 |
 | [WF](./country/WF.txt) | Wallis and Futuna | 3 | 3,584 |
 | [WS](./country/WS.txt) | Samoa | 15 | 19,456 |
