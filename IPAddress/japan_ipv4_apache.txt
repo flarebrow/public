@@ -2090,7 +2090,10 @@ allow from 125.254.56.0/22
 allow from 126.0.0.0/11
 allow from 126.32.0.0/12
 allow from 126.48.0.0/14
-allow from 126.52.0.0/16
+allow from 126.52.0.0/19
+allow from 126.52.32.0/19
+allow from 126.52.64.0/18
+allow from 126.52.128.0/17
 allow from 126.53.0.0/16
 allow from 126.54.0.0/15
 allow from 126.56.0.0/13
