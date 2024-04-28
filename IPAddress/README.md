@@ -147,7 +147,7 @@
 | [MO](./country/MO.txt) | Macao | 30 | 337,664 |
 | [MP](./country/MP.txt) | Northern Mariana Islands | 5 | 15,360 |
 | [MQ](./country/MQ.txt) | Martinique | 21 | 134,656 |
-| [MR](./country/MR.txt) | Mauritania | 14 | 47,360 |
+| [MR](./country/MR.txt) | Mauritania | 13 | 46,336 |
 | [MS](./country/MS.txt) | Montserrat | 2 | 1,280 |
 | [MT](./country/MT.txt) | Malta | 126 | 688,256 |
 | [MU](./country/MU.txt) | Mauritius | 103 | 4,780,032 |
@@ -241,4 +241,4 @@
 | [ZA](./country/ZA.txt) | South Africa | 1,464 | 27,055,360 |
 | [ZM](./country/ZM.txt) | Zambia | 37 | 1,646,848 |
 | [ZW](./country/ZW.txt) | Zimbabwe | 38 | 101,632 |
-| [ZZ](./country/ZZ.txt) | unknown | 513 | 5,575,680 |
+| [ZZ](./country/ZZ.txt) | unknown | 514 | 5,576,704 |
