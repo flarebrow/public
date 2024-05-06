@@ -97,7 +97,7 @@
 | [HR](./country/HR.txt) | Croatia | 256 | 2,345,216 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 637 | 5,921,024 |
-| [ID](./country/ID.txt) | Indonesia | 4,145 | 18,914,304 |
+| [ID](./country/ID.txt) | Indonesia | 4,147 | 18,916,352 |
 | [IE](./country/IE.txt) | Ireland | 689 | 11,059,264 |
 | [IL](./country/IL.txt) | Israel | 697 | 7,980,864 |
 | [IM](./country/IM.txt) | Isle of Man | 61 | 131,584 |
@@ -224,7 +224,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 160 | 1,069,568 |
 | [UA](./country/UA.txt) | Ukraine | 2,717 | 9,573,664 |
 | [UG](./country/UG.txt) | Uganda | 87 | 1,430,784 |
-| [US](./country/US.txt) | United States | 24,655 | 1,614,883,424 |
+| [US](./country/US.txt) | United States | 24,652 | 1,614,885,472 |
 | [UY](./country/UY.txt) | Uruguay | 52 | 2,441,472 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 128 | 278,528 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
@@ -232,7 +232,7 @@
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 214 | 6,709,248 |
 | [VG](./country/VG.txt) | Virgin Islands, British | 114 | 97,280 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 17 | 118,528 |
-| [VN](./country/VN.txt) | Viet Nam | 1,023 | 16,320,256 |
+| [VN](./country/VN.txt) | Viet Nam | 1,025 | 16,322,816 |
 | [VU](./country/VU.txt) | Vanuatu | 19 | 15,872 |
 | [WF](./country/WF.txt) | Wallis and Futuna | 3 | 3,584 |
 | [WS](./country/WS.txt) | Samoa | 15 | 19,456 |
