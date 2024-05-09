@@ -2472,6 +2472,7 @@ allow from 157.66.22.0/23
 allow from 157.66.72.0/23
 allow from 157.66.180.0/23
 allow from 157.66.182.0/23
+allow from 157.66.254.0/23
 allow from 157.67.0.0/16
 allow from 157.68.0.0/16
 allow from 157.69.0.0/16
