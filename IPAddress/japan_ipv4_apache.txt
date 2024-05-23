@@ -2226,7 +2226,8 @@ allow from 149.234.190.0/24
 allow from 150.1.0.0/16
 allow from 150.2.0.0/16
 allow from 150.3.0.0/16
-allow from 150.4.0.0/15
+allow from 150.4.0.0/16
+allow from 150.5.64.0/18
 allow from 150.6.0.0/16
 allow from 150.7.0.0/16
 allow from 150.8.0.0/16
@@ -2607,6 +2608,7 @@ allow from 160.16.0.0/16
 allow from 160.17.0.0/16
 allow from 160.18.0.0/16
 allow from 160.20.44.0/22
+allow from 160.20.140.0/23
 allow from 160.21.0.0/16
 allow from 160.23.0.0/16
 allow from 160.24.0.0/16
