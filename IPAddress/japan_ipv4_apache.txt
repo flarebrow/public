@@ -2291,7 +2291,8 @@ allow from 150.44.0.0/16
 allow from 150.45.0.0/16
 allow from 150.46.0.0/16
 allow from 150.47.0.0/16
-allow from 150.48.0.0/16
+allow from 150.48.0.0/17
+allow from 150.48.192.0/18
 allow from 150.49.0.0/16
 allow from 150.50.0.0/16
 allow from 150.51.0.0/16
