@@ -97,7 +97,7 @@
 | [HR](./country/HR.txt) | Croatia | 256 | 2,345,216 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 637 | 5,921,024 |
-| [ID](./country/ID.txt) | Indonesia | 4,168 | 18,934,016 |
+| [ID](./country/ID.txt) | Indonesia | 4,170 | 18,934,784 |
 | [IE](./country/IE.txt) | Ireland | 686 | 11,054,912 |
 | [IL](./country/IL.txt) | Israel | 695 | 7,980,096 |
 | [IM](./country/IM.txt) | Isle of Man | 61 | 131,584 |
@@ -172,7 +172,7 @@
 | [PA](./country/PA.txt) | Panama | 139 | 1,737,984 |
 | [PE](./country/PE.txt) | Peru | 219 | 3,240,704 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
-| [PG](./country/PG.txt) | Papua New Guinea | 64 | 71,424 |
+| [PG](./country/PG.txt) | Papua New Guinea | 65 | 71,680 |
 | [PH](./country/PH.txt) | Philippines | 728 | 6,125,056 |
 | [PK](./country/PK.txt) | Pakistan | 620 | 5,451,776 |
 | [PL](./country/PL.txt) | Poland | 3,841 | 20,028,936 |
@@ -232,7 +232,7 @@
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 213 | 6,705,152 |
 | [VG](./country/VG.txt) | Virgin Islands, British | 116 | 171,008 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 17 | 118,528 |
-| [VN](./country/VN.txt) | Viet Nam | 1,030 | 16,325,376 |
+| [VN](./country/VN.txt) | Viet Nam | 1,031 | 16,325,888 |
 | [VU](./country/VU.txt) | Vanuatu | 19 | 15,872 |
 | [WF](./country/WF.txt) | Wallis and Futuna | 3 | 3,584 |
 | [WS](./country/WS.txt) | Samoa | 15 | 19,456 |
