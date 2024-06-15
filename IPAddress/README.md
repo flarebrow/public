@@ -3,7 +3,7 @@
 | country code | country name | entry | count |
 | --- | --- | --- | --- |
 | [AD](./country/AD.txt) | Andorra | 21 | 57,344 |
-| [AE](./country/AE.txt) | United Arab Emirates | 832 | 5,269,120 |
+| [AE](./country/AE.txt) | United Arab Emirates | 834 | 5,465,728 |
 | [AF](./country/AF.txt) | Afghanistan | 121 | 175,872 |
 | [AG](./country/AG.txt) | Antigua and Barbuda | 42 | 180,480 |
 | [AI](./country/AI.txt) | Anguilla | 9 | 9,728 |
@@ -32,7 +32,7 @@
 | [BN](./country/BN.txt) | Brunei Darussalam | 36 | 216,320 |
 | [BO](./country/BO.txt) | Bolivia, Plurinational State of | 101 | 1,169,920 |
 | [BQ](./country/BQ.txt) | Bonaire, Sint Eustatius and Saba | 12 | 24,832 |
-| [BR](./country/BR.txt) | Brazil | 4,458 | 87,128,576 |
+| [BR](./country/BR.txt) | Brazil | 4,457 | 87,130,624 |
 | [BS](./country/BS.txt) | Bahamas | 25 | 138,496 |
 | [BT](./country/BT.txt) | Bhutan | 34 | 42,752 |
 | [BW](./country/BW.txt) | Botswana | 46 | 158,976 |
@@ -55,7 +55,7 @@
 | [CW](./country/CW.txt) | Curaçao | 41 | 201,216 |
 | [CY](./country/CY.txt) | Cyprus | 494 | 1,256,768 |
 | [CZ](./country/CZ.txt) | Czechia | 1,530 | 9,552,000 |
-| [DE](./country/DE.txt) | Germany | 8,277 | 124,226,880 |
+| [DE](./country/DE.txt) | Germany | 8,278 | 124,235,072 |
 | [DJ](./country/DJ.txt) | Djibouti | 7 | 46,080 |
 | [DK](./country/DK.txt) | Denmark | 1,229 | 11,908,704 |
 | [DM](./country/DM.txt) | Dominica | 14 | 14,592 |
@@ -75,7 +75,7 @@
 | [FO](./country/FO.txt) | Faroe Islands | 14 | 45,056 |
 | [FR](./country/FR.txt) | France | 3,981 | 82,115,696 |
 | [GA](./country/GA.txt) | Gabon | 26 | 394,752 |
-| [GB](./country/GB.txt) | United Kingdom | 7,566 | 128,926,536 |
+| [GB](./country/GB.txt) | United Kingdom | 7,567 | 128,918,344 |
 | [GD](./country/GD.txt) | Grenada | 13 | 10,752 |
 | [GE](./country/GE.txt) | Georgia | 268 | 1,276,992 |
 | [GF](./country/GF.txt) | French Guiana | 6 | 22,528 |
@@ -104,7 +104,7 @@
 | [IN](./country/IN.txt) | India | 6,560 | 41,714,688 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 282 | 449,792 |
-| [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,585 | 11,727,872 |
+| [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,583 | 11,531,264 |
 | [IS](./country/IS.txt) | Iceland | 141 | 893,440 |
 | [IT](./country/IT.txt) | Italy | 3,179 | 54,033,728 |
 | [JE](./country/JE.txt) | Jersey | 40 | 144,384 |
@@ -169,7 +169,7 @@
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
 | [NZ](./country/NZ.txt) | New Zealand | 1,278 | 6,701,824 |
 | [OM](./country/OM.txt) | Oman | 75 | 951,296 |
-| [PA](./country/PA.txt) | Panama | 138 | 1,737,728 |
+| [PA](./country/PA.txt) | Panama | 136 | 1,737,216 |
 | [PE](./country/PE.txt) | Peru | 219 | 3,240,704 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 65 | 71,680 |
@@ -177,7 +177,7 @@
 | [PK](./country/PK.txt) | Pakistan | 622 | 5,452,544 |
 | [PL](./country/PL.txt) | Poland | 3,841 | 20,025,096 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
-| [PR](./country/PR.txt) | Puerto Rico | 193 | 759,808 |
+| [PR](./country/PR.txt) | Puerto Rico | 197 | 761,344 |
 | [PS](./country/PS.txt) | Palestine, State of | 242 | 875,264 |
 | [PT](./country/PT.txt) | Portugal | 404 | 6,692,384 |
 | [PW](./country/PW.txt) | Palau | 4 | 6,144 |
@@ -222,9 +222,9 @@
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
 | [TW](./country/TW.txt) | Taiwan, Province of China | 696 | 35,710,464 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 162 | 1,071,616 |
-| [UA](./country/UA.txt) | Ukraine | 2,703 | 9,551,136 |
+| [UA](./country/UA.txt) | Ukraine | 2,705 | 9,551,648 |
 | [UG](./country/UG.txt) | Uganda | 87 | 1,430,784 |
-| [US](./country/US.txt) | United States | 24,804 | 1,614,198,112 |
+| [US](./country/US.txt) | United States | 24,806 | 1,614,198,624 |
 | [UY](./country/UY.txt) | Uruguay | 52 | 2,441,472 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 128 | 278,528 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
