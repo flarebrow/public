@@ -2610,6 +2610,7 @@ allow from 160.18.0.0/16
 allow from 160.20.44.0/22
 allow from 160.20.140.0/23
 allow from 160.21.0.0/16
+allow from 160.22.202.0/23
 allow from 160.23.0.0/16
 allow from 160.24.0.0/16
 allow from 160.26.0.0/16
