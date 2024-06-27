@@ -284,7 +284,8 @@ allow from 42.123.32.0/22
 allow from 42.124.0.0/14
 allow from 42.144.0.0/13
 allow from 42.187.124.0/22
-allow from 43.222.0.0/15
+allow from 43.222.0.0/16
+allow from 43.223.0.0/16
 allow from 43.224.32.0/22
 allow from 43.224.140.0/22
 allow from 43.228.174.0/24
