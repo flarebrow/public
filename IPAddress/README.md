@@ -55,14 +55,14 @@
 | [CW](./country/CW.txt) | Curaçao | 40 | 200,192 |
 | [CY](./country/CY.txt) | Cyprus | 499 | 1,266,496 |
 | [CZ](./country/CZ.txt) | Czechia | 1,531 | 9,552,256 |
-| [DE](./country/DE.txt) | Germany | 8,282 | 124,236,416 |
+| [DE](./country/DE.txt) | Germany | 8,281 | 124,235,392 |
 | [DJ](./country/DJ.txt) | Djibouti | 7 | 46,080 |
 | [DK](./country/DK.txt) | Denmark | 1,228 | 11,908,704 |
 | [DM](./country/DM.txt) | Dominica | 14 | 14,592 |
 | [DO](./country/DO.txt) | Dominican Republic | 132 | 1,613,312 |
 | [DZ](./country/DZ.txt) | Algeria | 31 | 4,762,112 |
 | [EC](./country/EC.txt) | Ecuador | 300 | 2,713,600 |
-| [EE](./country/EE.txt) | Estonia | 376 | 1,299,240 |
+| [EE](./country/EE.txt) | Estonia | 378 | 1,299,752 |
 | [EG](./country/EG.txt) | Egypt | 169 | 24,145,920 |
 | [ER](./country/ER.txt) | Eritrea | 1 | 4,096 |
 | [ES](./country/ES.txt) | Spain | 3,326 | 32,113,984 |
@@ -73,9 +73,9 @@
 | [FK](./country/FK.txt) | Falkland Islands (Malvinas) | 7 | 7,168 |
 | [FM](./country/FM.txt) | Micronesia, Federated States of | 5 | 8,704 |
 | [FO](./country/FO.txt) | Faroe Islands | 14 | 45,056 |
-| [FR](./country/FR.txt) | France | 3,986 | 82,116,976 |
+| [FR](./country/FR.txt) | France | 3,987 | 82,118,000 |
 | [GA](./country/GA.txt) | Gabon | 26 | 394,752 |
-| [GB](./country/GB.txt) | United Kingdom | 7,583 | 129,359,944 |
+| [GB](./country/GB.txt) | United Kingdom | 7,584 | 129,358,920 |
 | [GD](./country/GD.txt) | Grenada | 13 | 10,752 |
 | [GE](./country/GE.txt) | Georgia | 269 | 1,277,248 |
 | [GF](./country/GF.txt) | French Guiana | 6 | 22,528 |
@@ -175,7 +175,7 @@
 | [PG](./country/PG.txt) | Papua New Guinea | 65 | 71,680 |
 | [PH](./country/PH.txt) | Philippines | 734 | 6,127,616 |
 | [PK](./country/PK.txt) | Pakistan | 623 | 5,453,056 |
-| [PL](./country/PL.txt) | Poland | 3,855 | 19,964,168 |
+| [PL](./country/PL.txt) | Poland | 3,854 | 19,960,072 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 197 | 761,344 |
 | [PS](./country/PS.txt) | Palestine, State of | 242 | 875,264 |
@@ -186,15 +186,15 @@
 | [RE](./country/RE.txt) | Réunion | 24 | 424,704 |
 | [RO](./country/RO.txt) | Romania | 2,436 | 8,107,904 |
 | [RS](./country/RS.txt) | Serbia | 379 | 2,300,928 |
-| [RU](./country/RU.txt) | Russian Federation | 8,416 | 44,993,664 |
+| [RU](./country/RU.txt) | Russian Federation | 8,416 | 44,993,152 |
 | [RW](./country/RW.txt) | Rwanda | 27 | 280,320 |
-| [SA](./country/SA.txt) | Saudi Arabia | 534 | 10,678,272 |
+| [SA](./country/SA.txt) | Saudi Arabia | 535 | 10,679,296 |
 | [SB](./country/SB.txt) | Solomon Islands | 12 | 14,336 |
 | [SC](./country/SC.txt) | Seychelles | 817 | 7,478,272 |
 | [SD](./country/SD.txt) | Sudan | 34 | 1,891,072 |
 | [SE](./country/SE.txt) | Sweden | 1,943 | 30,413,608 |
 | [SG](./country/SG.txt) | Singapore | 1,561 | 26,267,136 |
-| [SI](./country/SI.txt) | Slovenia | 509 | 2,671,872 |
+| [SI](./country/SI.txt) | Slovenia | 510 | 2,672,896 |
 | [SK](./country/SK.txt) | Slovakia | 417 | 2,742,272 |
 | [SL](./country/SL.txt) | Sierra Leone | 23 | 80,896 |
 | [SM](./country/SM.txt) | San Marino | 20 | 38,912 |
@@ -222,11 +222,11 @@
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
 | [TW](./country/TW.txt) | Taiwan, Province of China | 698 | 35,714,560 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 164 | 1,073,664 |
-| [UA](./country/UA.txt) | Ukraine | 2,697 | 9,342,240 |
+| [UA](./country/UA.txt) | Ukraine | 2,698 | 9,341,216 |
 | [UG](./country/UG.txt) | Uganda | 87 | 1,430,784 |
-| [US](./country/US.txt) | United States | 24,941 | 1,614,212,704 |
+| [US](./country/US.txt) | United States | 24,944 | 1,614,217,312 |
 | [UY](./country/UY.txt) | Uruguay | 53 | 2,441,984 |
-| [UZ](./country/UZ.txt) | Uzbekistan | 130 | 282,880 |
+| [UZ](./country/UZ.txt) | Uzbekistan | 131 | 283,136 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
 | [VC](./country/VC.txt) | Saint Vincent and the Grenadines | 11 | 10,240 |
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 213 | 6,705,152 |
