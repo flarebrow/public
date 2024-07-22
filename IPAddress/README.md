@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | [AD](./country/AD.txt) | Andorra | 21 | 57,344 |
 | [AE](./country/AE.txt) | United Arab Emirates | 844 | 5,403,520 |
-| [AF](./country/AF.txt) | Afghanistan | 120 | 175,616 |
+| [AF](./country/AF.txt) | Afghanistan | 119 | 175,360 |
 | [AG](./country/AG.txt) | Antigua and Barbuda | 42 | 180,480 |
 | [AI](./country/AI.txt) | Anguilla | 9 | 9,728 |
 | [AL](./country/AL.txt) | Albania | 195 | 477,952 |
@@ -14,7 +14,7 @@
 | [AR](./country/AR.txt) | Argentina | 1,571 | 19,460,864 |
 | [AS](./country/AS.txt) | American Samoa | 3 | 5,632 |
 | [AT](./country/AT.txt) | Austria | 1,824 | 11,223,904 |
-| [AU](./country/AU.txt) | Australia | 5,659 | 46,573,056 |
+| [AU](./country/AU.txt) | Australia | 5,660 | 46,573,312 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 1 | 4,096 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 170 | 768,000 |
@@ -101,7 +101,7 @@
 | [IE](./country/IE.txt) | Ireland | 687 | 11,055,168 |
 | [IL](./country/IL.txt) | Israel | 698 | 7,982,400 |
 | [IM](./country/IM.txt) | Isle of Man | 59 | 130,304 |
-| [IN](./country/IN.txt) | India | 6,577 | 41,719,808 |
+| [IN](./country/IN.txt) | India | 6,579 | 41,720,320 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 280 | 448,768 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,597 | 11,600,896 |
@@ -126,7 +126,7 @@
 | [LB](./country/LB.txt) | Lebanon | 224 | 592,640 |
 | [LC](./country/LC.txt) | Saint Lucia | 19 | 20,480 |
 | [LI](./country/LI.txt) | Liechtenstein | 61 | 106,240 |
-| [LK](./country/LK.txt) | Sri Lanka | 64 | 564,224 |
+| [LK](./country/LK.txt) | Sri Lanka | 65 | 564,480 |
 | [LR](./country/LR.txt) | Liberia | 18 | 38,656 |
 | [LS](./country/LS.txt) | Lesotho | 19 | 120,832 |
 | [LT](./country/LT.txt) | Lithuania | 817 | 2,629,120 |
@@ -154,7 +154,7 @@
 | [MV](./country/MV.txt) | Maldives | 45 | 93,952 |
 | [MW](./country/MW.txt) | Malawi | 45 | 554,240 |
 | [MX](./country/MX.txt) | Mexico | 751 | 29,019,392 |
-| [MY](./country/MY.txt) | Malaysia | 758 | 6,688,256 |
+| [MY](./country/MY.txt) | Malaysia | 759 | 6,688,768 |
 | [MZ](./country/MZ.txt) | Mozambique | 48 | 441,344 |
 | [NA](./country/NA.txt) | Namibia | 36 | 465,152 |
 | [NC](./country/NC.txt) | New Caledonia | 42 | 161,536 |
@@ -173,7 +173,7 @@
 | [PE](./country/PE.txt) | Peru | 219 | 3,240,704 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 65 | 71,680 |
-| [PH](./country/PH.txt) | Philippines | 734 | 6,127,616 |
+| [PH](./country/PH.txt) | Philippines | 735 | 6,128,128 |
 | [PK](./country/PK.txt) | Pakistan | 623 | 5,453,056 |
 | [PL](./country/PL.txt) | Poland | 3,854 | 19,960,072 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
