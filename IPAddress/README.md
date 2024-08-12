@@ -14,7 +14,7 @@
 | [AR](./country/AR.txt) | Argentina | 1,569 | 19,459,584 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,824 | 11,223,904 |
-| [AU](./country/AU.txt) | Australia | 5,658 | 46,558,720 |
+| [AU](./country/AU.txt) | Australia | 5,659 | 46,558,976 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 1 | 4,096 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 170 | 768,000 |
@@ -47,7 +47,7 @@
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
 | [CL](./country/CL.txt) | Chile | 625 | 10,034,176 |
 | [CM](./country/CM.txt) | Cameroon | 57 | 599,808 |
-| [CN](./country/CN.txt) | China | 5,483 | 343,167,744 |
+| [CN](./country/CN.txt) | China | 5,481 | 343,165,696 |
 | [CO](./country/CO.txt) | Colombia | 502 | 17,372,928 |
 | [CR](./country/CR.txt) | Costa Rica | 171 | 2,336,768 |
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
@@ -92,7 +92,7 @@
 | [GU](./country/GU.txt) | Guam | 27 | 219,392 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 3 | 5,632 |
 | [GY](./country/GY.txt) | Guyana | 13 | 68,864 |
-| [HK](./country/HK.txt) | Hong Kong | 2,700 | 13,118,720 |
+| [HK](./country/HK.txt) | Hong Kong | 2,703 | 13,121,536 |
 | [HN](./country/HN.txt) | Honduras | 187 | 535,296 |
 | [HR](./country/HR.txt) | Croatia | 257 | 2,345,472 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
@@ -101,7 +101,7 @@
 | [IE](./country/IE.txt) | Ireland | 684 | 11,049,024 |
 | [IL](./country/IL.txt) | Israel | 700 | 7,982,912 |
 | [IM](./country/IM.txt) | Isle of Man | 59 | 130,304 |
-| [IN](./country/IN.txt) | India | 6,589 | 41,712,896 |
+| [IN](./country/IN.txt) | India | 6,590 | 41,713,920 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 280 | 448,768 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,605 | 11,790,592 |
@@ -173,7 +173,7 @@
 | [PE](./country/PE.txt) | Peru | 219 | 3,240,704 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 65 | 71,680 |
-| [PH](./country/PH.txt) | Philippines | 736 | 6,136,576 |
+| [PH](./country/PH.txt) | Philippines | 737 | 6,137,088 |
 | [PK](./country/PK.txt) | Pakistan | 625 | 5,452,800 |
 | [PL](./country/PL.txt) | Poland | 3,855 | 19,960,328 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
@@ -220,7 +220,7 @@
 | [TR](./country/TR.txt) | Turkey | 1,380 | 16,734,976 |
 | [TT](./country/TT.txt) | Trinidad and Tobago | 50 | 544,768 |
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
-| [TW](./country/TW.txt) | Taiwan, Province of China | 699 | 35,715,072 |
+| [TW](./country/TW.txt) | Taiwan, Province of China | 700 | 35,715,584 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 165 | 1,074,688 |
 | [UA](./country/UA.txt) | Ukraine | 2,701 | 9,340,192 |
 | [UG](./country/UG.txt) | Uganda | 89 | 1,432,832 |
