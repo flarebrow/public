@@ -80,7 +80,7 @@
 | [GE](./country/GE.txt) | Georgia | 298 | 1,285,952 |
 | [GF](./country/GF.txt) | French Guiana | 6 | 22,528 |
 | [GG](./country/GG.txt) | Guernsey | 21 | 38,656 |
-| [GH](./country/GH.txt) | Ghana | 130 | 2,187,008 |
+| [GH](./country/GH.txt) | Ghana | 132 | 2,189,056 |
 | [GI](./country/GI.txt) | Gibraltar | 72 | 238,848 |
 | [GL](./country/GL.txt) | Greenland | 25 | 34,304 |
 | [GM](./country/GM.txt) | Gambia | 22 | 272,896 |
@@ -111,7 +111,7 @@
 | [JM](./country/JM.txt) | Jamaica | 49 | 223,232 |
 | [JO](./country/JO.txt) | Jordan | 121 | 646,144 |
 | [JP](./country/JP.txt) | Japan | 3,097 | 189,497,856 |
-| [KE](./country/KE.txt) | Kenya | 283 | 6,174,208 |
+| [KE](./country/KE.txt) | Kenya | 284 | 6,175,232 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 85 | 268,544 |
 | [KH](./country/KH.txt) | Cambodia | 254 | 407,552 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
@@ -155,12 +155,12 @@
 | [MW](./country/MW.txt) | Malawi | 45 | 554,240 |
 | [MX](./country/MX.txt) | Mexico | 759 | 29,010,432 |
 | [MY](./country/MY.txt) | Malaysia | 759 | 6,688,768 |
-| [MZ](./country/MZ.txt) | Mozambique | 48 | 441,344 |
+| [MZ](./country/MZ.txt) | Mozambique | 49 | 442,368 |
 | [NA](./country/NA.txt) | Namibia | 36 | 465,152 |
 | [NC](./country/NC.txt) | New Caledonia | 42 | 161,536 |
 | [NE](./country/NE.txt) | Niger | 12 | 45,056 |
 | [NF](./country/NF.txt) | Norfolk Island | 2 | 768 |
-| [NG](./country/NG.txt) | Nigeria | 347 | 3,164,160 |
+| [NG](./country/NG.txt) | Nigeria | 348 | 3,164,416 |
 | [NI](./country/NI.txt) | Nicaragua | 50 | 412,160 |
 | [NL](./country/NL.txt) | Netherlands | 5,443 | 49,174,048 |
 | [NO](./country/NO.txt) | Norway | 1,190 | 15,545,872 |
@@ -238,7 +238,7 @@
 | [WS](./country/WS.txt) | Samoa | 16 | 19,968 |
 | [YE](./country/YE.txt) | Yemen | 29 | 233,472 |
 | [YT](./country/YT.txt) | Mayotte | 1 | 1,024 |
-| [ZA](./country/ZA.txt) | South Africa | 1,486 | 27,069,952 |
+| [ZA](./country/ZA.txt) | South Africa | 1,487 | 27,072,000 |
 | [ZM](./country/ZM.txt) | Zambia | 38 | 1,647,360 |
 | [ZW](./country/ZW.txt) | Zimbabwe | 38 | 101,632 |
-| [ZZ](./country/ZZ.txt) | unknown | 519 | 5,509,632 |
+| [ZZ](./country/ZZ.txt) | unknown | 518 | 5,503,232 |
