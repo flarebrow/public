@@ -14,13 +14,13 @@
 | [AR](./country/AR.txt) | Argentina | 1,569 | 19,459,584 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,825 | 11,224,928 |
-| [AU](./country/AU.txt) | Australia | 5,658 | 46,558,976 |
+| [AU](./country/AU.txt) | Australia | 5,608 | 46,515,200 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 1 | 4,096 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 170 | 768,000 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 151 | 789,248 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 1,926 | 2,018,816 |
+| [BD](./country/BD.txt) | Bangladesh | 1,924 | 2,017,280 |
 | [BE](./country/BE.txt) | Belgium | 891 | 12,428,928 |
 | [BF](./country/BF.txt) | Burkina Faso | 47 | 335,872 |
 | [BG](./country/BG.txt) | Bulgaria | 1,278 | 4,306,176 |
@@ -47,7 +47,7 @@
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
 | [CL](./country/CL.txt) | Chile | 625 | 10,034,176 |
 | [CM](./country/CM.txt) | Cameroon | 57 | 599,808 |
-| [CN](./country/CN.txt) | China | 5,481 | 343,165,696 |
+| [CN](./country/CN.txt) | China | 5,478 | 343,161,600 |
 | [CO](./country/CO.txt) | Colombia | 503 | 17,373,184 |
 | [CR](./country/CR.txt) | Costa Rica | 171 | 2,336,768 |
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
@@ -92,7 +92,7 @@
 | [GU](./country/GU.txt) | Guam | 27 | 219,392 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 3 | 5,632 |
 | [GY](./country/GY.txt) | Guyana | 13 | 68,864 |
-| [HK](./country/HK.txt) | Hong Kong | 2,743 | 13,134,336 |
+| [HK](./country/HK.txt) | Hong Kong | 2,741 | 13,133,056 |
 | [HN](./country/HN.txt) | Honduras | 187 | 535,296 |
 | [HR](./country/HR.txt) | Croatia | 257 | 2,345,472 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
@@ -101,7 +101,7 @@
 | [IE](./country/IE.txt) | Ireland | 686 | 11,051,072 |
 | [IL](./country/IL.txt) | Israel | 700 | 7,982,912 |
 | [IM](./country/IM.txt) | Isle of Man | 59 | 130,304 |
-| [IN](./country/IN.txt) | India | 6,592 | 41,714,944 |
+| [IN](./country/IN.txt) | India | 6,589 | 41,712,128 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 280 | 448,768 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,605 | 11,790,592 |
@@ -110,7 +110,7 @@
 | [JE](./country/JE.txt) | Jersey | 40 | 144,384 |
 | [JM](./country/JM.txt) | Jamaica | 49 | 223,232 |
 | [JO](./country/JO.txt) | Jordan | 121 | 646,144 |
-| [JP](./country/JP.txt) | Japan | 3,097 | 189,497,856 |
+| [JP](./country/JP.txt) | Japan | 3,096 | 189,497,600 |
 | [KE](./country/KE.txt) | Kenya | 284 | 6,175,232 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 85 | 268,544 |
 | [KH](./country/KH.txt) | Cambodia | 254 | 407,552 |
@@ -144,7 +144,7 @@
 | [ML](./country/ML.txt) | Mali | 27 | 92,672 |
 | [MM](./country/MM.txt) | Myanmar | 221 | 235,776 |
 | [MN](./country/MN.txt) | Mongolia | 120 | 206,592 |
-| [MO](./country/MO.txt) | Macao | 31 | 337,920 |
+| [MO](./country/MO.txt) | Macao | 30 | 337,664 |
 | [MP](./country/MP.txt) | Northern Mariana Islands | 5 | 15,360 |
 | [MQ](./country/MQ.txt) | Martinique | 21 | 134,656 |
 | [MR](./country/MR.txt) | Mauritania | 13 | 46,336 |
@@ -167,7 +167,7 @@
 | [NP](./country/NP.txt) | Nepal | 241 | 585,728 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
-| [NZ](./country/NZ.txt) | New Zealand | 1,282 | 6,636,032 |
+| [NZ](./country/NZ.txt) | New Zealand | 1,279 | 6,635,008 |
 | [OM](./country/OM.txt) | Oman | 75 | 951,296 |
 | [PA](./country/PA.txt) | Panama | 136 | 1,737,472 |
 | [PE](./country/PE.txt) | Peru | 220 | 3,242,752 |
@@ -210,7 +210,7 @@
 | [TC](./country/TC.txt) | Turks and Caicos Islands | 7 | 10,496 |
 | [TD](./country/TD.txt) | Chad | 20 | 25,856 |
 | [TG](./country/TG.txt) | Togo | 16 | 353,792 |
-| [TH](./country/TH.txt) | Thailand | 618 | 9,191,424 |
+| [TH](./country/TH.txt) | Thailand | 617 | 9,191,168 |
 | [TJ](./country/TJ.txt) | Tajikistan | 47 | 82,432 |
 | [TK](./country/TK.txt) | Tokelau | 3 | 3,072 |
 | [TL](./country/TL.txt) | Timor-Leste | 29 | 23,552 |
