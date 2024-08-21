@@ -3417,7 +3417,6 @@ allow from 192.156.151.0/24
 allow from 192.156.154.0/24
 allow from 192.156.158.0/24
 allow from 192.156.159.0/24
-allow from 192.160.161.0/24
 allow from 192.172.227.0/24
 allow from 192.172.228.0/24
 allow from 192.172.229.0/24
