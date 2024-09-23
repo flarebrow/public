@@ -14,13 +14,13 @@
 | [AR](./country/AR.txt) | Argentina | 1,570 | 19,460,096 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,830 | 11,231,328 |
-| [AU](./country/AU.txt) | Australia | 5,620 | 46,520,320 |
+| [AU](./country/AU.txt) | Australia | 5,622 | 46,520,832 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 1 | 4,096 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 170 | 768,000 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 151 | 789,248 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 1,930 | 2,012,160 |
+| [BD](./country/BD.txt) | Bangladesh | 1,931 | 2,012,672 |
 | [BE](./country/BE.txt) | Belgium | 890 | 12,424,320 |
 | [BF](./country/BF.txt) | Burkina Faso | 48 | 336,896 |
 | [BG](./country/BG.txt) | Bulgaria | 1,279 | 4,303,872 |
@@ -97,7 +97,7 @@
 | [HR](./country/HR.txt) | Croatia | 258 | 2,345,728 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 639 | 5,917,952 |
-| [ID](./country/ID.txt) | Indonesia | 4,246 | 18,984,704 |
+| [ID](./country/ID.txt) | Indonesia | 4,247 | 18,984,960 |
 | [IE](./country/IE.txt) | Ireland | 688 | 11,049,024 |
 | [IL](./country/IL.txt) | Israel | 700 | 7,982,912 |
 | [IM](./country/IM.txt) | Isle of Man | 59 | 130,304 |
@@ -154,7 +154,7 @@
 | [MV](./country/MV.txt) | Maldives | 45 | 93,952 |
 | [MW](./country/MW.txt) | Malawi | 46 | 554,496 |
 | [MX](./country/MX.txt) | Mexico | 761 | 29,009,408 |
-| [MY](./country/MY.txt) | Malaysia | 763 | 6,691,072 |
+| [MY](./country/MY.txt) | Malaysia | 764 | 6,691,584 |
 | [MZ](./country/MZ.txt) | Mozambique | 50 | 442,624 |
 | [NA](./country/NA.txt) | Namibia | 36 | 465,152 |
 | [NC](./country/NC.txt) | New Caledonia | 42 | 161,536 |
@@ -220,7 +220,7 @@
 | [TR](./country/TR.txt) | Turkey | 1,390 | 16,738,112 |
 | [TT](./country/TT.txt) | Trinidad and Tobago | 50 | 544,768 |
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
-| [TW](./country/TW.txt) | Taiwan, Province of China | 702 | 35,716,608 |
+| [TW](./country/TW.txt) | Taiwan, Province of China | 703 | 35,717,120 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 166 | 1,075,712 |
 | [UA](./country/UA.txt) | Ukraine | 2,678 | 9,304,864 |
 | [UG](./country/UG.txt) | Uganda | 89 | 1,432,832 |
@@ -232,7 +232,7 @@
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 213 | 6,705,920 |
 | [VG](./country/VG.txt) | Virgin Islands, British | 115 | 169,984 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 17 | 118,528 |
-| [VN](./country/VN.txt) | Viet Nam | 1,091 | 16,368,384 |
+| [VN](./country/VN.txt) | Viet Nam | 1,092 | 16,368,896 |
 | [VU](./country/VU.txt) | Vanuatu | 20 | 16,384 |
 | [WF](./country/WF.txt) | Wallis and Futuna | 3 | 3,584 |
 | [WS](./country/WS.txt) | Samoa | 16 | 19,968 |
