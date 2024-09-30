@@ -14,7 +14,7 @@
 | [AR](./country/AR.txt) | Argentina | 1,571 | 19,461,120 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,830 | 11,231,328 |
-| [AU](./country/AU.txt) | Australia | 5,625 | 46,522,112 |
+| [AU](./country/AU.txt) | Australia | 5,626 | 46,522,368 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 1 | 4,096 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 170 | 768,000 |
@@ -224,7 +224,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 167 | 1,075,968 |
 | [UA](./country/UA.txt) | Ukraine | 2,678 | 9,304,864 |
 | [UG](./country/UG.txt) | Uganda | 90 | 1,433,088 |
-| [US](./country/US.txt) | United States | 25,221 | 1,612,619,104 |
+| [US](./country/US.txt) | United States | 25,222 | 1,612,619,360 |
 | [UY](./country/UY.txt) | Uruguay | 53 | 2,441,984 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 133 | 284,672 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
