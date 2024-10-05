@@ -10,7 +10,6 @@
 | [AL](./country/AL.txt) | Albania | 199 | 480,000 |
 | [AM](./country/AM.txt) | Armenia | 179 | 663,072 |
 | [AO](./country/AO.txt) | Angola | 127 | 1,269,760 |
-| [AP](./country/AP.txt) | unknown | 0 | 0 |
 | [AR](./country/AR.txt) | Argentina | 1,579 | 19,452,928 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,830 | 11,229,536 |
@@ -224,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 168 | 1,076,480 |
 | [UA](./country/UA.txt) | Ukraine | 2,677 | 9,296,672 |
 | [UG](./country/UG.txt) | Uganda | 90 | 1,433,088 |
-| [US](./country/US.txt) | United States | 25,223 | 1,612,738,912 |
+| [US](./country/US.txt) | United States | 25,226 | 1,612,744,032 |
 | [UY](./country/UY.txt) | Uruguay | 54 | 2,446,080 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 133 | 284,672 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
