@@ -44,7 +44,7 @@
 | [CH](./country/CH.txt) | Switzerland | 2,558 | 25,312,888 |
 | [CI](./country/CI.txt) | Côte d'Ivoire | 226 | 1,711,104 |
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
-| [CL](./country/CL.txt) | Chile | 626 | 10,035,200 |
+| [CL](./country/CL.txt) | Chile | 625 | 10,034,176 |
 | [CM](./country/CM.txt) | Cameroon | 57 | 599,808 |
 | [CN](./country/CN.txt) | China | 5,482 | 343,163,392 |
 | [CO](./country/CO.txt) | Colombia | 503 | 17,373,184 |
