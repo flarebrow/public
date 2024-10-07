@@ -19,7 +19,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 169 | 767,744 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 151 | 789,248 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 1,936 | 2,014,976 |
+| [BD](./country/BD.txt) | Bangladesh | 1,937 | 2,015,232 |
 | [BE](./country/BE.txt) | Belgium | 893 | 12,417,920 |
 | [BF](./country/BF.txt) | Burkina Faso | 48 | 336,896 |
 | [BG](./country/BG.txt) | Bulgaria | 1,277 | 4,302,592 |
@@ -100,7 +100,7 @@
 | [IE](./country/IE.txt) | Ireland | 692 | 11,042,112 |
 | [IL](./country/IL.txt) | Israel | 701 | 7,990,592 |
 | [IM](./country/IM.txt) | Isle of Man | 59 | 130,304 |
-| [IN](./country/IN.txt) | India | 6,624 | 41,673,472 |
+| [IN](./country/IN.txt) | India | 6,623 | 41,673,216 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 279 | 447,744 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,612 | 11,591,680 |
@@ -117,7 +117,7 @@
 | [KM](./country/KM.txt) | Comoros | 4 | 7,168 |
 | [KN](./country/KN.txt) | Saint Kitts and Nevis | 13 | 16,640 |
 | [KP](./country/KP.txt) | Korea, Democratic People's Republic of | 1 | 1,024 |
-| [KR](./country/KR.txt) | Korea, Republic of | 993 | 112,502,784 |
+| [KR](./country/KR.txt) | Korea, Republic of | 994 | 112,503,296 |
 | [KW](./country/KW.txt) | Kuwait | 130 | 1,907,200 |
 | [KY](./country/KY.txt) | Cayman Islands | 23 | 44,288 |
 | [KZ](./country/KZ.txt) | Kazakhstan | 511 | 3,273,216 |
@@ -166,7 +166,7 @@
 | [NP](./country/NP.txt) | Nepal | 241 | 578,048 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
-| [NZ](./country/NZ.txt) | New Zealand | 1,281 | 6,636,032 |
+| [NZ](./country/NZ.txt) | New Zealand | 1,282 | 6,636,544 |
 | [OM](./country/OM.txt) | Oman | 75 | 951,296 |
 | [PA](./country/PA.txt) | Panama | 133 | 1,736,192 |
 | [PE](./country/PE.txt) | Peru | 221 | 3,243,776 |
