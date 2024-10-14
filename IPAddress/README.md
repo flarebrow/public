@@ -96,11 +96,11 @@
 | [HR](./country/HR.txt) | Croatia | 258 | 2,345,728 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 639 | 5,917,952 |
-| [ID](./country/ID.txt) | Indonesia | 4,258 | 18,990,080 |
+| [ID](./country/ID.txt) | Indonesia | 4,259 | 18,990,336 |
 | [IE](./country/IE.txt) | Ireland | 695 | 11,044,672 |
 | [IL](./country/IL.txt) | Israel | 702 | 7,990,848 |
 | [IM](./country/IM.txt) | Isle of Man | 59 | 130,304 |
-| [IN](./country/IN.txt) | India | 6,632 | 41,678,080 |
+| [IN](./country/IN.txt) | India | 6,631 | 41,677,568 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 279 | 447,744 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,613 | 11,591,936 |
@@ -219,7 +219,7 @@
 | [TR](./country/TR.txt) | Turkey | 1,394 | 16,739,392 |
 | [TT](./country/TT.txt) | Trinidad and Tobago | 50 | 544,768 |
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
-| [TW](./country/TW.txt) | Taiwan, Province of China | 704 | 35,716,608 |
+| [TW](./country/TW.txt) | Taiwan, Province of China | 705 | 35,717,632 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 168 | 1,076,480 |
 | [UA](./country/UA.txt) | Ukraine | 2,677 | 9,296,416 |
 | [UG](./country/UG.txt) | Uganda | 90 | 1,433,088 |
