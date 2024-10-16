@@ -2614,6 +2614,7 @@ allow from 160.185.0.0/16
 allow from 160.186.0.0/16
 allow from 160.187.26.0/23
 allow from 160.187.28.0/23
+allow from 160.187.224.0/23
 allow from 160.188.0.0/16
 allow from 160.189.0.0/16
 allow from 160.190.0.0/16
