@@ -37,7 +37,7 @@
 | [BW](./country/BW.txt) | Botswana | 49 | 162,048 |
 | [BY](./country/BY.txt) | Belarus | 93 | 1,789,696 |
 | [BZ](./country/BZ.txt) | Belize | 151 | 172,544 |
-| [CA](./country/CA.txt) | Canada | 5,913 | 68,189,696 |
+| [CA](./country/CA.txt) | Canada | 5,913 | 68,188,928 |
 | [CD](./country/CD.txt) | Congo, The Democratic Republic of the | 74 | 174,848 |
 | [CF](./country/CF.txt) | Central African Republic | 5 | 5,376 |
 | [CG](./country/CG.txt) | Congo | 20 | 141,568 |
@@ -54,7 +54,7 @@
 | [CW](./country/CW.txt) | Curaçao | 40 | 200,192 |
 | [CY](./country/CY.txt) | Cyprus | 507 | 1,269,312 |
 | [CZ](./country/CZ.txt) | Czechia | 1,534 | 9,536,640 |
-| [DE](./country/DE.txt) | Germany | 8,334 | 124,662,912 |
+| [DE](./country/DE.txt) | Germany | 8,333 | 124,654,720 |
 | [DJ](./country/DJ.txt) | Djibouti | 7 | 46,080 |
 | [DK](./country/DK.txt) | Denmark | 1,233 | 11,908,448 |
 | [DM](./country/DM.txt) | Dominica | 14 | 14,592 |
@@ -159,10 +159,10 @@
 | [NC](./country/NC.txt) | New Caledonia | 42 | 161,536 |
 | [NE](./country/NE.txt) | Niger | 12 | 45,056 |
 | [NF](./country/NF.txt) | Norfolk Island | 2 | 768 |
-| [NG](./country/NG.txt) | Nigeria | 353 | 3,170,560 |
+| [NG](./country/NG.txt) | Nigeria | 355 | 3,172,608 |
 | [NI](./country/NI.txt) | Nicaragua | 50 | 412,160 |
 | [NL](./country/NL.txt) | Netherlands | 5,473 | 48,118,816 |
-| [NO](./country/NO.txt) | Norway | 1,192 | 15,547,152 |
+| [NO](./country/NO.txt) | Norway | 1,193 | 15,555,344 |
 | [NP](./country/NP.txt) | Nepal | 249 | 575,232 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
@@ -240,4 +240,4 @@
 | [ZA](./country/ZA.txt) | South Africa | 1,493 | 27,078,656 |
 | [ZM](./country/ZM.txt) | Zambia | 38 | 1,647,360 |
 | [ZW](./country/ZW.txt) | Zimbabwe | 38 | 101,632 |
-| [ZZ](./country/ZZ.txt) | unknown | 533 | 5,466,368 |
+| [ZZ](./country/ZZ.txt) | unknown | 532 | 5,464,320 |
