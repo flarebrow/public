@@ -19,7 +19,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 170 | 771,840 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 150 | 788,736 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 1,949 | 2,014,464 |
+| [BD](./country/BD.txt) | Bangladesh | 1,951 | 2,015,232 |
 | [BE](./country/BE.txt) | Belgium | 893 | 12,390,016 |
 | [BF](./country/BF.txt) | Burkina Faso | 48 | 336,896 |
 | [BG](./country/BG.txt) | Bulgaria | 1,278 | 4,300,032 |
@@ -173,7 +173,7 @@
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 67 | 72,704 |
 | [PH](./country/PH.txt) | Philippines | 743 | 6,138,112 |
-| [PK](./country/PK.txt) | Pakistan | 636 | 5,457,920 |
+| [PK](./country/PK.txt) | Pakistan | 637 | 5,458,432 |
 | [PL](./country/PL.txt) | Poland | 3,877 | 19,988,232 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 199 | 762,624 |
