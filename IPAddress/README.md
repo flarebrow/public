@@ -37,7 +37,7 @@
 | [BW](./country/BW.txt) | Botswana | 49 | 162,048 |
 | [BY](./country/BY.txt) | Belarus | 95 | 1,790,208 |
 | [BZ](./country/BZ.txt) | Belize | 150 | 171,008 |
-| [CA](./country/CA.txt) | Canada | 5,919 | 68,073,984 |
+| [CA](./country/CA.txt) | Canada | 5,921 | 68,065,792 |
 | [CD](./country/CD.txt) | Congo, The Democratic Republic of the | 74 | 174,848 |
 | [CF](./country/CF.txt) | Central African Republic | 5 | 5,376 |
 | [CG](./country/CG.txt) | Congo | 20 | 141,568 |
@@ -223,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 168 | 1,076,480 |
 | [UA](./country/UA.txt) | Ukraine | 2,663 | 9,280,896 |
 | [UG](./country/UG.txt) | Uganda | 91 | 1,434,112 |
-| [US](./country/US.txt) | United States | 25,532 | 1,611,722,336 |
+| [US](./country/US.txt) | United States | 25,534 | 1,611,731,296 |
 | [UY](./country/UY.txt) | Uruguay | 54 | 2,446,080 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 135 | 286,976 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
