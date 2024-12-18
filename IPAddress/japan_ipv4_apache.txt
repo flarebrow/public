@@ -292,7 +292,6 @@ allow from 43.231.244.0/22
 allow from 43.232.0.0/14
 allow from 43.239.104.0/22
 allow from 43.239.248.0/24
-allow from 43.242.136.0/22
 allow from 43.244.0.0/16
 allow from 43.246.128.0/22
 allow from 43.246.192.0/22
