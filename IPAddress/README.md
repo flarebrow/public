@@ -46,7 +46,7 @@
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
 | [CL](./country/CL.txt) | Chile | 627 | 10,042,112 |
 | [CM](./country/CM.txt) | Cameroon | 57 | 599,808 |
-| [CN](./country/CN.txt) | China | 5,495 | 343,160,320 |
+| [CN](./country/CN.txt) | China | 5,496 | 343,160,832 |
 | [CO](./country/CO.txt) | Colombia | 507 | 17,375,744 |
 | [CR](./country/CR.txt) | Costa Rica | 170 | 2,332,672 |
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
@@ -100,7 +100,7 @@
 | [IE](./country/IE.txt) | Ireland | 695 | 11,108,160 |
 | [IL](./country/IL.txt) | Israel | 704 | 7,991,360 |
 | [IM](./country/IM.txt) | Isle of Man | 58 | 129,280 |
-| [IN](./country/IN.txt) | India | 6,682 | 41,658,880 |
+| [IN](./country/IN.txt) | India | 6,684 | 41,659,904 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 277 | 444,672 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,614 | 11,304,192 |
@@ -109,7 +109,7 @@
 | [JE](./country/JE.txt) | Jersey | 40 | 144,384 |
 | [JM](./country/JM.txt) | Jamaica | 49 | 223,232 |
 | [JO](./country/JO.txt) | Jordan | 121 | 646,144 |
-| [JP](./country/JP.txt) | Japan | 3,103 | 189,164,288 |
+| [JP](./country/JP.txt) | Japan | 3,104 | 189,164,800 |
 | [KE](./country/KE.txt) | Kenya | 292 | 6,183,680 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 89 | 270,336 |
 | [KH](./country/KH.txt) | Cambodia | 255 | 407,808 |
@@ -219,11 +219,11 @@
 | [TR](./country/TR.txt) | Turkey | 1,402 | 16,709,696 |
 | [TT](./country/TT.txt) | Trinidad and Tobago | 50 | 544,768 |
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
-| [TW](./country/TW.txt) | Taiwan, Province of China | 705 | 35,719,168 |
+| [TW](./country/TW.txt) | Taiwan, Province of China | 706 | 35,719,680 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 169 | 1,077,504 |
 | [UA](./country/UA.txt) | Ukraine | 2,660 | 9,277,312 |
 | [UG](./country/UG.txt) | Uganda | 91 | 1,434,112 |
-| [US](./country/US.txt) | United States | 25,566 | 1,611,566,432 |
+| [US](./country/US.txt) | United States | 25,561 | 1,611,570,784 |
 | [UY](./country/UY.txt) | Uruguay | 54 | 2,446,080 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 135 | 286,976 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
