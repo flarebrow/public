@@ -46,7 +46,7 @@
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
 | [CL](./country/CL.txt) | Chile | 627 | 10,042,112 |
 | [CM](./country/CM.txt) | Cameroon | 57 | 599,808 |
-| [CN](./country/CN.txt) | China | 5,496 | 343,161,088 |
+| [CN](./country/CN.txt) | China | 5,497 | 343,161,600 |
 | [CO](./country/CO.txt) | Colombia | 507 | 17,375,744 |
 | [CR](./country/CR.txt) | Costa Rica | 170 | 2,332,672 |
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
@@ -100,7 +100,7 @@
 | [IE](./country/IE.txt) | Ireland | 695 | 11,108,160 |
 | [IL](./country/IL.txt) | Israel | 704 | 7,991,360 |
 | [IM](./country/IM.txt) | Isle of Man | 58 | 129,280 |
-| [IN](./country/IN.txt) | India | 6,689 | 41,662,464 |
+| [IN](./country/IN.txt) | India | 6,689 | 41,662,208 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 277 | 444,672 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,614 | 11,304,192 |
@@ -153,7 +153,7 @@
 | [MV](./country/MV.txt) | Maldives | 45 | 93,952 |
 | [MW](./country/MW.txt) | Malawi | 48 | 555,008 |
 | [MX](./country/MX.txt) | Mexico | 761 | 28,994,816 |
-| [MY](./country/MY.txt) | Malaysia | 771 | 6,703,872 |
+| [MY](./country/MY.txt) | Malaysia | 772 | 6,704,384 |
 | [MZ](./country/MZ.txt) | Mozambique | 52 | 444,672 |
 | [NA](./country/NA.txt) | Namibia | 36 | 465,152 |
 | [NC](./country/NC.txt) | New Caledonia | 42 | 161,536 |
@@ -223,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 169 | 1,077,504 |
 | [UA](./country/UA.txt) | Ukraine | 2,659 | 9,276,288 |
 | [UG](./country/UG.txt) | Uganda | 91 | 1,434,112 |
-| [US](./country/US.txt) | United States | 25,582 | 1,611,701,856 |
+| [US](./country/US.txt) | United States | 25,583 | 1,611,702,624 |
 | [UY](./country/UY.txt) | Uruguay | 54 | 2,446,080 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 135 | 286,976 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
