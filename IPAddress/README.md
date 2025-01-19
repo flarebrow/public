@@ -231,7 +231,7 @@
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 216 | 6,707,712 |
 | [VG](./country/VG.txt) | Virgin Islands, British | 114 | 166,144 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 18 | 119,040 |
-| [VN](./country/VN.txt) | Viet Nam | 1,162 | 16,425,984 |
+| [VN](./country/VN.txt) | Viet Nam | 1,164 | 16,427,520 |
 | [VU](./country/VU.txt) | Vanuatu | 20 | 16,384 |
 | [WF](./country/WF.txt) | Wallis and Futuna | 3 | 3,584 |
 | [WS](./country/WS.txt) | Samoa | 16 | 19,968 |
