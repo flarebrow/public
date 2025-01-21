@@ -1833,7 +1833,6 @@ allow from 121.58.176.0/21
 allow from 121.80.0.0/14
 allow from 121.84.0.0/14
 allow from 121.92.0.0/16
-allow from 121.93.0.0/17
 allow from 121.93.192.0/18
 allow from 121.94.64.0/18
 allow from 121.94.128.0/17
