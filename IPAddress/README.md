@@ -96,11 +96,11 @@
 | [HR](./country/HR.txt) | Croatia | 257 | 2,347,264 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 639 | 5,917,952 |
-| [ID](./country/ID.txt) | Indonesia | 4,310 | 19,013,120 |
+| [ID](./country/ID.txt) | Indonesia | 4,311 | 19,013,376 |
 | [IE](./country/IE.txt) | Ireland | 696 | 11,172,672 |
 | [IL](./country/IL.txt) | Israel | 707 | 7,992,384 |
 | [IM](./country/IM.txt) | Isle of Man | 58 | 129,280 |
-| [IN](./country/IN.txt) | India | 6,702 | 41,660,928 |
+| [IN](./country/IN.txt) | India | 6,703 | 41,661,440 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 278 | 444,928 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,627 | 11,157,248 |
@@ -223,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 170 | 1,078,528 |
 | [UA](./country/UA.txt) | Ukraine | 2,665 | 9,252,736 |
 | [UG](./country/UG.txt) | Uganda | 91 | 1,434,112 |
-| [US](./country/US.txt) | United States | 25,854 | 1,612,219,232 |
+| [US](./country/US.txt) | United States | 25,854 | 1,612,284,768 |
 | [UY](./country/UY.txt) | Uruguay | 54 | 2,446,080 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 140 | 289,280 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
