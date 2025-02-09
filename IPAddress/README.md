@@ -74,7 +74,7 @@
 | [FO](./country/FO.txt) | Faroe Islands | 14 | 45,056 |
 | [FR](./country/FR.txt) | France | 4,033 | 82,070,384 |
 | [GA](./country/GA.txt) | Gabon | 25 | 393,728 |
-| [GB](./country/GB.txt) | United Kingdom | 7,731 | 136,096,136 |
+| [GB](./country/GB.txt) | United Kingdom | 7,732 | 136,096,392 |
 | [GD](./country/GD.txt) | Grenada | 14 | 11,008 |
 | [GE](./country/GE.txt) | Georgia | 305 | 1,289,024 |
 | [GF](./country/GF.txt) | French Guiana | 6 | 22,528 |
@@ -115,7 +115,7 @@
 | [KH](./country/KH.txt) | Cambodia | 256 | 409,344 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
 | [KM](./country/KM.txt) | Comoros | 4 | 7,168 |
-| [KN](./country/KN.txt) | Saint Kitts and Nevis | 17 | 19,968 |
+| [KN](./country/KN.txt) | Saint Kitts and Nevis | 16 | 19,712 |
 | [KP](./country/KP.txt) | Korea, Democratic People's Republic of | 1 | 1,024 |
 | [KR](./country/KR.txt) | Korea, Republic of | 995 | 112,504,320 |
 | [KW](./country/KW.txt) | Kuwait | 130 | 1,907,200 |
@@ -161,7 +161,7 @@
 | [NF](./country/NF.txt) | Norfolk Island | 2 | 768 |
 | [NG](./country/NG.txt) | Nigeria | 358 | 3,174,912 |
 | [NI](./country/NI.txt) | Nicaragua | 50 | 412,160 |
-| [NL](./country/NL.txt) | Netherlands | 5,500 | 48,080,544 |
+| [NL](./country/NL.txt) | Netherlands | 5,501 | 48,080,800 |
 | [NO](./country/NO.txt) | Norway | 1,205 | 15,542,544 |
 | [NP](./country/NP.txt) | Nepal | 251 | 575,744 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
@@ -192,7 +192,7 @@
 | [SC](./country/SC.txt) | Seychelles | 824 | 7,477,504 |
 | [SD](./country/SD.txt) | Sudan | 34 | 1,891,072 |
 | [SE](./country/SE.txt) | Sweden | 1,959 | 31,148,264 |
-| [SG](./country/SG.txt) | Singapore | 1,609 | 26,598,144 |
+| [SG](./country/SG.txt) | Singapore | 1,608 | 26,597,120 |
 | [SI](./country/SI.txt) | Slovenia | 518 | 2,675,712 |
 | [SK](./country/SK.txt) | Slovakia | 421 | 2,740,736 |
 | [SL](./country/SL.txt) | Sierra Leone | 25 | 82,944 |
@@ -223,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 170 | 1,078,528 |
 | [UA](./country/UA.txt) | Ukraine | 2,665 | 9,249,920 |
 | [UG](./country/UG.txt) | Uganda | 91 | 1,434,112 |
-| [US](./country/US.txt) | United States | 25,933 | 1,612,288,096 |
+| [US](./country/US.txt) | United States | 25,931 | 1,612,288,864 |
 | [UY](./country/UY.txt) | Uruguay | 54 | 2,446,080 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 140 | 289,280 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
