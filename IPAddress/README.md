@@ -96,11 +96,11 @@
 | [HR](./country/HR.txt) | Croatia | 257 | 2,347,264 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 639 | 5,913,856 |
-| [ID](./country/ID.txt) | Indonesia | 4,326 | 19,020,288 |
+| [ID](./country/ID.txt) | Indonesia | 4,327 | 19,020,800 |
 | [IE](./country/IE.txt) | Ireland | 695 | 11,171,648 |
 | [IL](./country/IL.txt) | Israel | 709 | 7,993,920 |
 | [IM](./country/IM.txt) | Isle of Man | 58 | 129,280 |
-| [IN](./country/IN.txt) | India | 6,712 | 41,665,792 |
+| [IN](./country/IN.txt) | India | 6,712 | 41,666,048 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 278 | 444,928 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,630 | 11,003,648 |
@@ -141,7 +141,7 @@
 | [MH](./country/MH.txt) | Marshall Islands | 6 | 5,632 |
 | [MK](./country/MK.txt) | North Macedonia | 105 | 686,080 |
 | [ML](./country/ML.txt) | Mali | 27 | 92,672 |
-| [MM](./country/MM.txt) | Myanmar | 223 | 240,640 |
+| [MM](./country/MM.txt) | Myanmar | 220 | 238,848 |
 | [MN](./country/MN.txt) | Mongolia | 125 | 180,480 |
 | [MO](./country/MO.txt) | Macao | 30 | 337,664 |
 | [MP](./country/MP.txt) | Northern Mariana Islands | 5 | 15,360 |
@@ -172,8 +172,8 @@
 | [PE](./country/PE.txt) | Peru | 222 | 3,243,520 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 68 | 73,216 |
-| [PH](./country/PH.txt) | Philippines | 752 | 6,144,256 |
-| [PK](./country/PK.txt) | Pakistan | 647 | 5,453,056 |
+| [PH](./country/PH.txt) | Philippines | 751 | 6,143,232 |
+| [PK](./country/PK.txt) | Pakistan | 648 | 5,453,568 |
 | [PL](./country/PL.txt) | Poland | 3,890 | 19,989,256 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 202 | 765,952 |
@@ -192,7 +192,7 @@
 | [SC](./country/SC.txt) | Seychelles | 825 | 7,477,760 |
 | [SD](./country/SD.txt) | Sudan | 34 | 1,891,072 |
 | [SE](./country/SE.txt) | Sweden | 1,960 | 31,148,008 |
-| [SG](./country/SG.txt) | Singapore | 1,611 | 26,598,144 |
+| [SG](./country/SG.txt) | Singapore | 1,610 | 26,597,632 |
 | [SI](./country/SI.txt) | Slovenia | 518 | 2,675,712 |
 | [SK](./country/SK.txt) | Slovakia | 419 | 2,738,688 |
 | [SL](./country/SL.txt) | Sierra Leone | 25 | 82,944 |
