@@ -22,7 +22,7 @@
 | [BD](./country/BD.txt) | Bangladesh | 1,992 | 2,021,632 |
 | [BE](./country/BE.txt) | Belgium | 896 | 12,356,224 |
 | [BF](./country/BF.txt) | Burkina Faso | 48 | 336,896 |
-| [BG](./country/BG.txt) | Bulgaria | 1,285 | 4,295,168 |
+| [BG](./country/BG.txt) | Bulgaria | 1,286 | 4,295,232 |
 | [BH](./country/BH.txt) | Bahrain | 54 | 445,696 |
 | [BI](./country/BI.txt) | Burundi | 13 | 36,864 |
 | [BJ](./country/BJ.txt) | Benin | 34 | 147,712 |
@@ -74,9 +74,9 @@
 | [FO](./country/FO.txt) | Faroe Islands | 14 | 45,056 |
 | [FR](./country/FR.txt) | France | 4,034 | 82,086,576 |
 | [GA](./country/GA.txt) | Gabon | 25 | 393,728 |
-| [GB](./country/GB.txt) | United Kingdom | 7,770 | 136,059,016 |
+| [GB](./country/GB.txt) | United Kingdom | 7,771 | 136,050,824 |
 | [GD](./country/GD.txt) | Grenada | 14 | 11,008 |
-| [GE](./country/GE.txt) | Georgia | 306 | 1,288,512 |
+| [GE](./country/GE.txt) | Georgia | 312 | 1,297,728 |
 | [GF](./country/GF.txt) | French Guiana | 6 | 22,528 |
 | [GG](./country/GG.txt) | Guernsey | 24 | 40,704 |
 | [GH](./country/GH.txt) | Ghana | 136 | 2,192,384 |
@@ -103,9 +103,9 @@
 | [IN](./country/IN.txt) | India | 6,717 | 41,667,584 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 279 | 446,976 |
-| [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,634 | 10,963,200 |
+| [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,629 | 10,953,984 |
 | [IS](./country/IS.txt) | Iceland | 144 | 895,232 |
-| [IT](./country/IT.txt) | Italy | 3,243 | 54,033,216 |
+| [IT](./country/IT.txt) | Italy | 3,244 | 54,041,408 |
 | [JE](./country/JE.txt) | Jersey | 40 | 144,384 |
 | [JM](./country/JM.txt) | Jamaica | 50 | 223,744 |
 | [JO](./country/JO.txt) | Jordan | 122 | 646,400 |
@@ -178,7 +178,7 @@
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 202 | 765,952 |
 | [PS](./country/PS.txt) | Palestine, State of | 243 | 875,520 |
-| [PT](./country/PT.txt) | Portugal | 405 | 6,694,432 |
+| [PT](./country/PT.txt) | Portugal | 404 | 6,694,688 |
 | [PW](./country/PW.txt) | Palau | 4 | 6,144 |
 | [PY](./country/PY.txt) | Paraguay | 138 | 1,152,512 |
 | [QA](./country/QA.txt) | Qatar | 39 | 843,776 |
