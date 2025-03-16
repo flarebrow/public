@@ -3,7 +3,7 @@
 | country code | country name | entry | count |
 | --- | --- | ---: | ---: |
 | [AD](./country/AD.txt) | Andorra | 21 | 57,344 |
-| [AE](./country/AE.txt) | United Arab Emirates | 963 | 5,896,320 |
+| [AE](./country/AE.txt) | United Arab Emirates | 962 | 5,896,064 |
 | [AF](./country/AF.txt) | Afghanistan | 126 | 178,432 |
 | [AG](./country/AG.txt) | Antigua and Barbuda | 42 | 180,480 |
 | [AI](./country/AI.txt) | Anguilla | 9 | 9,728 |
@@ -229,7 +229,7 @@
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
 | [VC](./country/VC.txt) | Saint Vincent and the Grenadines | 11 | 10,240 |
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 215 | 6,706,688 |
-| [VG](./country/VG.txt) | Virgin Islands, British | 117 | 165,376 |
+| [VG](./country/VG.txt) | Virgin Islands, British | 118 | 165,632 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 18 | 119,040 |
 | [VN](./country/VN.txt) | Viet Nam | 1,176 | 16,439,296 |
 | [VU](./country/VU.txt) | Vanuatu | 20 | 16,384 |
