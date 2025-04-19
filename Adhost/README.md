@@ -4,7 +4,7 @@
 [hosts](./hosts) → windowsやlinuxなどのhostsファイルに追記すると広告や危険なサイトへのアクセスを制限することができます。\
 [hosts2](./hosts2) → hostsを 0.0.0.0 で表示したものです。\
 [hostlist.txt](hostlist.txt) → ホスト名の一覧です。煮るなり焼くなりどうぞｗ\
-登録されているホストは[こちら](https://api.flarebrow.com/adhost)から検索できます。
+登録されているホストは[こちら](https://fbs.ms/adhostlist/)から検索できます。
 
 <strong>＜注意＞</strong>\
 リストに載っているホストへのアクセスには危険を伴う可能性があります。\
