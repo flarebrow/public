@@ -176,7 +176,7 @@
 | [PK](./country/PK.txt) | Pakistan | 658 | 5,448,704 |
 | [PL](./country/PL.txt) | Poland | 3,883 | 19,971,080 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
-| [PR](./country/PR.txt) | Puerto Rico | 201 | 764,928 |
+| [PR](./country/PR.txt) | Puerto Rico | 202 | 769,024 |
 | [PS](./country/PS.txt) | Palestine, State of | 243 | 875,520 |
 | [PT](./country/PT.txt) | Portugal | 404 | 6,694,688 |
 | [PW](./country/PW.txt) | Palau | 4 | 6,144 |
@@ -223,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 171 | 1,079,552 |
 | [UA](./country/UA.txt) | Ukraine | 2,646 | 9,159,296 |
 | [UG](./country/UG.txt) | Uganda | 90 | 1,414,656 |
-| [US](./country/US.txt) | United States | 27,133 | 1,615,846,496 |
+| [US](./country/US.txt) | United States | 27,136 | 1,615,842,400 |
 | [UY](./country/UY.txt) | Uruguay | 56 | 2,446,848 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 140 | 289,280 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
