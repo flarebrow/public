@@ -985,6 +985,7 @@ allow from 103.95.163.0/24
 allow from 103.95.180.0/22
 allow from 103.95.184.0/22
 allow from 103.95.206.0/24
+allow from 103.96.0.0/22
 allow from 103.96.64.0/22
 allow from 103.96.112.0/22
 allow from 103.96.229.0/24
@@ -1493,6 +1494,7 @@ allow from 113.197.40.0/21
 allow from 113.197.56.0/21
 allow from 113.197.128.0/17
 allow from 113.208.0.0/18
+allow from 113.212.88.0/22
 allow from 113.212.104.0/22
 allow from 113.212.128.0/19
 allow from 113.213.128.0/18
