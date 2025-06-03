@@ -2359,7 +2359,6 @@ allow from 153.121.128.0/17
 allow from 153.122.0.0/15
 allow from 153.124.0.0/17
 allow from 153.124.128.0/19
-allow from 153.124.160.0/21
 allow from 153.124.168.0/21
 allow from 153.124.176.0/20
 allow from 153.124.192.0/20
