@@ -100,7 +100,7 @@
 | [IE](./country/IE.txt) | Ireland | 714 | 11,136,320 |
 | [IL](./country/IL.txt) | Israel | 720 | 8,014,976 |
 | [IM](./country/IM.txt) | Isle of Man | 60 | 130,560 |
-| [IN](./country/IN.txt) | India | 6,821 | 41,709,568 |
+| [IN](./country/IN.txt) | India | 6,825 | 41,711,616 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 283 | 448,000 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,644 | 10,918,656 |
@@ -231,7 +231,7 @@
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 214 | 6,706,432 |
 | [VG](./country/VG.txt) | Virgin Islands, British | 120 | 167,168 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 24 | 129,792 |
-| [VN](./country/VN.txt) | Viet Nam | 1,199 | 16,456,960 |
+| [VN](./country/VN.txt) | Viet Nam | 1,200 | 16,457,984 |
 | [VU](./country/VU.txt) | Vanuatu | 20 | 16,384 |
 | [WF](./country/WF.txt) | Wallis and Futuna | 3 | 3,584 |
 | [WS](./country/WS.txt) | Samoa | 16 | 19,968 |
