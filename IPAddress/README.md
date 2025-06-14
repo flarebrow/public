@@ -52,9 +52,9 @@
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
 | [CV](./country/CV.txt) | Cabo Verde | 23 | 38,144 |
 | [CW](./country/CW.txt) | Curaçao | 40 | 200,192 |
-| [CY](./country/CY.txt) | Cyprus | 527 | 1,285,184 |
-| [CZ](./country/CZ.txt) | Czechia | 1,536 | 9,518,016 |
-| [DE](./country/DE.txt) | Germany | 8,501 | 124,309,184 |
+| [CY](./country/CY.txt) | Cyprus | 528 | 1,285,440 |
+| [CZ](./country/CZ.txt) | Czechia | 1,537 | 9,526,208 |
+| [DE](./country/DE.txt) | Germany | 8,502 | 124,309,440 |
 | [DJ](./country/DJ.txt) | Djibouti | 7 | 46,080 |
 | [DK](./country/DK.txt) | Denmark | 1,240 | 11,914,080 |
 | [DM](./country/DM.txt) | Dominica | 14 | 14,592 |
@@ -161,8 +161,8 @@
 | [NF](./country/NF.txt) | Norfolk Island | 2 | 768 |
 | [NG](./country/NG.txt) | Nigeria | 360 | 3,177,728 |
 | [NI](./country/NI.txt) | Nicaragua | 50 | 412,160 |
-| [NL](./country/NL.txt) | Netherlands | 5,565 | 47,748,960 |
-| [NO](./country/NO.txt) | Norway | 1,214 | 15,598,096 |
+| [NL](./country/NL.txt) | Netherlands | 5,564 | 47,747,936 |
+| [NO](./country/NO.txt) | Norway | 1,215 | 15,599,120 |
 | [NP](./country/NP.txt) | Nepal | 259 | 579,328 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
@@ -221,9 +221,9 @@
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
 | [TW](./country/TW.txt) | Taiwan, Province of China | 705 | 35,712,256 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 171 | 1,079,552 |
-| [UA](./country/UA.txt) | Ukraine | 2,656 | 9,177,792 |
+| [UA](./country/UA.txt) | Ukraine | 2,655 | 9,169,600 |
 | [UG](./country/UG.txt) | Uganda | 90 | 1,414,656 |
-| [US](./country/US.txt) | United States | 27,461 | 1,615,149,920 |
+| [US](./country/US.txt) | United States | 27,461 | 1,615,150,176 |
 | [UY](./country/UY.txt) | Uruguay | 57 | 2,447,104 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 140 | 289,280 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
