@@ -13,7 +13,7 @@
 | [AR](./country/AR.txt) | Argentina | 1,593 | 19,449,088 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,872 | 11,244,640 |
-| [AU](./country/AU.txt) | Australia | 5,626 | 46,125,056 |
+| [AU](./country/AU.txt) | Australia | 5,628 | 46,125,568 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 1 | 4,096 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 171 | 768,512 |
@@ -46,7 +46,7 @@
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
 | [CL](./country/CL.txt) | Chile | 632 | 10,040,320 |
 | [CM](./country/CM.txt) | Cameroon | 57 | 599,808 |
-| [CN](./country/CN.txt) | China | 5,496 | 343,192,832 |
+| [CN](./country/CN.txt) | China | 5,497 | 343,193,344 |
 | [CO](./country/CO.txt) | Colombia | 510 | 17,508,096 |
 | [CR](./country/CR.txt) | Costa Rica | 167 | 2,332,928 |
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
@@ -100,7 +100,7 @@
 | [IE](./country/IE.txt) | Ireland | 718 | 11,156,032 |
 | [IL](./country/IL.txt) | Israel | 722 | 8,015,488 |
 | [IM](./country/IM.txt) | Isle of Man | 65 | 129,792 |
-| [IN](./country/IN.txt) | India | 6,848 | 41,721,600 |
+| [IN](./country/IN.txt) | India | 6,849 | 41,721,856 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 277 | 442,624 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,651 | 10,803,200 |
