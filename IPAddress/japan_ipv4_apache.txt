@@ -2111,7 +2111,8 @@ allow from 126.188.0.0/15
 allow from 126.192.0.0/12
 allow from 126.208.0.0/16
 allow from 126.209.96.0/19
-allow from 126.209.128.0/17
+allow from 126.209.128.0/18
+allow from 126.209.192.0/18
 allow from 126.211.0.0/16
 allow from 126.212.0.0/14
 allow from 126.216.0.0/13
