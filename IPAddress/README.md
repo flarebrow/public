@@ -19,7 +19,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 172 | 768,768 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 152 | 790,016 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,041 | 2,037,568 |
+| [BD](./country/BD.txt) | Bangladesh | 2,042 | 2,038,080 |
 | [BE](./country/BE.txt) | Belgium | 904 | 12,359,040 |
 | [BF](./country/BF.txt) | Burkina Faso | 48 | 336,896 |
 | [BG](./country/BG.txt) | Bulgaria | 1,311 | 4,350,528 |
@@ -68,7 +68,7 @@
 | [ET](./country/ET.txt) | Ethiopia | 15 | 368,640 |
 | [EU](./country/EU.txt) | unknown | 10 | 333,056 |
 | [FI](./country/FI.txt) | Finland | 986 | 13,729,344 |
-| [FJ](./country/FJ.txt) | Fiji | 35 | 142,848 |
+| [FJ](./country/FJ.txt) | Fiji | 36 | 143,104 |
 | [FK](./country/FK.txt) | Falkland Islands (Malvinas) | 7 | 7,168 |
 | [FM](./country/FM.txt) | Micronesia, Federated States of | 5 | 8,704 |
 | [FO](./country/FO.txt) | Faroe Islands | 14 | 45,056 |
@@ -100,7 +100,7 @@
 | [IE](./country/IE.txt) | Ireland | 727 | 11,120,960 |
 | [IL](./country/IL.txt) | Israel | 728 | 8,017,024 |
 | [IM](./country/IM.txt) | Isle of Man | 67 | 132,864 |
-| [IN](./country/IN.txt) | India | 6,939 | 41,773,056 |
+| [IN](./country/IN.txt) | India | 6,942 | 41,774,336 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 278 | 442,688 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,688 | 10,806,272 |
@@ -172,8 +172,8 @@
 | [PE](./country/PE.txt) | Peru | 224 | 3,244,544 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 64 | 67,328 |
-| [PH](./country/PH.txt) | Philippines | 781 | 6,240,256 |
-| [PK](./country/PK.txt) | Pakistan | 674 | 5,441,536 |
+| [PH](./country/PH.txt) | Philippines | 782 | 6,240,512 |
+| [PK](./country/PK.txt) | Pakistan | 675 | 5,442,048 |
 | [PL](./country/PL.txt) | Poland | 3,903 | 19,978,760 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 206 | 770,048 |
