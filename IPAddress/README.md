@@ -109,7 +109,7 @@
 | [JE](./country/JE.txt) | Jersey | 41 | 145,408 |
 | [JM](./country/JM.txt) | Jamaica | 50 | 223,744 |
 | [JO](./country/JO.txt) | Jordan | 124 | 646,912 |
-| [JP](./country/JP.txt) | Japan | 3,157 | 188,684,096 |
+| [JP](./country/JP.txt) | Japan | 3,158 | 188,684,352 |
 | [KE](./country/KE.txt) | Kenya | 312 | 6,204,672 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 94 | 271,872 |
 | [KH](./country/KH.txt) | Cambodia | 266 | 420,608 |
@@ -223,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 180 | 1,087,232 |
 | [UA](./country/UA.txt) | Ukraine | 2,654 | 9,148,096 |
 | [UG](./country/UG.txt) | Uganda | 93 | 1,416,448 |
-| [US](./country/US.txt) | United States | 28,178 | 1,613,185,120 |
+| [US](./country/US.txt) | United States | 28,177 | 1,613,184,864 |
 | [UY](./country/UY.txt) | Uruguay | 57 | 2,451,200 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 152 | 312,064 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
