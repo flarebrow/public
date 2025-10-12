@@ -100,7 +100,7 @@
 | [IE](./country/IE.txt) | Ireland | 726 | 10,989,888 |
 | [IL](./country/IL.txt) | Israel | 729 | 8,019,072 |
 | [IM](./country/IM.txt) | Isle of Man | 66 | 128,000 |
-| [IN](./country/IN.txt) | India | 6,956 | 41,781,760 |
+| [IN](./country/IN.txt) | India | 6,955 | 41,782,272 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 279 | 442,944 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,690 | 10,798,336 |
@@ -209,7 +209,7 @@
 | [TC](./country/TC.txt) | Turks and Caicos Islands | 7 | 10,496 |
 | [TD](./country/TD.txt) | Chad | 20 | 25,856 |
 | [TG](./country/TG.txt) | Togo | 16 | 353,792 |
-| [TH](./country/TH.txt) | Thailand | 631 | 9,202,176 |
+| [TH](./country/TH.txt) | Thailand | 632 | 9,202,432 |
 | [TJ](./country/TJ.txt) | Tajikistan | 53 | 84,032 |
 | [TK](./country/TK.txt) | Tokelau | 3 | 3,072 |
 | [TL](./country/TL.txt) | Timor-Leste | 31 | 25,088 |
@@ -223,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 181 | 1,088,512 |
 | [UA](./country/UA.txt) | Ukraine | 2,654 | 9,147,072 |
 | [UG](./country/UG.txt) | Uganda | 95 | 1,418,496 |
-| [US](./country/US.txt) | United States | 28,549 | 1,613,384,544 |
+| [US](./country/US.txt) | United States | 28,548 | 1,613,384,288 |
 | [UY](./country/UY.txt) | Uruguay | 57 | 2,451,200 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 153 | 312,320 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
