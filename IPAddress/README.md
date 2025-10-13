@@ -13,13 +13,13 @@
 | [AR](./country/AR.txt) | Argentina | 1,592 | 19,443,200 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,884 | 11,247,392 |
-| [AU](./country/AU.txt) | Australia | 5,640 | 46,139,392 |
+| [AU](./country/AU.txt) | Australia | 5,639 | 46,139,136 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 1 | 4,096 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 172 | 768,768 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 152 | 790,016 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,047 | 2,041,152 |
+| [BD](./country/BD.txt) | Bangladesh | 2,048 | 2,041,664 |
 | [BE](./country/BE.txt) | Belgium | 907 | 12,376,704 |
 | [BF](./country/BF.txt) | Burkina Faso | 49 | 337,152 |
 | [BG](./country/BG.txt) | Bulgaria | 1,315 | 4,344,384 |
@@ -109,7 +109,7 @@
 | [JE](./country/JE.txt) | Jersey | 41 | 145,408 |
 | [JM](./country/JM.txt) | Jamaica | 50 | 223,744 |
 | [JO](./country/JO.txt) | Jordan | 124 | 646,912 |
-| [JP](./country/JP.txt) | Japan | 3,160 | 188,678,464 |
+| [JP](./country/JP.txt) | Japan | 3,161 | 188,678,720 |
 | [KE](./country/KE.txt) | Kenya | 316 | 6,207,232 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 96 | 272,640 |
 | [KH](./country/KH.txt) | Cambodia | 267 | 486,144 |
@@ -223,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 181 | 1,088,512 |
 | [UA](./country/UA.txt) | Ukraine | 2,654 | 9,147,072 |
 | [UG](./country/UG.txt) | Uganda | 95 | 1,418,496 |
-| [US](./country/US.txt) | United States | 28,548 | 1,613,384,288 |
+| [US](./country/US.txt) | United States | 28,548 | 1,613,384,800 |
 | [UY](./country/UY.txt) | Uruguay | 57 | 2,451,200 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 153 | 312,320 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
