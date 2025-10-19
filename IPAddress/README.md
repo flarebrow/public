@@ -237,7 +237,7 @@
 | [WS](./country/WS.txt) | Samoa | 16 | 19,968 |
 | [YE](./country/YE.txt) | Yemen | 29 | 233,472 |
 | [YT](./country/YT.txt) | Mayotte | 1 | 1,024 |
-| [ZA](./country/ZA.txt) | South Africa | 1,547 | 27,136,768 |
+| [ZA](./country/ZA.txt) | South Africa | 1,548 | 27,137,280 |
 | [ZM](./country/ZM.txt) | Zambia | 39 | 1,649,408 |
 | [ZW](./country/ZW.txt) | Zimbabwe | 41 | 103,424 |
-| [ZZ](./country/ZZ.txt) | unknown | 554 | 5,305,088 |
+| [ZZ](./country/ZZ.txt) | unknown | 553 | 5,304,576 |
