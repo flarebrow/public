@@ -13,13 +13,13 @@
 | [AR](./country/AR.txt) | Argentina | 1,594 | 19,439,616 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,885 | 11,185,696 |
-| [AU](./country/AU.txt) | Australia | 5,644 | 46,202,624 |
+| [AU](./country/AU.txt) | Australia | 5,643 | 46,198,528 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 176 | 769,792 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 155 | 792,320 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,070 | 2,048,832 |
+| [BD](./country/BD.txt) | Bangladesh | 2,071 | 2,049,344 |
 | [BE](./country/BE.txt) | Belgium | 911 | 12,363,136 |
 | [BF](./country/BF.txt) | Burkina Faso | 50 | 338,176 |
 | [BG](./country/BG.txt) | Bulgaria | 1,322 | 4,338,752 |
@@ -91,12 +91,12 @@
 | [GU](./country/GU.txt) | Guam | 27 | 219,392 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 3 | 5,632 |
 | [GY](./country/GY.txt) | Guyana | 13 | 68,864 |
-| [HK](./country/HK.txt) | Hong Kong | 2,927 | 13,263,168 |
+| [HK](./country/HK.txt) | Hong Kong | 2,928 | 13,328,704 |
 | [HN](./country/HN.txt) | Honduras | 187 | 536,064 |
 | [HR](./country/HR.txt) | Croatia | 256 | 2,349,056 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 644 | 5,921,024 |
-| [ID](./country/ID.txt) | Indonesia | 4,547 | 19,182,080 |
+| [ID](./country/ID.txt) | Indonesia | 4,550 | 19,199,744 |
 | [IE](./country/IE.txt) | Ireland | 731 | 10,896,192 |
 | [IL](./country/IL.txt) | Israel | 733 | 8,034,432 |
 | [IM](./country/IM.txt) | Isle of Man | 71 | 132,864 |
@@ -109,10 +109,10 @@
 | [JE](./country/JE.txt) | Jersey | 41 | 145,408 |
 | [JM](./country/JM.txt) | Jamaica | 50 | 223,744 |
 | [JO](./country/JO.txt) | Jordan | 125 | 647,424 |
-| [JP](./country/JP.txt) | Japan | 3,159 | 188,676,928 |
+| [JP](./country/JP.txt) | Japan | 3,160 | 188,742,464 |
 | [KE](./country/KE.txt) | Kenya | 330 | 6,221,568 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 102 | 278,528 |
-| [KH](./country/KH.txt) | Cambodia | 271 | 490,752 |
+| [KH](./country/KH.txt) | Cambodia | 272 | 494,848 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
 | [KM](./country/KM.txt) | Comoros | 5 | 7,424 |
 | [KN](./country/KN.txt) | Saint Kitts and Nevis | 16 | 19,712 |
