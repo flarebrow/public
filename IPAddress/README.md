@@ -46,7 +46,7 @@
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
 | [CL](./country/CL.txt) | Chile | 630 | 10,037,760 |
 | [CM](./country/CM.txt) | Cameroon | 59 | 601,856 |
-| [CN](./country/CN.txt) | China | 5,498 | 343,148,544 |
+| [CN](./country/CN.txt) | China | 5,499 | 343,149,056 |
 | [CO](./country/CO.txt) | Colombia | 516 | 17,512,960 |
 | [CR](./country/CR.txt) | Costa Rica | 169 | 2,333,440 |
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
