@@ -96,11 +96,11 @@
 | [HR](./country/HR.txt) | Croatia | 256 | 2,349,056 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 644 | 5,921,024 |
-| [ID](./country/ID.txt) | Indonesia | 4,559 | 19,204,096 |
+| [ID](./country/ID.txt) | Indonesia | 4,560 | 19,205,376 |
 | [IE](./country/IE.txt) | Ireland | 731 | 10,894,144 |
 | [IL](./country/IL.txt) | Israel | 733 | 8,034,432 |
 | [IM](./country/IM.txt) | Isle of Man | 72 | 133,376 |
-| [IN](./country/IN.txt) | India | 7,007 | 41,820,928 |
+| [IN](./country/IN.txt) | India | 7,009 | 41,821,952 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 283 | 445,248 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,695 | 10,800,128 |
@@ -150,7 +150,7 @@
 | [MS](./country/MS.txt) | Montserrat | 2 | 1,280 |
 | [MT](./country/MT.txt) | Malta | 123 | 679,552 |
 | [MU](./country/MU.txt) | Mauritius | 105 | 4,763,904 |
-| [MV](./country/MV.txt) | Maldives | 45 | 93,952 |
+| [MV](./country/MV.txt) | Maldives | 44 | 93,696 |
 | [MW](./country/MW.txt) | Malawi | 50 | 556,288 |
 | [MX](./country/MX.txt) | Mexico | 790 | 28,958,720 |
 | [MY](./country/MY.txt) | Malaysia | 776 | 6,696,192 |
