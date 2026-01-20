@@ -4450,7 +4450,10 @@ allow from 218.216.0.0/13
 allow from 218.224.0.0/13
 allow from 218.251.0.0/17
 allow from 218.251.128.0/17
-allow from 219.0.0.0/10
+allow from 219.0.0.0/13
+allow from 219.8.0.0/13
+allow from 219.16.0.0/12
+allow from 219.32.0.0/11
 allow from 219.66.0.0/15
 allow from 219.73.128.0/17
 allow from 219.75.128.0/17
@@ -4579,7 +4582,11 @@ allow from 220.254.0.0/17
 allow from 220.254.128.0/17
 allow from 221.12.192.0/18
 allow from 221.16.0.0/12
-allow from 221.32.0.0/11
+allow from 221.32.0.0/13
+allow from 221.40.0.0/14
+allow from 221.44.0.0/15
+allow from 221.46.0.0/15
+allow from 221.48.0.0/12
 allow from 221.64.0.0/11
 allow from 221.96.0.0/12
 allow from 221.112.0.0/16
