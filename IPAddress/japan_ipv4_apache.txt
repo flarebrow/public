@@ -2367,6 +2367,7 @@ allow from 150.246.0.0/16
 allow from 150.249.0.0/16
 allow from 152.117.128.0/17
 allow from 152.165.0.0/16
+allow from 153.115.0.0/16
 allow from 153.120.0.0/17
 allow from 153.120.128.0/18
 allow from 153.120.192.0/20
