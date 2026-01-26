@@ -96,7 +96,7 @@
 | [HR](./country/HR.txt) | Croatia | 257 | 2,349,312 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 644 | 5,921,024 |
-| [ID](./country/ID.txt) | Indonesia | 4,581 | 19,214,848 |
+| [ID](./country/ID.txt) | Indonesia | 4,582 | 19,215,360 |
 | [IE](./country/IE.txt) | Ireland | 734 | 10,619,200 |
 | [IL](./country/IL.txt) | Israel | 751 | 8,038,528 |
 | [IM](./country/IM.txt) | Isle of Man | 72 | 133,376 |
