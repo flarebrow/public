@@ -13,7 +13,7 @@
 | [AR](./country/AR.txt) | Argentina | 1,594 | 19,438,848 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,887 | 11,185,440 |
-| [AU](./country/AU.txt) | Australia | 5,649 | 46,191,616 |
+| [AU](./country/AU.txt) | Australia | 5,650 | 46,191,872 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 179 | 770,816 |
@@ -68,7 +68,7 @@
 | [ET](./country/ET.txt) | Ethiopia | 17 | 370,176 |
 | [EU](./country/EU.txt) | unknown | 10 | 333,056 |
 | [FI](./country/FI.txt) | Finland | 993 | 13,871,168 |
-| [FJ](./country/FJ.txt) | Fiji | 37 | 143,360 |
+| [FJ](./country/FJ.txt) | Fiji | 38 | 143,616 |
 | [FK](./country/FK.txt) | Falkland Islands (Malvinas) | 7 | 7,168 |
 | [FM](./country/FM.txt) | Micronesia, Federated States of | 5 | 8,704 |
 | [FO](./country/FO.txt) | Faroe Islands | 14 | 45,056 |
@@ -96,11 +96,11 @@
 | [HR](./country/HR.txt) | Croatia | 259 | 2,349,824 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 645 | 5,921,280 |
-| [ID](./country/ID.txt) | Indonesia | 4,597 | 19,220,736 |
+| [ID](./country/ID.txt) | Indonesia | 4,599 | 19,221,504 |
 | [IE](./country/IE.txt) | Ireland | 734 | 10,618,688 |
 | [IL](./country/IL.txt) | Israel | 753 | 8,041,600 |
 | [IM](./country/IM.txt) | Isle of Man | 72 | 133,376 |
-| [IN](./country/IN.txt) | India | 7,054 | 41,849,856 |
+| [IN](./country/IN.txt) | India | 7,057 | 41,851,392 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 286 | 446,016 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,708 | 10,810,368 |
