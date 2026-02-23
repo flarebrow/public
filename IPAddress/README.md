@@ -13,13 +13,13 @@
 | [AR](./country/AR.txt) | Argentina | 1,594 | 19,438,848 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,887 | 11,185,440 |
-| [AU](./country/AU.txt) | Australia | 5,651 | 46,128,128 |
+| [AU](./country/AU.txt) | Australia | 5,649 | 46,127,360 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 180 | 771,072 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 157 | 793,600 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,099 | 2,065,472 |
+| [BD](./country/BD.txt) | Bangladesh | 2,100 | 2,065,984 |
 | [BE](./country/BE.txt) | Belgium | 914 | 12,366,208 |
 | [BF](./country/BF.txt) | Burkina Faso | 50 | 338,176 |
 | [BG](./country/BG.txt) | Bulgaria | 1,335 | 4,339,776 |
@@ -150,7 +150,7 @@
 | [MS](./country/MS.txt) | Montserrat | 2 | 1,280 |
 | [MT](./country/MT.txt) | Malta | 123 | 679,552 |
 | [MU](./country/MU.txt) | Mauritius | 104 | 3,697,920 |
-| [MV](./country/MV.txt) | Maldives | 44 | 93,696 |
+| [MV](./country/MV.txt) | Maldives | 45 | 93,952 |
 | [MW](./country/MW.txt) | Malawi | 50 | 556,288 |
 | [MX](./country/MX.txt) | Mexico | 794 | 28,956,928 |
 | [MY](./country/MY.txt) | Malaysia | 782 | 6,699,776 |
@@ -173,7 +173,7 @@
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 64 | 67,328 |
 | [PH](./country/PH.txt) | Philippines | 797 | 6,246,656 |
-| [PK](./country/PK.txt) | Pakistan | 710 | 5,441,280 |
+| [PK](./country/PK.txt) | Pakistan | 711 | 5,442,304 |
 | [PL](./country/PL.txt) | Poland | 3,926 | 19,988,936 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 208 | 773,120 |
