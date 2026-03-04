@@ -696,47 +696,94 @@ Python + MQTT + センサーデバイス + Docker
 mindmap
   root((技術スキル<br/>マップ))
     フロントエンド
-      Vue.js/Vue3 ⭐⭐⭐⭐⭐
-      React ⭐⭐⭐⭐
-      TypeScript ⭐⭐⭐⭐⭐
-      Tailwind CSS ⭐⭐⭐⭐
-      NaiveUI ⭐⭐⭐
+      言語
+        TypeScript ⭐⭐⭐⭐⭐
+        JavaScript ⭐⭐⭐⭐⭐
+      フレームワーク
+        Vue.js/Vue3 ⭐⭐⭐⭐⭐
+        React ⭐⭐⭐⭐
+        Next.js ⭐⭐⭐
+      スタイリング
+        Tailwind CSS ⭐⭐⭐⭐
+        NaiveUI ⭐⭐⭐
     バックエンド
       Python ⭐⭐⭐⭐⭐
         FastAPI ⭐⭐⭐⭐⭐
         Django ⭐⭐⭐⭐⭐
-      PHP ⭐⭐⭐⭐⭐
+      Java ⭐⭐⭐⭐⭐
+        Spring Boot ⭐⭐⭐⭐⭐
       Node.js ⭐⭐⭐
+        Express.js ⭐⭐⭐
+        Next.js API ⭐⭐⭐
+      PHP ⭐⭐⭐⭐⭐
+        Laravel ⭐⭐⭐
     データベース
-      PostgreSQL ⭐⭐⭐⭐⭐
-      MySQL ⭐⭐⭐⭐⭐
-      SQL Server ⭐⭐⭐⭐⭐
-      SQLAlchemy ⭐⭐⭐⭐⭐
-    インフラ
-      Docker ⭐⭐⭐⭐⭐
-      Terraform ⭐⭐⭐⭐⭐
-      AWS ⭐⭐⭐
-      Azure ⭐⭐⭐⭐⭐
+      RDBMS
+        PostgreSQL ⭐⭐⭐⭐⭐
+        MySQL ⭐⭐⭐⭐⭐
+        SQL Server ⭐⭐⭐⭐⭐
+      ORM
+        SQLAlchemy ⭐⭐⭐⭐⭐
+      NoSQL
+        Redis ⭐⭐⭐
+    インフラ・DevOps
+      コンテナ
+        Docker ⭐⭐⭐⭐⭐
+      IaC
+        Terraform ⭐⭐⭐⭐⭐
+      クラウド
+        Azure ⭐⭐⭐⭐⭐
+        AWS ⭐⭐⭐
+      CI/CD
+        GitHub Actions ⭐⭐⭐⭐⭐
+        GitOps ⭐⭐⭐⭐⭐
+    AI・機械学習
+      LLM API
+        Claude API ⭐⭐⭐⭐⭐
+        OpenAI API ⭐⭐⭐⭐
+      LLM Applications
+        Prompt Engineering ⭐⭐⭐⭐⭐
+        MCP Server ⭐⭐⭐⭐⭐
+        Agent Architecture ⭐⭐⭐⭐
+        RAG ⭐⭐⭐
+      画像生成
+        Stable Diffusion ⭐⭐⭐⭐
+      プラットフォーム
+        Dify ⭐⭐⭐⭐
     モバイル
       Android
         Kotlin ⭐⭐⭐
         Java ⭐⭐⭐
       iOS
         Swift ⭐⭐
-      PWA ⭐⭐⭐⭐⭐
-    AI・機械学習
-      Claude API ⭐⭐⭐⭐⭐
-      Stable Diffusion ⭐⭐⭐⭐
-      Dify ⭐⭐⭐⭐
-      Azure Cognitive ⭐⭐⭐
-    IoT
-      OMRON センサー ⭐⭐⭐⭐⭐
-      Broadlink ⭐⭐⭐⭐⭐
-      SwitchBot ⭐⭐⭐⭐⭐
-    その他
-      Discord Bot ⭐⭐⭐⭐⭐
-      Chrome Extension ⭐⭐⭐⭐⭐
-      Unity ⭐⭐⭐
+      クロスプラットフォーム
+        PWA ⭐⭐⭐⭐⭐
+    IoT・組み込み
+      デバイス連携
+        OMRON センサー ⭐⭐⭐⭐⭐
+        Broadlink ⭐⭐⭐⭐⭐
+        SwitchBot ⭐⭐⭐⭐⭐
+      基盤
+        Raspberry Pi ⭐⭐⭐⭐⭐
+    セキュリティ
+      認証・認可
+        JWT ⭐⭐⭐⭐⭐
+        OAuth 2.0 ⭐⭐⭐⭐
+        RBAC ⭐⭐⭐⭐⭐
+      セキュアコーディング
+        Bandit ⭐⭐⭐⭐⭐
+        SonarQube ⭐⭐⭐⭐⭐
+      インフラセキュリティ
+        Azure Key Vault ⭐⭐⭐⭐⭐
+        WAF ⭐⭐⭐⭐⭐
+    その他専門領域
+      Bot開発
+        Discord Bot ⭐⭐⭐⭐⭐
+        LINE Bot ⭐⭐⭐⭐
+      ブラウザ拡張
+        Chrome Extension ⭐⭐⭐⭐⭐
+      ゲーム開発
+        Unity ⭐⭐⭐
 ```
 
 ### 技術スタック組み合わせパターン
