@@ -2933,7 +2933,8 @@ allow from 175.158.112.0/20
 allow from 175.176.196.0/22
 allow from 175.177.0.0/16
 allow from 175.179.0.0/18
-allow from 175.179.64.0/18
+allow from 175.179.64.0/19
+allow from 175.179.96.0/19
 allow from 175.179.128.0/17
 allow from 175.184.0.0/17
 allow from 180.0.0.0/10
