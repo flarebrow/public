@@ -4483,7 +4483,6 @@ allow from 220.32.0.0/14
 allow from 220.38.0.0/16
 allow from 220.39.0.0/16
 allow from 220.40.0.0/15
-allow from 220.42.0.0/15
 allow from 220.44.0.0/14
 allow from 220.48.0.0/12
 allow from 220.96.0.0/14
