@@ -1634,7 +1634,6 @@ allow from 116.197.168.0/21
 allow from 116.199.176.0/20
 allow from 116.199.240.0/20
 allow from 116.206.68.0/22
-allow from 116.206.120.0/22
 allow from 116.213.20.0/22
 allow from 116.214.16.0/21
 allow from 116.214.80.0/20
