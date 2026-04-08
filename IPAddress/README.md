@@ -3,7 +3,7 @@
 | country code | country name | entry | count |
 | --- | --- | ---: | ---: |
 | [AD](./country/AD.txt) | Andorra | 25 | 60,416 |
-| [AE](./country/AE.txt) | United Arab Emirates | 1,122 | 6,547,648 |
+| [AE](./country/AE.txt) | United Arab Emirates | 1,126 | 6,551,488 |
 | [AF](./country/AF.txt) | Afghanistan | 127 | 178,176 |
 | [AG](./country/AG.txt) | Antigua and Barbuda | 45 | 184,576 |
 | [AI](./country/AI.txt) | Anguilla | 9 | 9,728 |
@@ -12,7 +12,7 @@
 | [AO](./country/AO.txt) | Angola | 143 | 1,284,608 |
 | [AR](./country/AR.txt) | Argentina | 1,600 | 19,434,496 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
-| [AT](./country/AT.txt) | Austria | 1,895 | 11,193,440 |
+| [AT](./country/AT.txt) | Austria | 1,896 | 11,193,696 |
 | [AU](./country/AU.txt) | Australia | 5,645 | 46,116,096 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
@@ -41,7 +41,7 @@
 | [CD](./country/CD.txt) | Congo, The Democratic Republic of the | 84 | 182,016 |
 | [CF](./country/CF.txt) | Central African Republic | 5 | 5,632 |
 | [CG](./country/CG.txt) | Congo | 21 | 141,824 |
-| [CH](./country/CH.txt) | Switzerland | 2,672 | 23,403,632 |
+| [CH](./country/CH.txt) | Switzerland | 2,672 | 23,404,656 |
 | [CI](./country/CI.txt) | Côte d'Ivoire | 232 | 1,717,760 |
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
 | [CL](./country/CL.txt) | Chile | 633 | 10,038,272 |
@@ -61,10 +61,10 @@
 | [DO](./country/DO.txt) | Dominican Republic | 140 | 1,618,944 |
 | [DZ](./country/DZ.txt) | Algeria | 34 | 4,765,184 |
 | [EC](./country/EC.txt) | Ecuador | 312 | 2,724,096 |
-| [EE](./country/EE.txt) | Estonia | 427 | 1,325,352 |
+| [EE](./country/EE.txt) | Estonia | 428 | 1,329,448 |
 | [EG](./country/EG.txt) | Egypt | 175 | 24,150,528 |
 | [ER](./country/ER.txt) | Eritrea | 1 | 4,096 |
-| [ES](./country/ES.txt) | Spain | 3,408 | 32,112,256 |
+| [ES](./country/ES.txt) | Spain | 3,407 | 32,111,232 |
 | [ET](./country/ET.txt) | Ethiopia | 17 | 370,176 |
 | [EU](./country/EU.txt) | unknown | 10 | 333,056 |
 | [FI](./country/FI.txt) | Finland | 989 | 13,864,000 |
@@ -72,9 +72,9 @@
 | [FK](./country/FK.txt) | Falkland Islands (Malvinas) | 7 | 7,168 |
 | [FM](./country/FM.txt) | Micronesia, Federated States of | 5 | 8,704 |
 | [FO](./country/FO.txt) | Faroe Islands | 14 | 45,056 |
-| [FR](./country/FR.txt) | France | 4,108 | 81,738,064 |
+| [FR](./country/FR.txt) | France | 4,109 | 81,737,552 |
 | [GA](./country/GA.txt) | Gabon | 25 | 393,728 |
-| [GB](./country/GB.txt) | United Kingdom | 8,186 | 140,402,688 |
+| [GB](./country/GB.txt) | United Kingdom | 8,187 | 140,402,944 |
 | [GD](./country/GD.txt) | Grenada | 15 | 11,264 |
 | [GE](./country/GE.txt) | Georgia | 314 | 1,311,040 |
 | [GF](./country/GF.txt) | French Guiana | 6 | 22,528 |
@@ -91,22 +91,22 @@
 | [GU](./country/GU.txt) | Guam | 27 | 219,392 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 3 | 5,632 |
 | [GY](./country/GY.txt) | Guyana | 13 | 68,864 |
-| [HK](./country/HK.txt) | Hong Kong | 2,956 | 14,717,504 |
+| [HK](./country/HK.txt) | Hong Kong | 2,959 | 14,787,136 |
 | [HN](./country/HN.txt) | Honduras | 187 | 536,064 |
 | [HR](./country/HR.txt) | Croatia | 261 | 2,350,592 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 645 | 5,921,280 |
-| [ID](./country/ID.txt) | Indonesia | 4,625 | 19,235,584 |
+| [ID](./country/ID.txt) | Indonesia | 4,625 | 19,236,096 |
 | [IE](./country/IE.txt) | Ireland | 735 | 10,404,416 |
 | [IL](./country/IL.txt) | Israel | 755 | 8,045,632 |
 | [IM](./country/IM.txt) | Isle of Man | 72 | 133,376 |
-| [IN](./country/IN.txt) | India | 7,105 | 41,892,096 |
+| [IN](./country/IN.txt) | India | 7,108 | 41,893,376 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 288 | 447,296 |
-| [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,713 | 10,819,584 |
+| [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,714 | 10,819,840 |
 | [IS](./country/IS.txt) | Iceland | 151 | 913,664 |
 | [IT](./country/IT.txt) | Italy | 3,332 | 53,916,032 |
-| [JE](./country/JE.txt) | Jersey | 42 | 145,664 |
+| [JE](./country/JE.txt) | Jersey | 44 | 145,152 |
 | [JM](./country/JM.txt) | Jamaica | 51 | 224,000 |
 | [JO](./country/JO.txt) | Jordan | 127 | 647,936 |
 | [JP](./country/JP.txt) | Japan | 3,171 | 188,679,232 |
@@ -115,21 +115,21 @@
 | [KH](./country/KH.txt) | Cambodia | 274 | 499,456 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
 | [KM](./country/KM.txt) | Comoros | 5 | 7,424 |
-| [KN](./country/KN.txt) | Saint Kitts and Nevis | 17 | 19,968 |
+| [KN](./country/KN.txt) | Saint Kitts and Nevis | 18 | 22,016 |
 | [KP](./country/KP.txt) | Korea, Democratic People's Republic of | 1 | 1,024 |
-| [KR](./country/KR.txt) | Korea, Republic of | 994 | 112,494,336 |
+| [KR](./country/KR.txt) | Korea, Republic of | 995 | 112,494,848 |
 | [KW](./country/KW.txt) | Kuwait | 132 | 1,907,456 |
 | [KY](./country/KY.txt) | Cayman Islands | 32 | 86,272 |
 | [KZ](./country/KZ.txt) | Kazakhstan | 578 | 3,326,976 |
 | [LA](./country/LA.txt) | Lao People's Democratic Republic | 61 | 90,688 |
-| [LB](./country/LB.txt) | Lebanon | 229 | 569,728 |
+| [LB](./country/LB.txt) | Lebanon | 228 | 568,704 |
 | [LC](./country/LC.txt) | Saint Lucia | 21 | 22,016 |
 | [LI](./country/LI.txt) | Liechtenstein | 62 | 104,704 |
 | [LK](./country/LK.txt) | Sri Lanka | 69 | 563,968 |
 | [LR](./country/LR.txt) | Liberia | 20 | 40,192 |
 | [LS](./country/LS.txt) | Lesotho | 20 | 121,344 |
 | [LT](./country/LT.txt) | Lithuania | 885 | 3,718,656 |
-| [LU](./country/LU.txt) | Luxembourg | 538 | 1,858,048 |
+| [LU](./country/LU.txt) | Luxembourg | 541 | 1,859,584 |
 | [LV](./country/LV.txt) | Latvia | 431 | 1,851,392 |
 | [LY](./country/LY.txt) | Libya | 70 | 459,008 |
 | [MA](./country/MA.txt) | Morocco | 77 | 12,273,920 |
@@ -159,9 +159,9 @@
 | [NC](./country/NC.txt) | New Caledonia | 42 | 161,536 |
 | [NE](./country/NE.txt) | Niger | 12 | 45,056 |
 | [NF](./country/NF.txt) | Norfolk Island | 2 | 768 |
-| [NG](./country/NG.txt) | Nigeria | 385 | 3,197,696 |
+| [NG](./country/NG.txt) | Nigeria | 386 | 3,198,720 |
 | [NI](./country/NI.txt) | Nicaragua | 49 | 411,136 |
-| [NL](./country/NL.txt) | Netherlands | 5,655 | 47,826,656 |
+| [NL](./country/NL.txt) | Netherlands | 5,653 | 47,829,216 |
 | [NO](./country/NO.txt) | Norway | 1,225 | 15,602,448 |
 | [NP](./country/NP.txt) | Nepal | 267 | 583,168 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
@@ -173,7 +173,7 @@
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 62 | 66,560 |
 | [PH](./country/PH.txt) | Philippines | 802 | 6,248,448 |
-| [PK](./country/PK.txt) | Pakistan | 717 | 5,441,536 |
+| [PK](./country/PK.txt) | Pakistan | 718 | 5,449,728 |
 | [PL](./country/PL.txt) | Poland | 3,932 | 19,990,792 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 208 | 773,120 |
@@ -183,13 +183,13 @@
 | [PY](./country/PY.txt) | Paraguay | 140 | 1,153,536 |
 | [QA](./country/QA.txt) | Qatar | 45 | 846,464 |
 | [RE](./country/RE.txt) | Réunion | 23 | 408,832 |
-| [RO](./country/RO.txt) | Romania | 2,432 | 7,836,288 |
+| [RO](./country/RO.txt) | Romania | 2,430 | 7,835,776 |
 | [RS](./country/RS.txt) | Serbia | 384 | 2,307,584 |
-| [RU](./country/RU.txt) | Russian Federation | 8,587 | 45,048,128 |
+| [RU](./country/RU.txt) | Russian Federation | 8,586 | 45,047,872 |
 | [RW](./country/RW.txt) | Rwanda | 29 | 280,832 |
 | [SA](./country/SA.txt) | Saudi Arabia | 578 | 10,964,800 |
 | [SB](./country/SB.txt) | Solomon Islands | 12 | 14,336 |
-| [SC](./country/SC.txt) | Seychelles | 793 | 8,787,456 |
+| [SC](./country/SC.txt) | Seychelles | 788 | 8,784,640 |
 | [SD](./country/SD.txt) | Sudan | 34 | 1,891,072 |
 | [SE](./country/SE.txt) | Sweden | 1,981 | 31,367,456 |
 | [SG](./country/SG.txt) | Singapore | 1,710 | 27,403,264 |
@@ -216,14 +216,14 @@
 | [TM](./country/TM.txt) | Turkmenistan | 11 | 22,336 |
 | [TN](./country/TN.txt) | Tunisia | 43 | 7,876,608 |
 | [TO](./country/TO.txt) | Tonga | 11 | 11,520 |
-| [TR](./country/TR.txt) | Turkey | 1,570 | 16,791,168 |
+| [TR](./country/TR.txt) | Turkey | 1,571 | 16,791,424 |
 | [TT](./country/TT.txt) | Trinidad and Tobago | 51 | 545,024 |
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
-| [TW](./country/TW.txt) | Taiwan, Province of China | 721 | 35,721,984 |
+| [TW](./country/TW.txt) | Taiwan, Province of China | 722 | 35,722,496 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 189 | 1,094,400 |
 | [UA](./country/UA.txt) | Ukraine | 2,661 | 9,104,896 |
 | [UG](./country/UG.txt) | Uganda | 103 | 1,422,848 |
-| [US](./country/US.txt) | United States | 29,358 | 1,608,627,616 |
+| [US](./country/US.txt) | United States | 29,354 | 1,608,547,232 |
 | [UY](./country/UY.txt) | Uruguay | 58 | 2,516,736 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 162 | 322,816 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
@@ -240,4 +240,4 @@
 | [ZA](./country/ZA.txt) | South Africa | 1,568 | 27,156,736 |
 | [ZM](./country/ZM.txt) | Zambia | 41 | 1,650,944 |
 | [ZW](./country/ZW.txt) | Zimbabwe | 43 | 105,472 |
-| [ZZ](./country/ZZ.txt) | unknown | 563 | 5,226,240 |
+| [ZZ](./country/ZZ.txt) | unknown | 562 | 5,225,216 |
