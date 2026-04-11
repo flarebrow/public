@@ -37,7 +37,7 @@
 | [BW](./country/BW.txt) | Botswana | 53 | 164,096 |
 | [BY](./country/BY.txt) | Belarus | 102 | 1,792,512 |
 | [BZ](./country/BZ.txt) | Belize | 130 | 163,584 |
-| [CA](./country/CA.txt) | Canada | 6,258 | 67,636,224 |
+| [CA](./country/CA.txt) | Canada | 6,259 | 67,638,272 |
 | [CD](./country/CD.txt) | Congo, The Democratic Republic of the | 84 | 182,016 |
 | [CF](./country/CF.txt) | Central African Republic | 5 | 5,632 |
 | [CG](./country/CG.txt) | Congo | 21 | 141,824 |
@@ -72,7 +72,7 @@
 | [FK](./country/FK.txt) | Falkland Islands (Malvinas) | 7 | 7,168 |
 | [FM](./country/FM.txt) | Micronesia, Federated States of | 5 | 8,704 |
 | [FO](./country/FO.txt) | Faroe Islands | 14 | 45,056 |
-| [FR](./country/FR.txt) | France | 4,109 | 81,731,408 |
+| [FR](./country/FR.txt) | France | 4,110 | 81,731,664 |
 | [GA](./country/GA.txt) | Gabon | 25 | 393,728 |
 | [GB](./country/GB.txt) | United Kingdom | 8,186 | 140,401,664 |
 | [GD](./country/GD.txt) | Grenada | 15 | 11,264 |
@@ -96,7 +96,7 @@
 | [HR](./country/HR.txt) | Croatia | 261 | 2,350,592 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 645 | 5,921,280 |
-| [ID](./country/ID.txt) | Indonesia | 4,631 | 19,238,144 |
+| [ID](./country/ID.txt) | Indonesia | 4,632 | 19,238,656 |
 | [IE](./country/IE.txt) | Ireland | 736 | 10,404,928 |
 | [IL](./country/IL.txt) | Israel | 756 | 8,045,888 |
 | [IM](./country/IM.txt) | Isle of Man | 72 | 133,376 |
@@ -152,17 +152,17 @@
 | [MU](./country/MU.txt) | Mauritius | 104 | 3,697,920 |
 | [MV](./country/MV.txt) | Maldives | 45 | 93,952 |
 | [MW](./country/MW.txt) | Malawi | 51 | 556,544 |
-| [MX](./country/MX.txt) | Mexico | 796 | 28,953,088 |
+| [MX](./country/MX.txt) | Mexico | 798 | 28,955,136 |
 | [MY](./country/MY.txt) | Malaysia | 789 | 6,703,360 |
 | [MZ](./country/MZ.txt) | Mozambique | 54 | 446,720 |
 | [NA](./country/NA.txt) | Namibia | 43 | 484,864 |
 | [NC](./country/NC.txt) | New Caledonia | 42 | 161,536 |
 | [NE](./country/NE.txt) | Niger | 12 | 45,056 |
 | [NF](./country/NF.txt) | Norfolk Island | 2 | 768 |
-| [NG](./country/NG.txt) | Nigeria | 387 | 3,199,744 |
+| [NG](./country/NG.txt) | Nigeria | 388 | 3,200,000 |
 | [NI](./country/NI.txt) | Nicaragua | 49 | 411,136 |
 | [NL](./country/NL.txt) | Netherlands | 5,658 | 47,829,216 |
-| [NO](./country/NO.txt) | Norway | 1,227 | 15,602,960 |
+| [NO](./country/NO.txt) | Norway | 1,226 | 15,602,704 |
 | [NP](./country/NP.txt) | Nepal | 267 | 583,168 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
@@ -192,7 +192,7 @@
 | [SC](./country/SC.txt) | Seychelles | 787 | 8,784,384 |
 | [SD](./country/SD.txt) | Sudan | 34 | 1,891,072 |
 | [SE](./country/SE.txt) | Sweden | 1,981 | 31,365,920 |
-| [SG](./country/SG.txt) | Singapore | 1,714 | 27,405,312 |
+| [SG](./country/SG.txt) | Singapore | 1,716 | 27,405,824 |
 | [SI](./country/SI.txt) | Slovenia | 530 | 2,679,552 |
 | [SK](./country/SK.txt) | Slovakia | 413 | 2,687,488 |
 | [SL](./country/SL.txt) | Sierra Leone | 30 | 85,760 |
@@ -223,7 +223,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 190 | 1,094,656 |
 | [UA](./country/UA.txt) | Ukraine | 2,659 | 9,101,824 |
 | [UG](./country/UG.txt) | Uganda | 103 | 1,422,848 |
-| [US](./country/US.txt) | United States | 29,363 | 1,608,445,856 |
+| [US](./country/US.txt) | United States | 29,364 | 1,608,443,296 |
 | [UY](./country/UY.txt) | Uruguay | 58 | 2,516,736 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 162 | 322,816 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
@@ -237,7 +237,7 @@
 | [WS](./country/WS.txt) | Samoa | 15 | 19,712 |
 | [YE](./country/YE.txt) | Yemen | 29 | 233,472 |
 | [YT](./country/YT.txt) | Mayotte | 1 | 1,024 |
-| [ZA](./country/ZA.txt) | South Africa | 1,568 | 27,156,736 |
+| [ZA](./country/ZA.txt) | South Africa | 1,569 | 27,158,784 |
 | [ZM](./country/ZM.txt) | Zambia | 41 | 1,650,944 |
 | [ZW](./country/ZW.txt) | Zimbabwe | 43 | 105,472 |
-| [ZZ](./country/ZZ.txt) | unknown | 560 | 5,222,656 |
+| [ZZ](./country/ZZ.txt) | unknown | 559 | 5,220,352 |
