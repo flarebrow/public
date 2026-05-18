@@ -14,7 +14,7 @@
 | [AR](./country/AR.txt) | Argentina | 1,600 | 19,434,240 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,897 | 11,129,184 |
-| [AU](./country/AU.txt) | Australia | 5,650 | 46,098,688 |
+| [AU](./country/AU.txt) | Australia | 5,648 | 46,097,664 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 182 | 771,584 |
@@ -113,7 +113,7 @@
 | [JP](./country/JP.txt) | Japan | 3,187 | 188,675,904 |
 | [KE](./country/KE.txt) | Kenya | 348 | 6,235,648 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 111 | 285,952 |
-| [KH](./country/KH.txt) | Cambodia | 274 | 499,456 |
+| [KH](./country/KH.txt) | Cambodia | 272 | 497,920 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
 | [KM](./country/KM.txt) | Comoros | 5 | 7,424 |
 | [KN](./country/KN.txt) | Saint Kitts and Nevis | 18 | 22,016 |
@@ -173,7 +173,7 @@
 | [PE](./country/PE.txt) | Peru | 232 | 3,249,920 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 63 | 67,072 |
-| [PH](./country/PH.txt) | Philippines | 813 | 6,259,968 |
+| [PH](./country/PH.txt) | Philippines | 812 | 6,259,456 |
 | [PK](./country/PK.txt) | Pakistan | 720 | 5,522,176 |
 | [PL](./country/PL.txt) | Poland | 3,938 | 19,994,632 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
