@@ -89,7 +89,7 @@
 | [GQ](./country/GQ.txt) | Equatorial Guinea | 10 | 17,920 |
 | [GR](./country/GR.txt) | Greece | 440 | 5,782,656 |
 | [GT](./country/GT.txt) | Guatemala | 136 | 651,008 |
-| [GU](./country/GU.txt) | Guam | 27 | 219,392 |
+| [GU](./country/GU.txt) | Guam | 27 | 218,624 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 3 | 5,632 |
 | [GY](./country/GY.txt) | Guyana | 13 | 68,864 |
 | [HK](./country/HK.txt) | Hong Kong | 3,010 | 15,442,752 |
@@ -113,7 +113,7 @@
 | [JP](./country/JP.txt) | Japan | 3,187 | 188,675,904 |
 | [KE](./country/KE.txt) | Kenya | 347 | 6,235,392 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 111 | 285,952 |
-| [KH](./country/KH.txt) | Cambodia | 272 | 497,920 |
+| [KH](./country/KH.txt) | Cambodia | 273 | 498,432 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
 | [KM](./country/KM.txt) | Comoros | 5 | 7,424 |
 | [KN](./country/KN.txt) | Saint Kitts and Nevis | 19 | 23,040 |
@@ -145,7 +145,7 @@
 | [MM](./country/MM.txt) | Myanmar | 232 | 245,504 |
 | [MN](./country/MN.txt) | Mongolia | 132 | 180,992 |
 | [MO](./country/MO.txt) | Macao | 31 | 339,712 |
-| [MP](./country/MP.txt) | Northern Mariana Islands | 5 | 15,360 |
+| [MP](./country/MP.txt) | Northern Mariana Islands | 7 | 16,128 |
 | [MQ](./country/MQ.txt) | Martinique | 21 | 134,656 |
 | [MR](./country/MR.txt) | Mauritania | 17 | 50,432 |
 | [MS](./country/MS.txt) | Montserrat | 2 | 1,280 |
@@ -173,7 +173,7 @@
 | [PE](./country/PE.txt) | Peru | 232 | 3,249,920 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 63 | 67,072 |
-| [PH](./country/PH.txt) | Philippines | 814 | 6,260,736 |
+| [PH](./country/PH.txt) | Philippines | 812 | 6,259,456 |
 | [PK](./country/PK.txt) | Pakistan | 726 | 5,522,944 |
 | [PL](./country/PL.txt) | Poland | 3,939 | 19,995,656 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
@@ -210,7 +210,7 @@
 | [TC](./country/TC.txt) | Turks and Caicos Islands | 7 | 10,496 |
 | [TD](./country/TD.txt) | Chad | 20 | 25,856 |
 | [TG](./country/TG.txt) | Togo | 17 | 354,816 |
-| [TH](./country/TH.txt) | Thailand | 652 | 9,224,704 |
+| [TH](./country/TH.txt) | Thailand | 654 | 9,225,984 |
 | [TJ](./country/TJ.txt) | Tajikistan | 57 | 85,056 |
 | [TK](./country/TK.txt) | Tokelau | 3 | 3,072 |
 | [TL](./country/TL.txt) | Timor-Leste | 38 | 28,672 |
@@ -232,7 +232,7 @@
 | [VE](./country/VE.txt) | Venezuela, Bolivarian Republic of | 217 | 6,706,944 |
 | [VG](./country/VG.txt) | Virgin Islands, British | 207 | 259,840 |
 | [VI](./country/VI.txt) | Virgin Islands, U.S. | 24 | 130,304 |
-| [VN](./country/VN.txt) | Viet Nam | 1,254 | 16,491,264 |
+| [VN](./country/VN.txt) | Viet Nam | 1,255 | 16,491,776 |
 | [VU](./country/VU.txt) | Vanuatu | 20 | 16,384 |
 | [WF](./country/WF.txt) | Wallis and Futuna | 3 | 3,584 |
 | [WS](./country/WS.txt) | Samoa | 16 | 19,968 |
