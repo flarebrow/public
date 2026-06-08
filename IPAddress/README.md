@@ -14,13 +14,13 @@
 | [AR](./country/AR.txt) | Argentina | 1,600 | 19,433,984 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,899 | 11,130,976 |
-| [AU](./country/AU.txt) | Australia | 5,648 | 46,086,912 |
+| [AU](./country/AU.txt) | Australia | 5,649 | 46,087,424 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 184 | 772,352 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 158 | 794,624 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,123 | 2,075,968 |
+| [BD](./country/BD.txt) | Bangladesh | 2,126 | 2,077,504 |
 | [BE](./country/BE.txt) | Belgium | 923 | 12,329,088 |
 | [BF](./country/BF.txt) | Burkina Faso | 51 | 339,200 |
 | [BG](./country/BG.txt) | Bulgaria | 1,343 | 4,340,544 |
@@ -97,7 +97,7 @@
 | [HR](./country/HR.txt) | Croatia | 260 | 2,349,568 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 652 | 5,925,120 |
-| [ID](./country/ID.txt) | Indonesia | 4,660 | 19,291,136 |
+| [ID](./country/ID.txt) | Indonesia | 4,661 | 19,291,392 |
 | [IE](./country/IE.txt) | Ireland | 725 | 10,358,080 |
 | [IL](./country/IL.txt) | Israel | 759 | 8,017,280 |
 | [IM](./country/IM.txt) | Isle of Man | 73 | 134,400 |
@@ -110,7 +110,7 @@
 | [JE](./country/JE.txt) | Jersey | 45 | 147,200 |
 | [JM](./country/JM.txt) | Jamaica | 51 | 224,000 |
 | [JO](./country/JO.txt) | Jordan | 127 | 647,936 |
-| [JP](./country/JP.txt) | Japan | 3,189 | 188,676,928 |
+| [JP](./country/JP.txt) | Japan | 3,191 | 188,689,216 |
 | [KE](./country/KE.txt) | Kenya | 349 | 6,236,160 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 111 | 285,952 |
 | [KH](./country/KH.txt) | Cambodia | 273 | 498,432 |
@@ -210,7 +210,7 @@
 | [TC](./country/TC.txt) | Turks and Caicos Islands | 7 | 10,496 |
 | [TD](./country/TD.txt) | Chad | 20 | 25,856 |
 | [TG](./country/TG.txt) | Togo | 17 | 354,816 |
-| [TH](./country/TH.txt) | Thailand | 657 | 9,292,032 |
+| [TH](./country/TH.txt) | Thailand | 656 | 9,291,776 |
 | [TJ](./country/TJ.txt) | Tajikistan | 57 | 85,056 |
 | [TK](./country/TK.txt) | Tokelau | 3 | 3,072 |
 | [TL](./country/TL.txt) | Timor-Leste | 38 | 28,672 |
