@@ -38,7 +38,7 @@
 | [BW](./country/BW.txt) | Botswana | 55 | 165,120 |
 | [BY](./country/BY.txt) | Belarus | 104 | 1,793,024 |
 | [BZ](./country/BZ.txt) | Belize | 130 | 163,584 |
-| [CA](./country/CA.txt) | Canada | 6,272 | 67,699,456 |
+| [CA](./country/CA.txt) | Canada | 6,272 | 67,698,432 |
 | [CD](./country/CD.txt) | Congo, The Democratic Republic of the | 84 | 182,016 |
 | [CF](./country/CF.txt) | Central African Republic | 5 | 5,632 |
 | [CG](./country/CG.txt) | Congo | 21 | 141,824 |
@@ -120,7 +120,7 @@
 | [KP](./country/KP.txt) | Korea, Democratic People's Republic of | 1 | 1,024 |
 | [KR](./country/KR.txt) | Korea, Republic of | 999 | 112,498,176 |
 | [KW](./country/KW.txt) | Kuwait | 132 | 1,907,456 |
-| [KY](./country/KY.txt) | Cayman Islands | 31 | 84,224 |
+| [KY](./country/KY.txt) | Cayman Islands | 32 | 86,272 |
 | [KZ](./country/KZ.txt) | Kazakhstan | 591 | 3,341,568 |
 | [LA](./country/LA.txt) | Lao People's Democratic Republic | 62 | 98,880 |
 | [LB](./country/LB.txt) | Lebanon | 228 | 568,704 |
@@ -210,7 +210,7 @@
 | [TC](./country/TC.txt) | Turks and Caicos Islands | 7 | 10,496 |
 | [TD](./country/TD.txt) | Chad | 20 | 25,856 |
 | [TG](./country/TG.txt) | Togo | 17 | 354,816 |
-| [TH](./country/TH.txt) | Thailand | 659 | 9,324,800 |
+| [TH](./country/TH.txt) | Thailand | 660 | 9,325,056 |
 | [TJ](./country/TJ.txt) | Tajikistan | 57 | 85,056 |
 | [TK](./country/TK.txt) | Tokelau | 3 | 3,072 |
 | [TL](./country/TL.txt) | Timor-Leste | 38 | 28,672 |
@@ -224,7 +224,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 196 | 1,100,800 |
 | [UA](./country/UA.txt) | Ukraine | 2,657 | 9,101,312 |
 | [UG](./country/UG.txt) | Uganda | 104 | 1,423,360 |
-| [US](./country/US.txt) | United States | 29,395 | 1,607,123,104 |
+| [US](./country/US.txt) | United States | 29,399 | 1,607,124,896 |
 | [UY](./country/UY.txt) | Uruguay | 58 | 2,516,736 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 162 | 322,816 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
