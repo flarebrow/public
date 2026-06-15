@@ -92,16 +92,16 @@
 | [GU](./country/GU.txt) | Guam | 27 | 218,624 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 3 | 5,632 |
 | [GY](./country/GY.txt) | Guyana | 13 | 68,864 |
-| [HK](./country/HK.txt) | Hong Kong | 3,010 | 15,508,032 |
+| [HK](./country/HK.txt) | Hong Kong | 3,011 | 15,509,056 |
 | [HN](./country/HN.txt) | Honduras | 187 | 536,064 |
 | [HR](./country/HR.txt) | Croatia | 260 | 2,349,568 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 653 | 5,925,632 |
-| [ID](./country/ID.txt) | Indonesia | 4,664 | 19,292,672 |
-| [IE](./country/IE.txt) | Ireland | 723 | 10,325,312 |
+| [ID](./country/ID.txt) | Indonesia | 4,664 | 19,292,928 |
+| [IE](./country/IE.txt) | Ireland | 722 | 10,324,288 |
 | [IL](./country/IL.txt) | Israel | 761 | 8,018,048 |
 | [IM](./country/IM.txt) | Isle of Man | 73 | 134,400 |
-| [IN](./country/IN.txt) | India | 7,145 | 41,931,520 |
+| [IN](./country/IN.txt) | India | 7,150 | 41,952,000 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 286 | 444,224 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,719 | 10,821,376 |
@@ -167,7 +167,7 @@
 | [NP](./country/NP.txt) | Nepal | 270 | 584,192 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
-| [NZ](./country/NZ.txt) | New Zealand | 1,275 | 6,532,864 |
+| [NZ](./country/NZ.txt) | New Zealand | 1,274 | 6,532,608 |
 | [OM](./country/OM.txt) | Oman | 76 | 951,552 |
 | [PA](./country/PA.txt) | Panama | 160 | 2,129,408 |
 | [PE](./country/PE.txt) | Peru | 232 | 3,249,920 |
@@ -224,7 +224,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 196 | 1,100,800 |
 | [UA](./country/UA.txt) | Ukraine | 2,657 | 9,101,312 |
 | [UG](./country/UG.txt) | Uganda | 104 | 1,423,360 |
-| [US](./country/US.txt) | United States | 29,399 | 1,607,124,896 |
+| [US](./country/US.txt) | United States | 29,399 | 1,607,125,920 |
 | [UY](./country/UY.txt) | Uruguay | 58 | 2,516,736 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 162 | 322,816 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
