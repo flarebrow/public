@@ -4490,7 +4490,12 @@ allow from 219.192.0.0/12
 allow from 219.208.0.0/13
 allow from 220.0.0.0/11
 allow from 220.32.0.0/14
-allow from 220.38.0.0/16
+allow from 220.38.0.0/18
+allow from 220.38.64.0/19
+allow from 220.38.96.0/21
+allow from 220.38.104.0/21
+allow from 220.38.112.0/20
+allow from 220.38.128.0/17
 allow from 220.39.0.0/16
 allow from 220.40.0.0/15
 allow from 220.44.0.0/14
