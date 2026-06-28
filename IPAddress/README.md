@@ -220,11 +220,11 @@
 | [TR](./country/TR.txt) | Turkey | 1,604 | 16,816,256 |
 | [TT](./country/TT.txt) | Trinidad and Tobago | 52 | 544,000 |
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
-| [TW](./country/TW.txt) | Taiwan, Province of China | 727 | 35,739,904 |
+| [TW](./country/TW.txt) | Taiwan, Province of China | 728 | 35,740,160 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 196 | 1,100,800 |
 | [UA](./country/UA.txt) | Ukraine | 2,656 | 9,100,544 |
 | [UG](./country/UG.txt) | Uganda | 106 | 1,424,384 |
-| [US](./country/US.txt) | United States | 29,354 | 1,606,316,448 |
+| [US](./country/US.txt) | United States | 29,353 | 1,606,316,192 |
 | [UY](./country/UY.txt) | Uruguay | 58 | 2,516,736 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 165 | 324,352 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
