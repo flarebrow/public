@@ -20,7 +20,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 183 | 772,096 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 158 | 794,624 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,126 | 2,077,504 |
+| [BD](./country/BD.txt) | Bangladesh | 2,127 | 2,078,016 |
 | [BE](./country/BE.txt) | Belgium | 922 | 12,323,712 |
 | [BF](./country/BF.txt) | Burkina Faso | 51 | 339,200 |
 | [BG](./country/BG.txt) | Bulgaria | 1,345 | 4,341,312 |
@@ -101,7 +101,7 @@
 | [IE](./country/IE.txt) | Ireland | 722 | 10,324,032 |
 | [IL](./country/IL.txt) | Israel | 767 | 8,018,304 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
-| [IN](./country/IN.txt) | India | 7,154 | 41,955,072 |
+| [IN](./country/IN.txt) | India | 7,155 | 41,955,584 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 283 | 446,272 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,726 | 10,823,168 |
