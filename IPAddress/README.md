@@ -75,7 +75,7 @@
 | [FO](./country/FO.txt) | Faroe Islands | 14 | 45,056 |
 | [FR](./country/FR.txt) | France | 4,147 | 81,686,096 |
 | [GA](./country/GA.txt) | Gabon | 25 | 393,728 |
-| [GB](./country/GB.txt) | United Kingdom | 8,191 | 139,161,856 |
+| [GB](./country/GB.txt) | United Kingdom | 8,194 | 139,178,752 |
 | [GD](./country/GD.txt) | Grenada | 15 | 11,264 |
 | [GE](./country/GE.txt) | Georgia | 315 | 1,310,528 |
 | [GF](./country/GF.txt) | French Guiana | 6 | 22,528 |
@@ -101,7 +101,7 @@
 | [IE](./country/IE.txt) | Ireland | 722 | 10,319,936 |
 | [IL](./country/IL.txt) | Israel | 768 | 8,019,328 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
-| [IN](./country/IN.txt) | India | 7,158 | 41,956,864 |
+| [IN](./country/IN.txt) | India | 7,159 | 41,957,120 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 283 | 446,272 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,730 | 10,824,704 |
@@ -131,7 +131,7 @@
 | [LS](./country/LS.txt) | Lesotho | 20 | 121,344 |
 | [LT](./country/LT.txt) | Lithuania | 956 | 4,112,128 |
 | [LU](./country/LU.txt) | Luxembourg | 541 | 1,858,048 |
-| [LV](./country/LV.txt) | Latvia | 433 | 1,852,416 |
+| [LV](./country/LV.txt) | Latvia | 432 | 1,851,392 |
 | [LY](./country/LY.txt) | Libya | 71 | 460,032 |
 | [MA](./country/MA.txt) | Morocco | 78 | 12,274,176 |
 | [MC](./country/MC.txt) | Monaco | 28 | 65,792 |
@@ -162,7 +162,7 @@
 | [NF](./country/NF.txt) | Norfolk Island | 2 | 768 |
 | [NG](./country/NG.txt) | Nigeria | 398 | 3,206,912 |
 | [NI](./country/NI.txt) | Nicaragua | 49 | 411,136 |
-| [NL](./country/NL.txt) | Netherlands | 5,670 | 47,840,800 |
+| [NL](./country/NL.txt) | Netherlands | 5,669 | 47,824,416 |
 | [NO](./country/NO.txt) | Norway | 1,233 | 15,611,664 |
 | [NP](./country/NP.txt) | Nepal | 269 | 583,680 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
@@ -175,7 +175,7 @@
 | [PG](./country/PG.txt) | Papua New Guinea | 63 | 67,072 |
 | [PH](./country/PH.txt) | Philippines | 818 | 6,261,760 |
 | [PK](./country/PK.txt) | Pakistan | 726 | 5,521,920 |
-| [PL](./country/PL.txt) | Poland | 3,946 | 20,029,704 |
+| [PL](./country/PL.txt) | Poland | 3,945 | 20,030,216 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 210 | 773,632 |
 | [PS](./country/PS.txt) | Palestine, State of | 245 | 876,032 |
