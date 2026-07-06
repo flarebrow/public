@@ -14,13 +14,13 @@
 | [AR](./country/AR.txt) | Argentina | 1,602 | 19,433,216 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,899 | 11,131,488 |
-| [AU](./country/AU.txt) | Australia | 5,658 | 46,093,824 |
+| [AU](./country/AU.txt) | Australia | 5,659 | 46,093,568 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 183 | 772,096 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 159 | 794,880 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,129 | 2,078,784 |
+| [BD](./country/BD.txt) | Bangladesh | 2,130 | 2,079,296 |
 | [BE](./country/BE.txt) | Belgium | 920 | 12,310,656 |
 | [BF](./country/BF.txt) | Burkina Faso | 51 | 339,200 |
 | [BG](./country/BG.txt) | Bulgaria | 1,344 | 4,340,800 |
@@ -97,11 +97,11 @@
 | [HR](./country/HR.txt) | Croatia | 261 | 2,350,592 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,926,400 |
-| [ID](./country/ID.txt) | Indonesia | 4,679 | 19,300,096 |
+| [ID](./country/ID.txt) | Indonesia | 4,680 | 19,300,352 |
 | [IE](./country/IE.txt) | Ireland | 722 | 10,319,936 |
 | [IL](./country/IL.txt) | Israel | 768 | 8,019,328 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
-| [IN](./country/IN.txt) | India | 7,159 | 41,957,120 |
+| [IN](./country/IN.txt) | India | 7,158 | 41,956,864 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 283 | 446,272 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,730 | 10,824,704 |
@@ -151,7 +151,7 @@
 | [MS](./country/MS.txt) | Montserrat | 2 | 1,280 |
 | [MT](./country/MT.txt) | Malta | 123 | 679,552 |
 | [MU](./country/MU.txt) | Mauritius | 105 | 3,698,944 |
-| [MV](./country/MV.txt) | Maldives | 45 | 93,952 |
+| [MV](./country/MV.txt) | Maldives | 43 | 93,440 |
 | [MW](./country/MW.txt) | Malawi | 51 | 556,544 |
 | [MX](./country/MX.txt) | Mexico | 799 | 28,958,464 |
 | [MY](./country/MY.txt) | Malaysia | 789 | 6,700,288 |
@@ -193,7 +193,7 @@
 | [SC](./country/SC.txt) | Seychelles | 794 | 8,933,376 |
 | [SD](./country/SD.txt) | Sudan | 34 | 1,891,072 |
 | [SE](./country/SE.txt) | Sweden | 1,990 | 31,016,224 |
-| [SG](./country/SG.txt) | Singapore | 1,740 | 27,820,800 |
+| [SG](./country/SG.txt) | Singapore | 1,741 | 27,821,056 |
 | [SI](./country/SI.txt) | Slovenia | 533 | 2,683,904 |
 | [SK](./country/SK.txt) | Slovakia | 414 | 2,687,744 |
 | [SL](./country/SL.txt) | Sierra Leone | 30 | 85,760 |
