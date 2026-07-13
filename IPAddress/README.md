@@ -92,16 +92,16 @@
 | [GU](./country/GU.txt) | Guam | 27 | 218,624 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 3 | 5,632 |
 | [GY](./country/GY.txt) | Guyana | 14 | 69,888 |
-| [HK](./country/HK.txt) | Hong Kong | 3,056 | 15,834,176 |
+| [HK](./country/HK.txt) | Hong Kong | 3,057 | 15,834,688 |
 | [HN](./country/HN.txt) | Honduras | 187 | 536,064 |
 | [HR](./country/HR.txt) | Croatia | 262 | 2,351,872 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,926,400 |
-| [ID](./country/ID.txt) | Indonesia | 4,681 | 19,300,608 |
+| [ID](./country/ID.txt) | Indonesia | 4,683 | 19,301,632 |
 | [IE](./country/IE.txt) | Ireland | 722 | 10,319,936 |
 | [IL](./country/IL.txt) | Israel | 769 | 8,019,584 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
-| [IN](./country/IN.txt) | India | 7,160 | 41,958,144 |
+| [IN](./country/IN.txt) | India | 7,161 | 41,958,656 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 283 | 446,272 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,734 | 10,827,520 |
@@ -113,7 +113,7 @@
 | [JP](./country/JP.txt) | Japan | 3,196 | 188,691,264 |
 | [KE](./country/KE.txt) | Kenya | 355 | 6,241,536 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 116 | 294,144 |
-| [KH](./country/KH.txt) | Cambodia | 273 | 498,432 |
+| [KH](./country/KH.txt) | Cambodia | 272 | 498,176 |
 | [KI](./country/KI.txt) | Kiribati | 5 | 4,096 |
 | [KM](./country/KM.txt) | Comoros | 6 | 8,448 |
 | [KN](./country/KN.txt) | Saint Kitts and Nevis | 19 | 23,040 |
@@ -173,7 +173,7 @@
 | [PE](./country/PE.txt) | Peru | 232 | 3,249,920 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 63 | 67,072 |
-| [PH](./country/PH.txt) | Philippines | 820 | 6,262,336 |
+| [PH](./country/PH.txt) | Philippines | 823 | 6,263,616 |
 | [PK](./country/PK.txt) | Pakistan | 727 | 5,522,432 |
 | [PL](./country/PL.txt) | Poland | 3,945 | 20,030,216 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
@@ -193,7 +193,7 @@
 | [SC](./country/SC.txt) | Seychelles | 794 | 8,933,376 |
 | [SD](./country/SD.txt) | Sudan | 34 | 1,891,072 |
 | [SE](./country/SE.txt) | Sweden | 1,991 | 31,020,320 |
-| [SG](./country/SG.txt) | Singapore | 1,741 | 27,820,800 |
+| [SG](./country/SG.txt) | Singapore | 1,740 | 27,820,544 |
 | [SI](./country/SI.txt) | Slovenia | 534 | 2,684,160 |
 | [SK](./country/SK.txt) | Slovakia | 414 | 2,687,744 |
 | [SL](./country/SL.txt) | Sierra Leone | 30 | 85,760 |
