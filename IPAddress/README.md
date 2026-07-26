@@ -14,7 +14,7 @@
 | [AR](./country/AR.txt) | Argentina | 1,602 | 19,433,216 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,904 | 11,133,792 |
-| [AU](./country/AU.txt) | Australia | 5,654 | 46,090,752 |
+| [AU](./country/AU.txt) | Australia | 5,655 | 46,091,264 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 185 | 772,608 |
