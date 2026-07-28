@@ -48,14 +48,14 @@
 | [CL](./country/CL.txt) | Chile | 640 | 9,778,944 |
 | [CM](./country/CM.txt) | Cameroon | 59 | 601,856 |
 | [CN](./country/CN.txt) | China | 5,509 | 342,981,888 |
-| [CO](./country/CO.txt) | Colombia | 518 | 17,515,776 |
+| [CO](./country/CO.txt) | Colombia | 519 | 17,516,032 |
 | [CR](./country/CR.txt) | Costa Rica | 171 | 2,334,464 |
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
 | [CV](./country/CV.txt) | Cabo Verde | 23 | 38,144 |
 | [CW](./country/CW.txt) | Curaçao | 44 | 199,680 |
 | [CY](./country/CY.txt) | Cyprus | 539 | 1,365,824 |
 | [CZ](./country/CZ.txt) | Czechia | 1,558 | 9,559,232 |
-| [DE](./country/DE.txt) | Germany | 8,704 | 126,293,120 |
+| [DE](./country/DE.txt) | Germany | 8,705 | 126,293,376 |
 | [DJ](./country/DJ.txt) | Djibouti | 8 | 47,360 |
 | [DK](./country/DK.txt) | Denmark | 1,285 | 12,038,240 |
 | [DM](./country/DM.txt) | Dominica | 13 | 10,496 |
@@ -65,7 +65,7 @@
 | [EE](./country/EE.txt) | Estonia | 456 | 1,366,568 |
 | [EG](./country/EG.txt) | Egypt | 180 | 24,152,832 |
 | [ER](./country/ER.txt) | Eritrea | 1 | 4,096 |
-| [ES](./country/ES.txt) | Spain | 3,416 | 32,095,616 |
+| [ES](./country/ES.txt) | Spain | 3,424 | 32,094,848 |
 | [ET](./country/ET.txt) | Ethiopia | 17 | 370,176 |
 | [EU](./country/EU.txt) | unknown | 10 | 333,056 |
 | [FI](./country/FI.txt) | Finland | 991 | 13,925,696 |
@@ -97,11 +97,11 @@
 | [HR](./country/HR.txt) | Croatia | 267 | 2,354,176 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,926,400 |
-| [ID](./country/ID.txt) | Indonesia | 4,690 | 19,306,752 |
+| [ID](./country/ID.txt) | Indonesia | 4,694 | 19,309,824 |
 | [IE](./country/IE.txt) | Ireland | 722 | 10,317,888 |
 | [IL](./country/IL.txt) | Israel | 771 | 8,020,864 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
-| [IN](./country/IN.txt) | India | 7,164 | 41,960,192 |
+| [IN](./country/IN.txt) | India | 7,165 | 41,960,704 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 283 | 446,272 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,736 | 10,828,800 |
@@ -164,17 +164,17 @@
 | [NI](./country/NI.txt) | Nicaragua | 49 | 411,136 |
 | [NL](./country/NL.txt) | Netherlands | 5,672 | 47,824,672 |
 | [NO](./country/NO.txt) | Norway | 1,235 | 15,616,272 |
-| [NP](./country/NP.txt) | Nepal | 268 | 583,424 |
+| [NP](./country/NP.txt) | Nepal | 269 | 583,680 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
 | [NU](./country/NU.txt) | Niue | 2 | 2,048 |
 | [NZ](./country/NZ.txt) | New Zealand | 1,272 | 6,530,560 |
 | [OM](./country/OM.txt) | Oman | 78 | 951,872 |
 | [PA](./country/PA.txt) | Panama | 158 | 2,187,776 |
-| [PE](./country/PE.txt) | Peru | 232 | 3,249,920 |
+| [PE](./country/PE.txt) | Peru | 233 | 3,250,176 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 63 | 67,072 |
 | [PH](./country/PH.txt) | Philippines | 825 | 6,264,640 |
-| [PK](./country/PK.txt) | Pakistan | 730 | 5,523,968 |
+| [PK](./country/PK.txt) | Pakistan | 731 | 5,524,480 |
 | [PL](./country/PL.txt) | Poland | 3,947 | 20,027,144 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 210 | 773,632 |
@@ -220,11 +220,11 @@
 | [TR](./country/TR.txt) | Turkey | 1,611 | 16,819,840 |
 | [TT](./country/TT.txt) | Trinidad and Tobago | 52 | 544,000 |
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
-| [TW](./country/TW.txt) | Taiwan, Province of China | 728 | 35,740,160 |
+| [TW](./country/TW.txt) | Taiwan, Province of China | 727 | 35,739,136 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 196 | 1,100,800 |
 | [UA](./country/UA.txt) | Ukraine | 2,655 | 9,091,328 |
 | [UG](./country/UG.txt) | Uganda | 107 | 1,424,640 |
-| [US](./country/US.txt) | United States | 29,330 | 1,606,464,672 |
+| [US](./country/US.txt) | United States | 29,334 | 1,606,465,696 |
 | [UY](./country/UY.txt) | Uruguay | 58 | 2,516,736 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 174 | 333,056 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
