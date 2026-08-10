@@ -20,7 +20,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 186 | 772,864 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 159 | 794,880 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,136 | 2,079,808 |
+| [BD](./country/BD.txt) | Bangladesh | 2,138 | 2,081,344 |
 | [BE](./country/BE.txt) | Belgium | 917 | 12,300,160 |
 | [BF](./country/BF.txt) | Burkina Faso | 51 | 339,200 |
 | [BG](./country/BG.txt) | Bulgaria | 1,346 | 4,341,312 |
@@ -47,7 +47,7 @@
 | [CK](./country/CK.txt) | Cook Islands | 2 | 8,704 |
 | [CL](./country/CL.txt) | Chile | 640 | 9,778,944 |
 | [CM](./country/CM.txt) | Cameroon | 59 | 601,856 |
-| [CN](./country/CN.txt) | China | 5,510 | 342,982,400 |
+| [CN](./country/CN.txt) | China | 5,511 | 342,982,912 |
 | [CO](./country/CO.txt) | Colombia | 520 | 17,518,080 |
 | [CR](./country/CR.txt) | Costa Rica | 172 | 2,334,976 |
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
@@ -97,11 +97,11 @@
 | [HR](./country/HR.txt) | Croatia | 267 | 2,354,176 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,926,400 |
-| [ID](./country/ID.txt) | Indonesia | 4,704 | 19,315,712 |
+| [ID](./country/ID.txt) | Indonesia | 4,707 | 19,317,504 |
 | [IE](./country/IE.txt) | Ireland | 719 | 10,113,088 |
 | [IL](./country/IL.txt) | Israel | 775 | 8,035,200 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
-| [IN](./country/IN.txt) | India | 7,165 | 41,961,472 |
+| [IN](./country/IN.txt) | India | 7,166 | 41,961,728 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 282 | 446,016 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,739 | 10,831,872 |
@@ -143,7 +143,7 @@
 | [MK](./country/MK.txt) | North Macedonia | 105 | 684,544 |
 | [ML](./country/ML.txt) | Mali | 27 | 92,672 |
 | [MM](./country/MM.txt) | Myanmar | 231 | 245,248 |
-| [MN](./country/MN.txt) | Mongolia | 132 | 180,992 |
+| [MN](./country/MN.txt) | Mongolia | 133 | 181,504 |
 | [MO](./country/MO.txt) | Macao | 31 | 339,712 |
 | [MP](./country/MP.txt) | Northern Mariana Islands | 7 | 16,128 |
 | [MQ](./country/MQ.txt) | Martinique | 21 | 134,656 |
@@ -220,7 +220,7 @@
 | [TR](./country/TR.txt) | Turkey | 1,609 | 16,819,840 |
 | [TT](./country/TT.txt) | Trinidad and Tobago | 52 | 544,000 |
 | [TV](./country/TV.txt) | Tuvalu | 1 | 8,192 |
-| [TW](./country/TW.txt) | Taiwan, Province of China | 724 | 35,737,856 |
+| [TW](./country/TW.txt) | Taiwan, Province of China | 725 | 35,738,368 |
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 196 | 1,100,800 |
 | [UA](./country/UA.txt) | Ukraine | 2,657 | 9,090,560 |
 | [UG](./country/UG.txt) | Uganda | 108 | 1,425,152 |
