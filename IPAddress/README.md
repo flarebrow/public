@@ -14,7 +14,7 @@
 | [AR](./country/AR.txt) | Argentina | 1,602 | 19,433,984 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,906 | 11,144,800 |
-| [AU](./country/AU.txt) | Australia | 5,664 | 46,092,032 |
+| [AU](./country/AU.txt) | Australia | 5,665 | 46,092,288 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 186 | 772,864 |
@@ -92,12 +92,12 @@
 | [GU](./country/GU.txt) | Guam | 27 | 218,624 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 4 | 6,656 |
 | [GY](./country/GY.txt) | Guyana | 14 | 69,888 |
-| [HK](./country/HK.txt) | Hong Kong | 3,066 | 15,829,824 |
+| [HK](./country/HK.txt) | Hong Kong | 3,065 | 15,829,312 |
 | [HN](./country/HN.txt) | Honduras | 187 | 536,064 |
 | [HR](./country/HR.txt) | Croatia | 270 | 2,355,968 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,922,048 |
-| [ID](./country/ID.txt) | Indonesia | 4,723 | 19,334,400 |
+| [ID](./country/ID.txt) | Indonesia | 4,725 | 19,335,168 |
 | [IE](./country/IE.txt) | Ireland | 713 | 10,088,256 |
 | [IL](./country/IL.txt) | Israel | 777 | 8,047,488 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
