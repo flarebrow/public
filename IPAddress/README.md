@@ -20,7 +20,7 @@
 | [AZ](./country/AZ.txt) | Azerbaijan | 186 | 772,864 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 159 | 794,880 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,149 | 2,086,720 |
+| [BD](./country/BD.txt) | Bangladesh | 2,148 | 2,081,088 |
 | [BE](./country/BE.txt) | Belgium | 920 | 12,303,232 |
 | [BF](./country/BF.txt) | Burkina Faso | 51 | 339,200 |
 | [BG](./country/BG.txt) | Bulgaria | 1,348 | 4,341,568 |
@@ -97,11 +97,11 @@
 | [HR](./country/HR.txt) | Croatia | 270 | 2,355,968 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,922,048 |
-| [ID](./country/ID.txt) | Indonesia | 4,746 | 19,361,024 |
+| [ID](./country/ID.txt) | Indonesia | 4,749 | 19,362,304 |
 | [IE](./country/IE.txt) | Ireland | 715 | 10,087,744 |
 | [IL](./country/IL.txt) | Israel | 778 | 8,048,512 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
-| [IN](./country/IN.txt) | India | 7,188 | 42,004,224 |
+| [IN](./country/IN.txt) | India | 7,187 | 42,003,712 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 283 | 449,088 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,742 | 10,838,272 |
@@ -193,7 +193,7 @@
 | [SC](./country/SC.txt) | Seychelles | 800 | 8,970,496 |
 | [SD](./country/SD.txt) | Sudan | 34 | 1,891,072 |
 | [SE](./country/SE.txt) | Sweden | 2,050 | 31,306,528 |
-| [SG](./country/SG.txt) | Singapore | 1,741 | 27,828,544 |
+| [SG](./country/SG.txt) | Singapore | 1,742 | 27,894,080 |
 | [SI](./country/SI.txt) | Slovenia | 535 | 2,683,136 |
 | [SK](./country/SK.txt) | Slovakia | 413 | 2,684,672 |
 | [SL](./country/SL.txt) | Sierra Leone | 30 | 85,760 |
