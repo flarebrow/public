@@ -32,7 +32,7 @@
 | [BN](./country/BN.txt) | Brunei Darussalam | 35 | 216,064 |
 | [BO](./country/BO.txt) | Bolivia, Plurinational State of | 102 | 1,170,176 |
 | [BQ](./country/BQ.txt) | Bonaire, Sint Eustatius and Saba | 12 | 24,832 |
-| [BR](./country/BR.txt) | Brazil | 4,926 | 79,317,760 |
+| [BR](./country/BR.txt) | Brazil | 4,926 | 79,318,784 |
 | [BS](./country/BS.txt) | Bahamas | 26 | 138,240 |
 | [BT](./country/BT.txt) | Bhutan | 49 | 51,456 |
 | [BW](./country/BW.txt) | Botswana | 56 | 166,144 |
