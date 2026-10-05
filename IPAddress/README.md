@@ -38,7 +38,7 @@
 | [BW](./country/BW.txt) | Botswana | 56 | 166,144 |
 | [BY](./country/BY.txt) | Belarus | 105 | 1,793,536 |
 | [BZ](./country/BZ.txt) | Belize | 61 | 134,656 |
-| [CA](./country/CA.txt) | Canada | 6,440 | 67,889,408 |
+| [CA](./country/CA.txt) | Canada | 6,443 | 67,890,176 |
 | [CD](./country/CD.txt) | Congo, The Democratic Republic of the | 84 | 182,016 |
 | [CF](./country/CF.txt) | Central African Republic | 6 | 6,656 |
 | [CG](./country/CG.txt) | Congo | 21 | 141,824 |
@@ -97,7 +97,7 @@
 | [HR](./country/HR.txt) | Croatia | 271 | 2,356,224 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,922,048 |
-| [ID](./country/ID.txt) | Indonesia | 4,783 | 19,376,384 |
+| [ID](./country/ID.txt) | Indonesia | 4,784 | 19,376,640 |
 | [IE](./country/IE.txt) | Ireland | 713 | 10,022,208 |
 | [IL](./country/IL.txt) | Israel | 780 | 8,051,584 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
@@ -224,7 +224,7 @@
 | [TZ](./country/TZ.txt) | Tanzania, United Republic of | 197 | 1,101,056 |
 | [UA](./country/UA.txt) | Ukraine | 2,659 | 9,090,304 |
 | [UG](./country/UG.txt) | Uganda | 110 | 1,427,200 |
-| [US](./country/US.txt) | United States | 29,668 | 1,606,151,072 |
+| [US](./country/US.txt) | United States | 29,651 | 1,606,161,056 |
 | [UY](./country/UY.txt) | Uruguay | 58 | 2,516,736 |
 | [UZ](./country/UZ.txt) | Uzbekistan | 178 | 334,848 |
 | [VA](./country/VA.txt) | Holy See (Vatican City State) | 4 | 10,752 |
