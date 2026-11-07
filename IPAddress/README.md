@@ -53,7 +53,7 @@
 | [CU](./country/CU.txt) | Cuba | 17 | 257,024 |
 | [CV](./country/CV.txt) | Cabo Verde | 23 | 38,144 |
 | [CW](./country/CW.txt) | Curaçao | 45 | 197,632 |
-| [CY](./country/CY.txt) | Cyprus | 538 | 1,364,800 |
+| [CY](./country/CY.txt) | Cyprus | 539 | 1,365,056 |
 | [CZ](./country/CZ.txt) | Czechia | 1,579 | 9,557,696 |
 | [DE](./country/DE.txt) | Germany | 8,740 | 126,368,384 |
 | [DJ](./country/DJ.txt) | Djibouti | 8 | 47,360 |
@@ -162,7 +162,7 @@
 | [NF](./country/NF.txt) | Norfolk Island | 2 | 768 |
 | [NG](./country/NG.txt) | Nigeria | 405 | 3,217,920 |
 | [NI](./country/NI.txt) | Nicaragua | 49 | 411,136 |
-| [NL](./country/NL.txt) | Netherlands | 5,727 | 47,935,008 |
+| [NL](./country/NL.txt) | Netherlands | 5,726 | 47,934,752 |
 | [NO](./country/NO.txt) | Norway | 1,262 | 15,600,912 |
 | [NP](./country/NP.txt) | Nepal | 271 | 585,216 |
 | [NR](./country/NR.txt) | Nauru | 7 | 10,240 |
@@ -186,11 +186,11 @@
 | [RE](./country/RE.txt) | Réunion | 24 | 409,856 |
 | [RO](./country/RO.txt) | Romania | 2,459 | 7,866,752 |
 | [RS](./country/RS.txt) | Serbia | 388 | 2,315,776 |
-| [RU](./country/RU.txt) | Russian Federation | 8,672 | 45,250,880 |
+| [RU](./country/RU.txt) | Russian Federation | 8,673 | 45,251,136 |
 | [RW](./country/RW.txt) | Rwanda | 33 | 283,392 |
 | [SA](./country/SA.txt) | Saudi Arabia | 592 | 11,237,696 |
 | [SB](./country/SB.txt) | Solomon Islands | 12 | 14,336 |
-| [SC](./country/SC.txt) | Seychelles | 806 | 9,003,008 |
+| [SC](./country/SC.txt) | Seychelles | 808 | 9,002,752 |
 | [SD](./country/SD.txt) | Sudan | 34 | 1,891,072 |
 | [SE](./country/SE.txt) | Sweden | 2,058 | 31,432,992 |
 | [SG](./country/SG.txt) | Singapore | 1,756 | 28,956,736 |
