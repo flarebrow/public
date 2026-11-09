@@ -97,11 +97,11 @@
 | [HR](./country/HR.txt) | Croatia | 271 | 2,356,224 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,922,048 |
-| [ID](./country/ID.txt) | Indonesia | 4,823 | 18,346,240 |
+| [ID](./country/ID.txt) | Indonesia | 4,829 | 18,349,056 |
 | [IE](./country/IE.txt) | Ireland | 714 | 10,010,432 |
 | [IL](./country/IL.txt) | Israel | 782 | 8,052,096 |
 | [IM](./country/IM.txt) | Isle of Man | 75 | 135,680 |
-| [IN](./country/IN.txt) | India | 7,234 | 42,040,832 |
+| [IN](./country/IN.txt) | India | 7,235 | 42,041,344 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 287 | 452,928 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,747 | 10,840,064 |
