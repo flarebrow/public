@@ -14,13 +14,13 @@
 | [AR](./country/AR.txt) | Argentina | 1,605 | 19,433,216 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,913 | 11,184,480 |
-| [AU](./country/AU.txt) | Australia | 5,675 | 46,023,168 |
+| [AU](./country/AU.txt) | Australia | 5,675 | 46,022,656 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 187 | 773,376 |
 | [BA](./country/BA.txt) | Bosnia and Herzegovina | 160 | 795,136 |
 | [BB](./country/BB.txt) | Barbados | 30 | 168,704 |
-| [BD](./country/BD.txt) | Bangladesh | 2,170 | 2,091,328 |
+| [BD](./country/BD.txt) | Bangladesh | 2,171 | 2,091,840 |
 | [BE](./country/BE.txt) | Belgium | 924 | 12,302,720 |
 | [BF](./country/BF.txt) | Burkina Faso | 51 | 339,200 |
 | [BG](./country/BG.txt) | Bulgaria | 1,350 | 4,341,824 |
@@ -92,16 +92,16 @@
 | [GU](./country/GU.txt) | Guam | 27 | 218,624 |
 | [GW](./country/GW.txt) | Guinea-Bissau | 4 | 6,656 |
 | [GY](./country/GY.txt) | Guyana | 13 | 68,864 |
-| [HK](./country/HK.txt) | Hong Kong | 3,070 | 15,999,296 |
+| [HK](./country/HK.txt) | Hong Kong | 3,072 | 16,000,320 |
 | [HN](./country/HN.txt) | Honduras | 188 | 537,088 |
 | [HR](./country/HR.txt) | Croatia | 271 | 2,356,224 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,922,048 |
-| [ID](./country/ID.txt) | Indonesia | 4,835 | 18,351,104 |
+| [ID](./country/ID.txt) | Indonesia | 4,838 | 18,355,712 |
 | [IE](./country/IE.txt) | Ireland | 716 | 10,011,712 |
 | [IL](./country/IL.txt) | Israel | 783 | 8,052,352 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
-| [IN](./country/IN.txt) | India | 7,238 | 42,042,880 |
+| [IN](./country/IN.txt) | India | 7,240 | 42,043,904 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 287 | 452,928 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,747 | 10,840,064 |
@@ -110,7 +110,7 @@
 | [JE](./country/JE.txt) | Jersey | 47 | 156,416 |
 | [JM](./country/JM.txt) | Jamaica | 53 | 225,280 |
 | [JO](./country/JO.txt) | Jordan | 128 | 648,192 |
-| [JP](./country/JP.txt) | Japan | 3,207 | 188,721,984 |
+| [JP](./country/JP.txt) | Japan | 3,208 | 188,724,032 |
 | [KE](./country/KE.txt) | Kenya | 380 | 6,264,320 |
 | [KG](./country/KG.txt) | Kyrgyzstan | 119 | 293,888 |
 | [KH](./country/KH.txt) | Cambodia | 272 | 440,832 |
