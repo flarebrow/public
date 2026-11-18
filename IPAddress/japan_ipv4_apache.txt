@@ -2196,6 +2196,7 @@ allow from 140.81.0.0/16
 allow from 140.227.0.0/16
 allow from 141.164.32.0/19
 allow from 141.178.0.0/16
+allow from 141.229.40.0/23
 allow from 142.91.104.0/21
 allow from 143.90.0.0/16
 allow from 143.94.0.0/16
