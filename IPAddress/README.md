@@ -14,7 +14,7 @@
 | [AR](./country/AR.txt) | Argentina | 1,605 | 19,433,216 |
 | [AS](./country/AS.txt) | American Samoa | 2 | 5,120 |
 | [AT](./country/AT.txt) | Austria | 1,915 | 11,184,992 |
-| [AU](./country/AU.txt) | Australia | 5,675 | 46,022,656 |
+| [AU](./country/AU.txt) | Australia | 5,674 | 46,021,632 |
 | [AW](./country/AW.txt) | Aruba | 12 | 111,872 |
 | [AX](./country/AX.txt) | Åland Islands | 3 | 4,864 |
 | [AZ](./country/AZ.txt) | Azerbaijan | 187 | 773,376 |
@@ -97,11 +97,11 @@
 | [HR](./country/HR.txt) | Croatia | 271 | 2,356,224 |
 | [HT](./country/HT.txt) | Haiti | 21 | 154,880 |
 | [HU](./country/HU.txt) | Hungary | 656 | 5,922,048 |
-| [ID](./country/ID.txt) | Indonesia | 4,847 | 18,359,296 |
+| [ID](./country/ID.txt) | Indonesia | 4,851 | 18,360,576 |
 | [IE](./country/IE.txt) | Ireland | 716 | 10,011,712 |
 | [IL](./country/IL.txt) | Israel | 785 | 8,068,992 |
 | [IM](./country/IM.txt) | Isle of Man | 74 | 134,656 |
-| [IN](./country/IN.txt) | India | 7,244 | 42,046,208 |
+| [IN](./country/IN.txt) | India | 7,245 | 42,047,232 |
 | [IO](./country/IO.txt) | British Indian Ocean Territory | 2 | 3,072 |
 | [IQ](./country/IQ.txt) | Iraq | 287 | 452,928 |
 | [IR](./country/IR.txt) | Iran, Islamic Republic of | 1,749 | 10,840,832 |
@@ -173,8 +173,8 @@
 | [PE](./country/PE.txt) | Peru | 235 | 3,250,688 |
 | [PF](./country/PF.txt) | French Polynesia | 19 | 75,520 |
 | [PG](./country/PG.txt) | Papua New Guinea | 65 | 67,840 |
-| [PH](./country/PH.txt) | Philippines | 845 | 6,268,992 |
-| [PK](./country/PK.txt) | Pakistan | 778 | 5,619,200 |
+| [PH](./country/PH.txt) | Philippines | 846 | 6,270,016 |
+| [PK](./country/PK.txt) | Pakistan | 780 | 5,621,248 |
 | [PL](./country/PL.txt) | Poland | 3,960 | 20,077,512 |
 | [PM](./country/PM.txt) | Saint Pierre and Miquelon | 2 | 4,608 |
 | [PR](./country/PR.txt) | Puerto Rico | 288 | 878,848 |
