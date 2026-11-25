@@ -269,7 +269,6 @@ allow from 36.53.240.0/20
 allow from 36.54.0.0/15
 allow from 36.240.0.0/13
 allow from 36.255.36.0/22
-allow from 36.255.120.0/22
 allow from 36.255.160.0/22
 allow from 36.255.216.0/22
 allow from 36.255.236.0/22
